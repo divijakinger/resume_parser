@@ -12,8 +12,10 @@ from spacy.matcher import Matcher
 import pandas as pd
 
 import Convert_file
+import extract_name_1
+import extract_name_2
 
-file_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\word\1_doc.doc"
+file_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\pdf\5.pdf"
 text = ""
 output_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\output\sample_git.pdf"
 
@@ -72,24 +74,10 @@ matcher = Matcher(nlp.vocab)
 
 def extract_text_from_pdf(pdf_path):
     return extract_text(pdf_path)
-
+resume_text = ""
 # Extracting Name
-def extract_name(resume_text):
-    nlp_text = nlp(resume_text)
-
-    # First name and Last name are always Proper Nouns
-    pattern = [{'POS': 'PROPN'}, {'POS': 'PROPN'}]
-
-    matcher.add('NAME', [pattern])
-
-    matches = matcher(nlp_text)
-
-    for match_id, start, end in matches:
-        span = nlp_text[start:end]
-        if 'name' not in span.text.lower():
-            if span.text == 'Cirriculum Vitae' or span.text == 'Resume' or span.text == 'Curriculam Vitae' or span.text == 'CURRICULUM VITAE' or span.text == 'CIRRICULAM VITAE':
-                continue;
-            return span.text
+extract_name_1.extract_name_possibility_1(resume_text)
+extract_name_2.extract_name_possibility_2(resume_text)
 
 
 
@@ -199,7 +187,8 @@ def extract_education(resume_text):
     return education
 
 
-print("Name: ", extract_name(text))
+print("Name possibility 1: ", extract_name_1.extract_name_possibility_1(text))
+print("Name possibility 2: ", extract_name_2.extract_name_possibility_2(text))
 print("Email: ", extract_email(text))
 print("Mobile Number: ", extract_mobile_number(text))
 print("Education and Year: ", extract_education(resume_text=text))
