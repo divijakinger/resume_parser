@@ -12,6 +12,7 @@ from spacy.matcher import Matcher
 import pandas as pd
 
 import Convert_file
+import extract_mobile_number
 import extract_name_1
 import extract_name_2
 
@@ -79,21 +80,8 @@ resume_text = ""
 extract_name_1.extract_name_possibility_1(resume_text)
 extract_name_2.extract_name_possibility_2(resume_text)
 
-
-
 # Extracting Mobile Number
-def extract_mobile_number(text):
-    phone = re.findall(re.compile(
-        r'(?:(?:\+?([1-9]|[0-9][0-9]|[0-9][0-9][0-9])\s*(?:[.-]\s*)?)?(?:\(\s*([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9])\s*\)|([0-9][1-9]|[0-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9]))\s*(?:[.-]\s*)?)?([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2})\s*(?:[.-]\s*)?([0-9]{4})(?:\s*(?:#|x\.?|ext\.?|extension)\s*(\d+))?'),
-        text)
-
-    if phone:
-        number = ''.join(phone[0])
-        if len(number) >= 10:
-            return '+' + number
-        else:
-            return number
-
+extract_mobile_number.extract_mobile_number(text)
 
 # Extracting Email
 def extract_email(email):
@@ -190,6 +178,6 @@ def extract_education(resume_text):
 print("Name possibility 1: ", extract_name_1.extract_name_possibility_1(text))
 print("Name possibility 2: ", extract_name_2.extract_name_possibility_2(text))
 print("Email: ", extract_email(text))
-print("Mobile Number: ", extract_mobile_number(text))
+print("Mobile Number: ", extract_mobile_number.extract_mobile_number(text))
 print("Education and Year: ", extract_education(resume_text=text))
 print("Skills: ", extract_skills(resume_text=text))
