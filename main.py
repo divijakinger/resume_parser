@@ -70,7 +70,6 @@ else:
 # load pre-trained model
 nlp = spacy.load('en_core_web_sm')
 
-NER = spacy.load("en_core_web_sm", disable=["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer"])
 # initialize matcher with a vocab
 matcher = Matcher(nlp.vocab)
 
