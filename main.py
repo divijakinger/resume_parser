@@ -34,7 +34,7 @@ def change_word_format(file_path):
     doc.Close(False)
 # !!!!! Only Change This for Testing docx and pdf execution !!!!!
 # Converting the Docx Files to PDF for faster execution
-file_path = r"C:\divija\deepblue\resume_trial.pdf"
+file_path = r"C:\divija\deepblue\project_deep_blue\resumes_database\resume_5.pdf"
 text = ""
 output_path = r"C:\divija\deepblue\output.pdf"
 
@@ -129,7 +129,7 @@ def extract_name(resume_text):
         span = nlp_text[start:end]
         if 'name' not in span.text.lower():
             if span.text == 'Cirriculum Vitae' or span.text == 'Resume' or span.text == 'Curriculam Vitae' or span.text == 'CURRICULUM VITAE' or span.text == 'CIRRICULAM VITAE':
-                continue;
+                continue
             return span.text
 
 
@@ -244,4 +244,4 @@ print("Name: ", extract_name(text))
 print("Email: ", extract_email(text))
 print("Mobile Number: ", extract_mobile_number(text))
 print("Education and Year: ", extract_education(resume_text=text))
-print("Skills: ", extract_skills(resume_text=text))
+# print("Skills: ", extract_skills(resume_text=text))
