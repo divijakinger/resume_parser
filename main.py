@@ -74,7 +74,6 @@ def extract_text_from_pdf(pdf_path):
     return extract_text(pdf_path)
 
 # Extracting Name
-
 def extract_name(resume_text):
     nlp_text = nlp(resume_text)
 
