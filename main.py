@@ -120,10 +120,6 @@ def extract_skills(resume_text):
 
     return [i.capitalize() for i in set([i.lower() for i in skillset])]
 
-
-# nltk.download('stopwords')
-# nltk.download('words')
-
 # load pre-trained model
 nlp = spacy.load('en_core_web_sm')
 
