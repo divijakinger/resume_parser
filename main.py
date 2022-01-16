@@ -63,11 +63,6 @@ else:
     for page in extract_text_from_pdf(output_path):
         text += ' ' + page
 
-#spacy.cli.download("en_core_web_sm")
-
-# nlp = spacy.load("en_core_web_sm")
-
-
 # load pre-trained model
 nlp = spacy.load('en_core_web_sm')
 
