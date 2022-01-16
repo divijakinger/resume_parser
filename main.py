@@ -13,9 +13,9 @@ import pandas as pd
 
 import Convert_file
 
-file_path = r""
+file_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\word\1_doc.doc"
 text = ""
-output_path = r""
+output_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\output-sample_git.pdf"
 
 
 # Extracting Required Texts from the PDF
