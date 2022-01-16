@@ -108,9 +108,9 @@ def extract_skills(resume_text):
     tokens = [token.text for token in nlp_text if not token.is_stop]
 
     # reading the csv file
-    data1 = pd.read_csv("skills.csv")
-    data2 = pd.read_csv("skills_db.csv")
-    data = data1.append(data2)
+    data = pd.read_csv("skills.csv")
+    # data = pd.read_csv("skills_db.csv")
+    # data = data1.append(data2)
     # extract values
     skills = list(data.columns.values)
 
