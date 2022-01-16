@@ -103,9 +103,6 @@ def extract_skills(resume_text):
 
     # reading the csv file
     data = pd.read_csv("skills.csv")
-    # data = pd.read_csv("skills_db.csv")
-    # data = data1.append(data2)
-    # extract values
     skills = list(data.columns.values)
 
     skillset = []
