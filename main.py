@@ -172,7 +172,7 @@ def extract_education(resume_text):
 
 print("Name possibility 1: ", extract_name_1.extract_name_possibility_1(text))
 print("Name possibility 2: ", extract_name_2.extract_name_possibility_2(text))
-print("Email: ", extract_email(text))
+print("Email: ", extract_email.extract_email(text))
 print("Mobile Number: ", extract_mobile_number.extract_mobile_number(text))
 print("Education and Year: ", extract_education(resume_text=text))
 print("Skills: ", extract_skills(resume_text=text))
