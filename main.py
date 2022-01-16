@@ -34,10 +34,9 @@ def change_word_format(file_path):
     doc.Close(False)
 # !!!!! Only Change This for Testing docx and pdf execution !!!!!
 # Converting the Docx Files to PDF for faster execution
-file_path = r"C:\divija\deepblue\resume_trial.pdf"
+file_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\30_table.doc"
 text = ""
-output_path = r"C:\divija\deepblue\output.pdf"
-
+output_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\output\sample.pdf"
 # convert docx to pdf
 if file_path.endswith(".docx"):
     docx2pdf.convert(file_path, output_path)
