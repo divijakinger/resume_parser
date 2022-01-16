@@ -132,7 +132,7 @@ EDUCATION = [
     'ME', 'M.E', 'M.E.', 'M.Sc', 'M.SC', 'MSC', 'Msc',
     'BTECH', 'B.TECH', 'M.TECH', 'MTECH', 'M.Tech', 'PHD', 'Phd', 'PhD', 'Ph.D',
     '(SSC)', '(HSC)', 'CBSE', 'ICSE', 'X', 'XII', 'Hsc', 'Ssc', '10th', '10TH', '12th', '12TH',
-    'SSC', 'HSC','BBA'
+    'SSC', 'HSC','BBA', 'MBA'
 ]
 
 
