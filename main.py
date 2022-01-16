@@ -12,6 +12,7 @@ from spacy.matcher import Matcher
 import pandas as pd
 
 import Convert_file
+import extract_email
 import extract_mobile_number
 import extract_name_1
 import extract_name_2
@@ -84,13 +85,7 @@ extract_name_2.extract_name_possibility_2(resume_text)
 extract_mobile_number.extract_mobile_number(text)
 
 # Extracting Email
-def extract_email(email):
-    email = re.findall("([^@|\s]+@[^@]+\.[^@|\s]+)", email)
-    if email:
-        try:
-            return email[0].split()[0].strip(';')
-        except IndexError:
-            return None
+extract_email.extract_email(text)
 
 
 # load pre-trained model
