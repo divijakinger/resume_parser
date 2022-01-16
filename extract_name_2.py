@@ -1,6 +1,7 @@
 import spacy
 from spacy.matcher import Matcher
 nlp = spacy.load('en_core_web_sm')
+
 NER = spacy.load("en_core_web_sm", disable=["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer"])
 matcher = Matcher(nlp.vocab)
 
