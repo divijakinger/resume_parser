@@ -1,7 +1,9 @@
 import io
+import os
 import re
 from nltk.corpus import stopwords
 import spacy
+from pdfkit import pdfkit
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfinterp import PDFPageInterpreter
@@ -10,16 +12,11 @@ from pdfminer.pdfpage import PDFPage
 from pdfminer.high_level import extract_text
 from spacy.matcher import Matcher
 import pandas as pd
-
 import Convert_file
 import extract_email
 import extract_mobile_number
-import extract_name_1
-import extract_name_2
-
-file_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\pdf\5.pdf"
-text = ""
-output_path = r"C:\Users\Devashish Bhake\Documents\Machine Learning A-Z (Codes and Datasets)\Data Science Course\archive\output\sample_git.pdf"
+from extract_name_1 import extract_name_possibility_1
+from extract_name_2 import extract_name_possibility_2
 
 
 # Extracting Required Texts from the PDF
@@ -57,15 +54,7 @@ def extract_text_from_pdf(pdf_path):
             converter.close()
             fake_file_handle.close()
 
-if file_path.endswith("pdf"):
-    # calling above function and extracting text
-    for page in extract_text_from_pdf(file_path):
-        text += ' ' + page
-else:
-    Convert_file.convert(file_path, output_path)
-    # calling above function and extracting text
-    for page in extract_text_from_pdf(output_path):
-        text += ' ' + page
+
 
 # load pre-trained model
 nlp = spacy.load('en_core_web_sm')
@@ -77,20 +66,20 @@ def extract_text_from_pdf(pdf_path):
     return extract_text(pdf_path)
 resume_text = ""
 # Extracting Name
-extract_name_1.extract_name_possibility_1(resume_text)
-extract_name_2.extract_name_possibility_2(resume_text)
+extract_name_possibility_1(resume_text)
+extract_name_possibility_2(resume_text)
 
 # Extracting Mobile Number
-extract_mobile_number.extract_mobile_number(text)
+extract_mobile_number.extract_mobile_number(resume_text)
 
 # Extracting Email
-extract_email.extract_email(text)
+extract_email.extract_email(resume_text)
 
 
 # load pre-trained model
 nlp = spacy.load('en_core_web_sm')
 # noun_chunks = nlp.noun_chunks()
-doc = nlp(text)
+doc = nlp(resume_text)
 noun_chunks = list(doc.noun_chunks)
 
 
@@ -162,9 +151,31 @@ def extract_education(resume_text):
     return education
 
 
-print("Name possibility 1: ", extract_name_1.extract_name_possibility_1(text))
-print("Name possibility 2: ", extract_name_2.extract_name_possibility_2(text))
-print("Email: ", extract_email.extract_email(text))
-print("Mobile Number: ", extract_mobile_number.extract_mobile_number(text))
-print("Education and Year: ", extract_education(resume_text=text))
-print("Skills: ", extract_skills(resume_text=text))
+dir_list = os.listdir('pdf_test')
+for name in dir_list:
+    file_path = r"pdf/"+name
+    text = ""
+    output_path = r"output.pdf"
+    print(file_path)
+    if file_path.endswith("pdf"):
+        # calling above function and extracting text
+        for page in extract_text_from_pdf(file_path):
+            text += '' + page
+    else:
+        Convert_file.convert(file_path, output_path)
+        # calling above function and extracting text
+        for page in extract_text_from_pdf(output_path):
+            text += '' + page
+
+    # load pre-trained model
+    nlp = spacy.load('en_core_web_sm')
+    # noun_chunks = nlp.noun_chunks()
+    doc = nlp(text)
+    noun_chunks = list(doc.noun_chunks)
+
+    print("Name possibility 1: ", extract_name_possibility_1(text))
+    print("Name possibility 2: ", extract_name_possibility_2(text))
+    print("Email: ", extract_email.extract_email(text))
+    print("Mobile Number: ", extract_mobile_number.extract_mobile_number(text))
+    print("Education and Year: ", extract_education(resume_text=text))
+    print("Skills: ", extract_skills(resume_text=text))
