@@ -1,22 +1,19 @@
 import io
 import os
-import re
-from nltk.corpus import stopwords
 import spacy
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfinterp import PDFPageInterpreter
 from pdfminer.pdfinterp import PDFResourceManager
 from pdfminer.pdfpage import PDFPage
-from pdfminer.high_level import extract_text
 from spacy.matcher import Matcher
-import pandas as pd
 import Convert_file
 import extract_email
 import extract_mobile_number
 from extract_education import extract_education
 from extract_name_1 import extract_name_possibility_1
 from extract_name_2 import extract_name_possibility_2
+from extract_skills import extract_skills
 
 
 # Extracting Required Texts from the PDF
@@ -62,8 +59,6 @@ nlp = spacy.load('en_core_web_sm')
 # initialize matcher with a vocab
 matcher = Matcher(nlp.vocab)
 
-def extract_text_from_pdf(pdf_path):
-    return extract_text(pdf_path)
 resume_text = ""
 # Extracting Name
 extract_name_possibility_1(resume_text)
@@ -75,39 +70,8 @@ extract_mobile_number.extract_mobile_number(resume_text)
 # Extracting Email
 extract_email.extract_email(resume_text)
 
-
-# load pre-trained model
-nlp = spacy.load('en_core_web_sm')
-# noun_chunks = nlp.noun_chunks()
-doc = nlp(resume_text)
-noun_chunks = list(doc.noun_chunks)
-
-
-# Extracting Skill of the Applicant
-def extract_skills(resume_text):
-    nlp_text = nlp(resume_text)
-
-    # removing stop words and implementing word tokenization
-    tokens = [token.text for token in nlp_text if not token.is_stop]
-
-    # reading the csv file
-    data = pd.read_csv("skills.csv")
-    skills = list(data.columns.values)
-
-    skillset = []
-
-    # check for one-grams (example: python)
-    for token in tokens:
-        if token.lower() in skills:
-            skillset.append(token)
-
-    # check for bi-grams and tri-grams (example: machine learning)
-    for token in noun_chunks:
-        token = token.text.lower().strip()
-        if token in skills:
-            skillset.append(token)
-
-    return [i.capitalize() for i in set([i.lower() for i in skillset])]
+# Extracting Skills
+extract_skills(resume_text)
 
 # Extract Education
 extract_education(resume_text)
@@ -140,3 +104,4 @@ for name in dir_list:
     print("Mobile Number: ", extract_mobile_number.extract_mobile_number(text))
     print("Education and Year: ", extract_education(resume_text=text))
     print("Skills: ", extract_skills(resume_text=text))
+    break
