@@ -34,7 +34,7 @@ def change_word_format(file_path):
     doc.Close(False)
 # !!!!! Only Change This for Testing docx and pdf execution !!!!!
 # Converting the Docx Files to PDF for faster execution
-file_path = r"C:\divija\deepblue\project_deep_blue\resumes_database\resume_5.pdf"
+file_path = r"C:\divija\deepblue\project_deep_blue\resumes_database\1.pdf"
 text = ""
 output_path = r"C:\divija\deepblue\output.pdf"
 
@@ -97,6 +97,7 @@ def extract_text_from_pdf(pdf_path):
 # calling above function and extracting text
 for page in extract_text_from_pdf(file_path):
     text += ' ' + page
+print(text)
 
 #spacy.cli.download("en_core_web_sm")
 
@@ -173,9 +174,9 @@ def extract_skills(resume_text):
     tokens = [token.text for token in nlp_text if not token.is_stop]
 
     # reading the csv file
-    data1 = pd.read_csv("skills.csv")
-    data2 = pd.read_csv("skills_db.csv")
-    data = data1.append(data2)
+    data = pd.read_csv("skills.csv")
+    # data2 = pd.read_csv("skills_db.csv")
+    # data = data1.append(data2)
     # extract values
     skills = list(data.columns.values)
 
@@ -244,4 +245,4 @@ print("Name: ", extract_name(text))
 print("Email: ", extract_email(text))
 print("Mobile Number: ", extract_mobile_number(text))
 print("Education and Year: ", extract_education(resume_text=text))
-# print("Skills: ", extract_skills(resume_text=text))
+print("Skills: ", extract_skills(resume_text=text))
