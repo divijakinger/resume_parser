@@ -1,0 +1,234 @@
+Edwin Davis. Project Engineer
+
+Mobile: +971 - 544998079      Email: im.edwindavis@gmail.com
+
+ Career Objective
+
+To pursue a highly rewarding career, challenging and healthy work environment where I can utilize my skills
+and knowledge efficiently for organizational growth
+
+Having   2   years   of   experience   as   a   role   of   project   Engineer   in   design,   development   &   unit   testing   of
+embedded   application   development   on   different   platforms,   which   includes   1.5   year   of   experience   on
+Medical domain,proficient in medical devices development and its standards and 6 months of experience on
+automotive – infotainment development at Wipro Technologies, Bangalore & Kochi.
+
+ Core areas of skills are electrical design , R&D & embedded testing.
+ Both practical as well as theoretical knowledge in electrical design, drafting.
+ Working more efficiently and productively so as to produce maximum output.
+ Hands on experience in various phases of DLC such as Analysis & Testing.
+
+         Profile
+
+Have good experience :
+
+Education
+
+Degree
+
+Board/University
+
+Percentage
+
+B.Tech [ Electrical
+& Electronics ]
+
+IES Engineering College,
+Thrissur
+
+Intermediate
+
+SSC
+
+Nirmala Matha Central School,
+Thrissur, Kerala
+
+Nirmala Matha Central School,
+Thrissur, Kerala
+
+Training Course Detail:-  
+
+Year of
+passing
+
+76.6 %
+
+  Apr-2014
+
+79.6 %
+
+May-2010
+
+81.8 %
+
+May-2008
+
+Institute Name             : National Institute of Electronics and Information Technology, Calicut, Kerala              
+Training title                 : PG Diploma in Embedded System
+Duration                        : 6 months.
+
+Experience
+
+Projects: 
+Title:  Electrical design of G+5 floors residential apartment
+
+      
+
+                                       Client: Dhanush Engg services
+Description:
+
+ Calculation of Transformer & DG set rating and designing of HT/LT 
+cables, bus-bars, light fixtures, CB’s,distribution boards, earthing, 
+sockets, A/C load & capacitor banks
+
+ Load   calculations   and   designing   of   HT/LT   cables,   bus-bars,   light
+
+fixtures, CB’s, sockets, A/C load
+
+System design:
+
+ Estimation of total load and deciding voltage level.
+ Selection   of   Transformer/DG   capacity   and   number   with   necessary
+
+metering & protection.
+
+ Selection of load center location & captive power generation station.
+ Segregation   of   estimated   maximum   demand   into   individual   load
+
+ Preparation of detailed schematic main single line diagram.
+ Calculation of Short Circuit Current & Voltage Drop at each level of
+
+ Selection of HT & LT switchgear based on breaking, making & short
+
+ Selection of HT & LT cables based on thermal, short circuit & voltage
+
+ Preparation of sectional drawings of HT & LT switches board and bus-
+
+centers.
+
+distribution.
+
+time capacity.
+
+drop values.
+
+bar sizing.
+
+ Design of earthing based on max fault current & design of lightning
+
+protection system.
+
+ Preparation of building plan & Equipment layout:
+ Point of Supply and Cable Trench layout.
+ DG & Main LT electrical room layout.
+ Earthing scheme & earthing layout.
+ Lighting, Power & UPS layout with distribution scheme.
+ Co-ordinated Cable tray & raceways layout with detailed sections.
+
+ Load balancing & Preparation of bill of quantity(BOQ)
+
+Company 1
+Jan 2015 – 
+Jan 2017
+
+Wipro Technologies
+Project 1 Details:-
+Name: Mazda (Japan based Company)
+Client: Visteon
+Platform:  Bluetooth
+Hardware: CMU – Freescale i.MX applications processor
+Description:
+
+ Bluetooth – In Bluetooth, deals with 4 modules mainly Bluetooth hands-
+free, Bluetooth connection application, BTMUSIC, pairing application.
+Bluetooth supported features and specially used features in JCI car kit
+profiles are detailed
+
+ Analysis   of   requirements,   design   and   development   of   Bluetooth
+
+Role and Contribution:
+
+modules.
+
+ Worked on several Bluetooth SCR’s.
+ Experience on the Car Play feature for the CMU project.
+
+.
+
+Project 2 :-
+
+Name: ForceTriad
+Client: Medtronic (US based company)
+Platform:  Medical Devices
+Description:
+
+ ForceTriad - Energy platform is a full-featured electrosurgical system,
+which   provides   electrosurgical   cutting   and   coagulation,   bipolar
+functionality and vessel sealing in a single generator. RF generator uses
+different   power   modes   and   is   compatible   with   conventional
+electrosurgical instruments. 
+
+Role and Contribution:
+
+ Analysis   of   Requirements,   design   and   development   of   ForceTriad
+
+
+
+modules.
+Implemented the new support for the changes and bugs related to the
+device.
+
+ Experienced on upgrading the new support for latest accessories in the
+
+device.
+
+ Experienced in adding the USB feature support in the device.
+
+Industrial Training:
+
+ Visited Bramapuram diesel power plant unit, Ernakulam for 6 Days 
+ Visited Shalom private electrical industry for 4 days.
+
+         Skills
+
+Tools
+Project Domain
+
+: AutoCad , Electrical-Cad ,Electrical design, DIALUX
+: Automotive, Medical
+
+Academic Achievements
+
+Won first prize in State level Mime and third prize in District level.
+Represented & won prizes for badminton and soccer in corporate company level & college
+level competitions.
+
+         Personal Information
+
+Name
+Date of Birth
+Passport Number
+Visa Status
+Language
+Sex
+Permanent Address
+
+ : Edwin Davis
+ : 18 Jan 1992
+ : L7524505
+ : Visit
+ : English, Malayalam
+ : Male
+ : Kanjiraparambil House
+   Kottekad Po Kuttur
+   Thrissur, Kerala
+
+        
+   
+                India
+
+I   ,  Edwin   Davis   hear   by  declare   that   all   the   information   I  have   given   above   is   true   as   per   my
+documents.
+
+                          Edwin Davis
+
+

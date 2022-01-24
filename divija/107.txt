@@ -1,0 +1,224 @@
+Vijay Jawre                                                                
+Cell No:+91-9560949193/7828645532
+Email: vkjawre0807@Gmail.com
+
+Objectives: 
+
+To   obtain   challenging   position   in   Server   Administration   which   will   provide   growth   and
+learning   opportunities,permits   to   apply   my   experience,   quality   of   team   work   while   completing
+challeging tasks assigned.
+
+Summary of Experience:
+
+
+
+4 years of IT experience as a Desktop Admin and Remote Support Engineer 
+and responsible for managing and supporting Desktops, Laptops & Active Directory, 
+Server Administration and  Hardware maintainance.
+Implementation of Active directory,antivirus server,
+Troubleshooting Windows 2000\2003Active Directory\Linux Server problems.
+Installation and Operating windows,macintosh and linux operating system
+Installtion and Support activities of LAN and WAN 
+Troubleshoot  LAN and WAN network with various tools
+
+
+
+
+
+
+ Creating and mainting email profile users with various client softwares
+ Using remote control software tools (logmein,team viewer,Ammyy) to provide fault resolution
+
+
+
+
+
+and diagnosis
+Performing   health   checks   on   the   server   &   managing   and   checking   for   hardware   faults.
+Checking Event Viewer logs time to time 
+Planned downtime schedule for business units and providing them the outage information of
+service due to hardware replacement or reboot of server .
+
+ Corrdinating   with   vendor   for   IT   related   issue   such   as   mail   server   issue,antivius,hardware
+
+purchase,delivery and installtion 
+
+ Hardworking and willing to take on new responsibilities and respond to it
+ Good Problem solving skills along with ability to maintain calm under pressure
+
+Educational Qualification:
+
+Qualification
+College
+
+: Graduation in B.Sc.( Eletronic)
+: Guru tech Bahdur College in Jabalpur-Madhya Pradesh
+
+Certification
+Organization
+
+:Microsoft Certified Professional(XP )
+: Microsoft
+
+Professional Experience:
+
+ Shriram Value Service pvt ltd.-Shriram value service is a IT support, DATA center,HR consultant, 
+and BPO company. SVS give support to one of the biggest shriram finance group.I providing support 
+shiram housing finance and shriram city both groups along with 30 Branchs.
+
+Project Name
+Technology
+Role
+Period
+
+: Shriram Housing Finance Ltd Mumbai
+: Microsoft Windows
+:Technical Support engineer
+: Jan-2012 to Jan-2013
+
+1
+
+Key Activities: 
+
+Provide Remote, Telephonic and mail support to 30 branchs 
+Support for Active directory access permissions related issues.
+Server security monitoring and security related issue troubleshooting.
+
+ Managing IT hardware and software managment issues  
+
+
+
+ Backup Management, Reporting and Recovery.
+ Network share creation, Access & permission issue troubleshooting
+ Monitoring all servers (Services, CPU, Memory and Disk space)  
+ Managing firewall and creating users and group in mail server
+ Corrdinating with vendor for IT realated issue
+
+Identifying LAN faults and resolving the same
+
+Previous Assignments:
+
+Joined as Technical support excutive in Shriram Value service  and providing support toMP region  
+shriram city union finance ltd and shriram life insurance.
+
+Project Name
+Technology
+Role
+Period
+
+: Shriram City Union Finance Ltd Bhopal
+: Microsoft Windows
+:Technical Support engineer
+: April-2010 to June-2011
+
+Key Activities: 
+
+Support for First Level of Messaging and Active directory support. 
+
+
+ Creating New Users, Groups & granting appropriate rights and permissions.
+ Managing User profiles, permissions and applying group policy on servers.
+ Administration of Network Printers and Local printers
+ Administration of Desktops and Laptops
+
+Support for Business Application and All Microsoft Products
+
+Installation, configuration and troubleshooting of Microsoft Outlook.
+
+Troubleshooting and fix windows Operating System problems.
+ Responsible for Virus and Spyware solution on remote workstations
+ Anti-virus installation and updating the virus definition file.
+
+
+Installation, configuration and Troubleshooting of MS Outlook, Outlook Express and another 
+mail clients
+
+Previous Assignments:
+
+Roland infotech private ltd is an IT solutions & services provide and  HP autorised dealer.Company 
+deployed HP servers in NTPC Bilaspur where i take care of the server and along with i will take care 
+Antivirus server. 
+
+Project Name
+Technology
+Role
+Period
+
+: National Thermal Power Coorporation Bilaspur.
+: Microsoft Windows
+: Server Support Engineer
+: July-2009 to May-2010
+
+Key Activities:
+
+2
+
+ 
+
+Troubleshooting and fix windows Desktop Operating Systems problems. 
+Installation of application softwares & troubleshooting remotely on workstation.
+Installation, configuration and troubleshooting of Microsoft Outlook or mail client.
+
+ Responsible for remote desktop support 
+
+
+
+ Network maintenance such as login, printing problems 
+
+
+
+
+
+Troubleshooting of virus related problems using HIJAKTHIS, Trend Micro AV, MacAfee sas
+Implemented Trend Micro antivirus server in windows 2000 server
+Troubleshooting and replacing the PC Spare..
+Identifying LAN faults and resolving the same
+
+
+
+
+Implemented trend Micro  antivirus in windows 2000 platform
+Implemented Lan network infra structure in Branch offices  
+
+Achiements: 
+
+     Personal Details  :
+ 
+
+Father Name           
+
+
+ Date of Birth      
+ Marital Status         
+ Contact Address
+
+ : Mr.K.L.Jawre
+ : 08-July1986
+
+  
+              : Single
+
+ : C/O-Ranbir Singh,H.No. 100,Secound floor,
+   Gali No-4,Chandu Park Sombazaar 
+    Delhi-110051 
+
+ :  
+ Declaration
+ 
+
+              
+
+  I ,Vijay kumar Jawre , here by declare that the above furnished information is authentic to the best of
+my knowledge.
+
+Place:Delhi
+Jawre
+Date:
+
+ 
+
+                                                       Vijay 
+
+3
+
+

@@ -212,8 +212,11 @@ def extract_education(resume_text):
             education.append(key)
     return education
 
+count=0
 dir_list = os.listdir('pdf')
 for name in dir_list:
+    print('   ')
+    print('NEW RESUME')
     file_path = r"pdf/"+name
     text = ""
     output_path = r"output.pdf"
@@ -241,9 +244,13 @@ for name in dir_list:
 
     # calling above function and extracting text
     for page in extract_text_from_pdf(file_path):
-        text += ' ' + page
+        text += '' + page
 
     print(text)
+    with open('output.txt','a',encoding='utf-8-sig') as f:
+        f.writelines('NEW RESUME\n')
+        f.writelines(file_path+'\n')
+        f.writelines(text)
 
     # load pre-trained model
     nlp = spacy.load('en_core_web_sm')
@@ -252,8 +259,10 @@ for name in dir_list:
     noun_chunks = list(doc.noun_chunks)
 
     # print("Name: ", extract_name(text))
-    print("Email: ", extract_email(text))
-    print("Mobile Number: ", extract_mobile_number(text))
+    # print("Email: ", extract_email(text))
+    # print("Mobile Number: ", extract_mobile_number(text))
     # print("Education and Year: ", extract_education(resume_text=text))
     # print("Skills: ", extract_skills(resume_text=text))
-    break
+    count+=1
+    if count==100:
+        break
