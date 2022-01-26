@@ -1,0 +1,120 @@
+Suresh Vadde
+IN
+-Email me on Indeed: http://www.indeed.com/r/Suresh-Vadde/febbe349a3a1b271
+
+• I Have 3+ years of experience as a Microsoft Power BI Developer. 
+• Possessive experience on Power BI and Paginated reports. 
+• Experience in Requirement Analysis, Design and Development of reports and dashboards using
+Power BI Technology. 
+• Hands-on experience in extracting data from various sources like SQL Server, Excel, Azure SQL DB to
+power BI depending on the client requirement. 
+• Experience on having connections Direct mode and Live Models to connect with Data. 
+• Modify and Transform the data using Power Query depending on the Client requirement. 
+• Creating Measures and Calculated Columns using DAX operations in Power BI and Optimizing DAX
+queries using DAX Studio. 
+• Creating Workspaces, assigning roles and further sharing Reports and Dashboards to the clients on
+Power BI Services. 
+• Creating composite models for customers to build their own customized reports. 
+• Creating and Embedding reports and Data flows. 
+• Experience in Installing and configuring Gateways to refresh the data and to automate the refresh for
+Power BI reports to be up to date with the data. 
+ 
+• Good experience in SQL and T SQL. 
+• Regularly involved in Client calls with business users to update and discuss the status including the
+new requirements of the project.
+
+Willing to relocate to: Bengaluru, Karnataka - Pune, Maharashtra
+
+Work Experience
+
+Development Associate
+SBI Life Insurance - Hyderabad, Telangana
+October 2020 to Present
+
+October 2020 - Till date.
+Current Company: SBI LIFE.
+
+Education
+
+B.SC in Computers
+SRIKRISHNA DEVARAYA UNIVERSITY
+
+Skills / IT Skills
+
+review meetings.
+
+• Strong Communication and Presentation skills, and will be able to handle Client calls and Business
+
+• Good hands-on Experience Creating and presenting reports and dashboards on Power BI.
+
+• Comprehensive knowledge of Data design & visualization techniques in Power BI Desktop, Data
+
+Management, Data Modelling, and Analysing. PROJECTS HANDLED Project 1: HDFC SALES
+
+• Sales Analysis HDFC Sales private Ltd is a recognized home loan service at home in India having vast
+experience and loan leadership. HDFC Sale's services include home loans, sales-giving services and
+loan insurance programs. We manage and create reports for the data of daily sales of employee and
+product details that include data coming from varying hierarchies and Locations. Responsibilities:
+
+• Creating Daily, Weekly and Monthly, Quarterly, Yearly and so many different kinds of reports as per
+
+my Business and the client requirements.
+
+• Experience on Formatting visuals and creating Filters in Visual level, page level, Drill through and
+
+Report level in Power BI.
+
+• Worked on DAX expressions like filters, time intelligence functions, Aggregations and Mathematical
+
+functions to create measures and calculated columns.
+
+• Creating Row level security with power bi and integration with power bi service portal. Implemented
+
+Role Based Security as part of user level security in Power BI.
+
+• Creating Workspaces for team collaboration purposes, adding members to workspace and Assigning
+
+roles. Project 2: Investment Business Analysis
+
+• SBI LIFE. SBI Life Insurance Company Ltd.
+
+• also known as SBI
+
+• is an Indian multinational insurance corporation with more than 31 million customers in 950 cities.
+SBI LIFE company's employees over 14,000 people in 28 states. The company operates through
+three businesses: SBI Bancassurance, Retail Agency and Direct Sales. Responsibilities:
+
+• Participated in requirements meetings and Scrum Calls to understand the Report Requirements.
+
+• Used Power Query / Query Editor for Data transformation as per the reporting needs.
+
+• Created Data Model in Power Pivot by Establishing the Relationship Between the tables.
+
+• Enhanced the Data Model by creating New Columns and New Measures using DAX.
+
+• Developed at least two
+
+• three visual options for each report for discussion with stakeholders and customers.
+
+• Created Hierarchies and Drilldown Reports.
+
+• Created Microsoft Power BI Dashboards in Power BI Service using Reports.
+
+• Installed and Configured Data Gateways to Refresh and Schedule Refresh the Dataset.
+
+• Managed access of Reports, Dashboards and Data for individual users using roles.
+
+• Implemented Row Level Security as part of Security.
+
+• Provided continued maintenance and development of bug fixes for the existing and new Power
+BI Reports. TECHNOLOGIES: OPERATING SYSTEM WINDOWS 8/8.1/10 DATABASES MySQL, SQL
+Server 2016, SQL Server 2017 POWER BI Power BI Desktop. POWER BI SERVICES POWER BI REPORT
+BUILDER DAX STUDIO
+
+• Computer skills
+
+• Microsoft Excel
+
+• Power Bi
+
+

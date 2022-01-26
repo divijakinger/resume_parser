@@ -1,0 +1,62 @@
+Jaspreet Singh
+Chennai, Tamil Nadu
+-Email me on Indeed: http://www.indeed.com/r/Jaspreet-Singh/009412d4a4382460
+
+Experienced UI developer having hands-on experience in designing, implementing and developing
+high-quality software designs & architecture. Proficient in writing efficient clean code and comfortable
+in interacting with the clients to successfully execute projects ensuring 100% client satisfaction.
+
+Work Experience
+
+Developer
+Tata Consultancy Services - Chennai, Tamil Nadu
+2019 to September 2021
+
+1. Converted designs & wireframes to high-quality UI code.
+2. Optimized code to deliver high performance and fast loading times using best practices and latest
+features.
+3. Involved in maintenance of legacy application UI code.
+4. Created highly responsive user interfaces ensuring best experience on various screen sizes.
+
+Education
+
+PG Diploma in Software Development in Computer Science
+IIIT - Bengaluru, Karnataka
+2021 to Present
+
+BSc. in Computer Science
+Osmania University
+2016 to 2019
+
+Skills / IT Skills
+
+• Software Development
+
+• Interface Designing
+
+• Responsive Web Design
+
+• Unit Testing
+
+• Rational & Critical Thinking
+
+Languages
+
+• English - Fluent
+
+• Programming Languages: Java, JavaScript
+
+• Technologies: HTML, CSS, SASS, ReactJS, ReduxJS, NextJS, GIT
+
+• Hindi - Fluent
+• Punjabi - Fluent
+
+Online Profile
+
+http://github.com/jaspreet22g
+
+http://linkedin.com/in/jaspreet22g
+
+https://jaspreetportfolio.netlify.app/
+
+

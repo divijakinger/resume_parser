@@ -1,0 +1,120 @@
+Khushbu Dhiman
+Full stack developer
+Ambala, Haryana
+-Email me on Indeed: http://www.indeed.com/r/Khushbu-Dhiman/4fba604b1d87e774
+
+A curious learner and result-oriented professional with in-depth knowledge of designing and
+development tools currently working in 
+Infogain India Pvt. Ltd. as a Software Engineer with 3 years of experience in Software Development
+using Java, Python, J2EE with 
+proven expertise using frameworks like Spring Boot, Django to drive improvements throughout an
+entire software development life- 
+cycle and sprints.
+
+Willing to relocate to: Noida, Uttar Pradesh - Bengaluru, Karnataka -
+
+Personal Details
+
+Date of Birth: 1995-01-25
+Eligible to work in: India
+Highest Career Level: 2-5 years experience
+Industry: IT Operations & Helpdesk
+Total years of experience: 3
+
+Work Experience
+
+Software Developer
+INFOGAIN India Pvt. Ltd - Noida, Uttar Pradesh
+April 2021 to Present
+
+Vision 4.x Noida UP, IN
+
+Web Application Development
+Key  Skills:  Java,  Python,  Hibernate,  MySQL,  Junit,  SonarQube,  Postman,  SVN,  Spring  Boot,  Mockito,
+Jenkins, Spring scheduler
+Project Description: NCR - Vision 4.x
+APTRA  Vision's  Incident  Management  (Vision  IM)  feature  is  an  automated  service-level  management
+system designed to identify
+problems that occur to networked Terminals. Vision IM tracks the problems, dispatches service teams if
+necessary, and solves the problems without relying on Help Desk operators
+Roles/ Responsibilities:
+Gained hands-on experience in developing, implementing, and maintaining internal web applications
+Working on Spring Boot, Spring MVC Using Hibernate with Oracle, SQL Server as Database.
+Worked in collaboration with UI Team for modification of API'S and integrating with Application.
+Coordinate with onsite people for technical design and implementation.
+Performed Unit tests to ensure the software is up to date and working properly
+Used TDD approach for Software development for high test coverage.
+
+Added Logging Aspect for REST APIs using Spring AOP.
+Bug Fixing in the code using Apache Solr 8.3.
+
+Software Developer
+INFOGAIN India Pvt. Ltd - Noida, Uttar Pradesh
+February 2020 to March 2021
+
+Key Skills: Java, Python, Django, SQL, MongoDB, Angular6, Swagger, SVN, Spring, Radis Cache.
+Project Description:: NCR IT - Quote Builder As A Service -This Project is an Quote Builder Domain project
+and provide functionality in order to create Product/Service and Subscription Quote and support SSOT
+related functionalities.
+Roles/ Responsibilities:
+Design, Develop and Implements REST APIs as per the requirements.
+Coding the programs in accordance with Program Specifications and adhering to Coding Standards
+Worked in collaboration with UI Team for modification of API'S and integrating with Application.
+Junit test cases for testing the functionality of application and bug fixing.
+Creating REST API as per the requirements and involved in bug fixing of the existing API's.
+Achievements: SPOT Performance Award of September'20
+
+Education
+
+M.C.A. in Computer Applications
+Panjab University
+January 2019
+
+BSC
+Kurukshetra University - Kurukshetra, Haryana
+May 2015
+
+Skills / IT Skills
+
+• Java
+
+• HTML5
+
+• Python
+
+• SQL
+
+• JavaScript
+
+• Django
+
+• Spring Boot
+
+• ROS
+
+• Mongodb
+
+• Mysql
+
+• Programming languages: Java, Python, C, C++. 
+
+Web Technologies: Spring Framework, Microservices, Spring MVC, Spring AOP, Django, HTML, CSS,
+JSP, Angular. 
+Data Modelling: XSLT, XML, Data Structure, Machine Learning 
+Data Management: MongoDB, MySQL, Oracle, Redis, MS Access 
+IDEs: Spring Boot, Eclipse, Visual Studio, Tensor Flow, Intellij, Jupiter Notebook Matlab. 
+Tools: SVN, GIT, Crucible.
+
+• Angular
+
+• Css
+
+• Agile
+
+• C
+
+Online Profile
+
+http://www.linkedin.com/in/khushbu-dhiman-712135168
+
+

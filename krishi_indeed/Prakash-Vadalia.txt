@@ -1,0 +1,188 @@
+Prakash Vadalia
+Ahmedabad, Gujarat
+-Email me on Indeed: http://www.indeed.com/r/Prakash-Vadalia/c228a4ae6b6dd2db
+
+8+ years of software development experience with M.C.A (Master of Computer Application), having 8
+years of experience as ASP.Net, MVC, Angular 8/11, Angular Js, C#.Net & VB.Net, Entity Framework,
+LINQ, SQL Server 2008/2012/2017/2019.
+
+Work Experience
+
+Sr. Web Developer
+Eonian Software Solution Pvt. Ltd - Ahmedabad, Gujarat
+June 2020 to Present
+
+Project: Smart Archive
+SmartArchive is a media archiving system build for Champions hockey league. It allows the league and
+its clubs to archive videos and images at the end of each season.
+
+Responsibilities:
+● Develop angular page.
+● Develop API and Service.
+● Implemented business logic into C#.
+● Created stored procedures, functions, triggers, views, queries and database design.
+●  Used  LINQ  for  data  retrieving,  querying,  storage,  manipulation  and  for  achieving  disconnected
+database connectivity.
+
+Environment: Angular 8, Metronic Theme, ASP.NET WebAPI, SQL Server 2019, Entity Framework 6, LINQ.
+
+Project: Highlight Videos
+Highlight Videos is a web application where user create high light video, scene from video.
+
+Responsibilities:
+● Develop angular pages.
+● Develop API and Service.
+● Implemented business logic into C#.
+● Created stored procedures, functions, triggers, views, queries and database design.
+●  Used  LINQ  for  data  retrieving,  querying,  storage,  manipulation  and  for  achieving  disconnected
+database connectivity.
+
+Environment: Angular 11, Metronic Theme, ASP.NET Core 2 WebAPI, SQL Server 2019, Entity Framework
+6, LINQ.
+
+Sr. Web Developer
+Aon Software Solution Pvt. Ltd - Ahmedabad, Gujarat
+January 2016 to March 2020
+
+Project: PSTV (Process Safety TV)
+
+Process  Safety  TV®  is  a  24/7  live  and  on-demand  digital  video  streaming  platform  for  professionals,
+public bodies,
+universities  and  organizations  whose  lives  are  influenced  by  process  Safety.  View,  share  and  discuss
+Safety worldwide on a
+secure platform.
+
+Responsibilities:
+● Designed and developed four basic modules of Back-Office: User Registration, Live Broadcast, Channel
+and Reports.
+● Web based application development, testing and deployment using ASP.Net, C#, MVC pattern etc.
+● Used Wowza streaming and JW Player for broadcasting and uploading video.
+● Used AJAX and J-Query for validation and asynchronous calling.
+● Written stored procedures, view and function using SQL SERVER 2017.
+Environment: ASP.Net 4.5, Web Forms, C# (MVC).
+Reference Site: http://process-safety.tv
+
+Project: WIP (Working in Progress)
+Work in Progress (WIP) is web application which is provided 360° Visibility of business and resources,
+Project
+Management System (PMS), Bug Tracking, Time Tracking, Invoicing, Billing & Expense Reimbursement,
+Sales & Marketing, Service Tracking, Enterprise Content Management (ECM), IT Consulting, Accounting
+& Bookkeeping and HR
+&  Crop  Intranet,  Collaborative  Corporate  Address  Book,  Live  Feeds,  Chat,  Notifications  &  Emails
+Integrations,
+FlowRocket Drive, Workflow and Approvals etc.
+
+Responsibilities:
+● Involved in Analysis and Technical Design.
+● Implemented business logic into C#.
+● Created stored procedures, functions, triggers, views, queries and database design.
+●  Used  LINQ  for  data  retrieving,  querying,  storage,  manipulation  and  for  achieving  disconnected
+database connectivity.
+● Involved in SQL Server performance fine tuning.
+● Design and code review.
+● Developed and used JavaScript for client-side validation.
+● Developed and used Ajax for calling server-side objects from client side.
+● Supporting existing application.
+● Weekly status report to client.
+
+Environment: C#.Net, WCF, .Net 3.5, .Net 4.0, Net 4.5, SQL Server 2008/2017, Java Script, J-Query, AJAX,
+HTML, LINQ.
+Reference Site: https://flowrocket.com
+
+Project: IOVENT
+IOVENT is a chemical base industry project. It is fully automated web application where user calculates
+and set unit for
+whole process of industry life cycle. Example, valve pressure, Fire schedule etc. Development of heat
+and material balances, for existing operations.
+
+Responsibilities:
+● Developed basic modules of Back-Office: Relief Device Calculator, Tube Failure, Control valve Pressure,
+Fire
+schedule and emergency alert Etc.
+● Web based application development, testing and deployment using ASP.NET C# MVC pattern, Angular
+Js etc.
+● Design review and code review.
+● Used J-Query for client-side validation.
+● Developed and used Ajax for asynchronous calling.
+● Weekly status report to client.
+● Written stored procedures and function using SQL in SQL SERVER 2008.
+
+Environment: ASP.Net 4.5, Web Forms, C# (MVC), Angular Js.
+Project: IoAuditor
+Responsibilities:
+● Designed and developed Win Forms.
+● Manage upload and download excel audit file by web-services.
+
+Environment: ASP.Net 4.0, Win Forms, C# (MVC)
+Project: Window Service
+Responsibilities:
+● Developed Email and Io-Communication services.
+● Developed services of Doc, xml and tiff file convert to PDF file.
+
+Environment: Asp.net 4.0/4.5, C#, MVC
+
+Jr. Web Developer
+VizgroTech Pvt Ltd - Ahmedabad, Gujarat
+November 2013 to December 2015
+
+Project: Slcharting
+SL Charting delivers the best practical mechanism and platform to explore & interpret the market. It's
+offer live rates of MCX, NSE, MCX-SX & COMEX for Technical Analysis purpose to traders and brokers
+of distinctive Markets.
+Responsibilities:
+● This site is build using vb.net three tier architecture.
+● This website is used for Live Trading, Client Registration, contacts and email supports. It also provides
+facility of Live
+Chat with service Desk for solving customer queries.
+● Involved in development/Testing/Production Support for the whole application.
+● Creating the complete database structure and design.
+● Preparing the required code changes with respect to SQL server 2008 and changing codes specific
+to the requirement
+and standardizing the code.
+● Using JavaScript and jQuery.
+
+Environment: ASP.Net 4.0, Web Forms, C# (3-tier)
+Reference Site: http://slcharting.in
+
+M.C.A.
+Shri Brahmanand Institute of Management and Computer Science - Gujarat, IN
+
+• Asp.Net, C# .Net, VB .Net, MVC5, MVC4, MVC3 Razor, MVC2, LINQ
+
+• C#. Net, VB.Net, ASP.Net, JavaScript, Angular 8/11
+
+• SQL Server 2019/2014/2012/2008
+
+• HTML5, CSS3, XML, Ajax, JSON, Web API, Service call
+
+• .Net Framework 3, 3.5, 4, 4.5, Entity Framework 4/5/6
+
+Education
+
+Skills / IT Skills
+
+• .Net
+
+• RDBMS
+
+• Version Control
+
+• TFS, GIT, VSS
+
+• Web Technologies
+
+• REST
+
+• MVC
+
+• Web Services
+
+Languages
+
+• English - Fluent
+
+Online Profile
+
+https://www.linkedin.com/in/prakashvadaliya
+
+

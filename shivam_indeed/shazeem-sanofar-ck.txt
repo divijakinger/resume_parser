@@ -1,0 +1,51 @@
+shazeem sanofar ck
+abu dhabi
+-Email me on Indeed: http://www.indeed.com/r/shazeem-sanofar-ck/b30de1e1627ada51
+
+Willing to relocate to: Bengaluru, Karnataka - Kochi, Kerala
+
+Work Experience
+
+Developer
+CyD Tech Lab
+July 2018 to Present
+
+• Development of Web Applications using React JS along with Redux architecture.
+• Server Side Scripting using Node JS along with Express JS and Mongo DB.
+• Development of responsive UI with HTML, CSS, Flexbox and JavaScript ES6.
+• Usage of JSON for faster and impulsive responses.
+• Consumed and created REST APIs in web applications.
+• Package Management using NPM.
+• Maintained high level Code Quality using ESLint.
+
+Education
+
+B.TECH in computer science
+College of Engineering - Thalassery, KERALA, IN
+July 2014 to April 2018
+
+HIGHER SECONDARY SCHOOL in Computer Science
+Government Brennen Higher Secondary School - Thalassery
+July 2011 to March 2013
+
+Skills / IT Skills
+
+• Javascript (1 year)
+
+• React Js (1 year)
+
+• Node Js (1 year)
+
+• Mongo DB (1 year)
+
+• Express JS (1 year)
+
+• Html (1 year)
+
+• Css (1 year)
+
+• C (Less than 1 year)
+
+• C++ (1 year)
+
+

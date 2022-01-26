@@ -1,0 +1,78 @@
+Abhijit Das
+IT Analyst | MSTR Developer
+Kolkata, West Bengal
+-Email me on Indeed: http://www.indeed.com/r/Abhijit-Das/078df356cba7d6da
+
+Over 6 years of strong experience in Microstrategy 9.x/10.x, Microstractegy Desktop, Microstrategy
+Report 
+Services, MicroStrategy Web, MicroStrategy Intelligence server. Excellent hands on work experience in 
+building Canned/Ad-hoc/Analytical reports using ROLAP & MOLAP Business Intelligence reporting tools 
+(MicroStrategy), MicroStrategy Desktop, MicroStrategy Web and MicroStrategy Office, Object
+manager, 
+Intelligent Cubes, Report Services, Enterprise Reporting.
+
+Work Experience
+
+MicroStrategy Developer
+TATA Consultancy Services
+November 2015 to Present
+
+Responsibility
+- Worked on different projects ALCO, Cross Border and Market Risk.
+- Worked with BI team analysts to come up with the High priority reports for go live.
+- Worked closely with the ETL developers to develop new MSTR attributes.
+- Extensively used filters, prompts, consolidations and custom groups to generate canned reports
+and ad-hoc reports.
+- Created new Dashboards that are critical for the go live week so that leadership won't miss any
+important information.
+- Created new dossier to handle multiple visualizations
+- Worked from scratch from logical table import through ware house catalog and defining schema
+for the project.
+- Created schema objects like attributes, hierarchies, facts.
+- Report objects - Metric, Custom group, consolidation, derived elements, filter, prompts etc.
+- Manual refresh of Intelligent Cube (Incremental/Update/ Update and Insert/Delete)
+- End-to-end unit testing of the code
+
+• Technical Skills
+- MicroStrategy Developer (MSTR)
+- Oracle SQL Developer V4.1
+- Unix Server (Tectia)
+• Achievements
+- Certified Report Developer (CRD V9.4.1)
+- Certified Project Designer (CPD V9.4.1)
+
+Education & Learning
+
+Education
+
+Bachelor's in Electrical Engineering
+University of Calcutta - Kolkata, West Bengal
+November 2015 to Present
+
+Skills / IT Skills
+
+• Skills:
+
+• Hands-on project experience on MicroStrategy (9.x/10.x)
+
+• I have knowledge on ETL (Extraction, Transmission and Loading)
+
+• SQL, PL/SQL, UNIX commands Tools Used:
+
+• MSTR (MicroStrategy) developer and web service
+
+• Interactive SQL Developer
+
+• Tectia 4.0
+
+• COGNOS
+
+• IBM Infosphere datastage
+
+Online Profile
+
+http://das.abhijit53@gmail.com
+
+http://linkedin.com/in/abhijit-das-a3199b97
+
+

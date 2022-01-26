@@ -1,0 +1,187 @@
+Ramesh T
+Coimbatore, Tamil Nadu
+-Email me on Indeed: http://www.indeed.com/r/Ramesh-T/6f22d30986f04fb4
+
+Datasense Technologies, Coimbatore - Dot Net Developer (August 2020 - Present) 
+• Develop Web API's for Angular website. 
+• Good experience in Razor Payment and Entity Framework. 
+• Develop Push Notification to Mobile by using Firebase Token. 
+• Generate Horoscope by using astrology api. 
+ 
+GoQuo Technical Services Pvt Limited., Coimbatore - Software Engineer (October 2018 - Jun 2020) 
+• Worked as part of a five-member team with "GoQuo Technical Services" using .NET Technologies
+such as Web Service, Interface and UI. 
+• Good working knowledge in Airline web services such as Sabre and Amadeus. 
+• Extensive expertise in .Net Framework. 
+• Develop Automation Testing by using Cypress. 
+Pragmatic Solutions Inc., Coimbatore - .NET Developer (January 2017 - August 2018) 
+• Developed 4+ web applications. 
+• Good working knowledge in ASP.NET website developing and debugging code. 
+• Extensive knowledge in SQL Server as the database and Data connections. 
+• Very good working knowledge on WAMP Server. 
+Gateway Research Academy, Erode - JAVA Developer (August 2013 - December 2016) 
+• Worked as part of a five-member team with "Gateway Research Academy, Erode." using Java
+Technologies such as J2EE, JDBC and Swing with My SQL as backend. 
+• Possess a great skills and working knowledge in the development of web based applications as well
+as standalone applications. 
+• Good working knowledge in object-oriented programming, developing and debugging code. 
+• Extensive knowledge in My SQL as the database and JDBC drivers. 
+• Very good working Knowledge on Apache Tomcat web server.
+
+Work Experience
+
+Dot Net Developer
+Datasense Technologies - Coimbatore, Tamil Nadu
+August 2020 to Present
+
+• Develop Web API's for Angular website.
+• Good experience in Razor Payment and Entity Framework.
+• Develop Push Notification to Mobile by using Firebase Token.
+• Generate Horoscope by using astrology api.
+
+Software Engineer
+GoQuo Technical Services Pvt Limited - Coimbatore, Tamil Nadu
+October 2018 to June 2020
+
+• Worked as part of a five-member team with "GoQuo Technical Services" using .NET Technologies such
+as Web Service, Interface and UI.
+
+• Good working knowledge in Airline web services such as Sabre and Amadeus.
+• Extensive expertise in .Net Framework.
+• Develop Automation Testing by using Cypress.
+
+.NET Developer
+Pragmatic Solutions Inc - Coimbatore, Tamil Nadu
+January 2017 to August 2018
+
+• Developed 4+ web applications.
+• Good working knowledge in ASP.NET website developing and debugging code.
+• Extensive knowledge in SQL Server as the database and Data connections.
+• Very good working knowledge on WAMP Server.
+
+JAVA Developer
+Gateway Research Academy - Erode, Tamil Nadu
+August 2013 to December 2016
+
+•  Worked  as  part  of  a  five-member  team  with  "Gateway  Research  Academy,  Erode."  using  Java
+Technologies such as J2EE, JDBC and Swing with My SQL as backend.
+• Possess a great skills and working knowledge in the development of web based applications as well
+as standalone applications.
+• Good working knowledge in object-oriented programming, developing and debugging code.
+• Extensive knowledge in My SQL as the database and JDBC drivers.
+• Very good working Knowledge on Apache Tomcat web server.
+
+PROJECT-1:
+Project Name: Arivum Solutions
+Technology: C#, HTML.
+Database: SQL Server.
+Role: Design
+Key Responsibilities:
+• Involved in the Development of the Menus, links and views.
+• Implemented the feature where only the username and password are required to login.
+• If password is forget send temporary password to corresponding email id.
+• Add the action to solutions banner flash object using Flash de-compiler.
+• Design and implement the page each solutions such as Legal & Paralegal support, Document & rich
+media protection.
+
+PROJECT-2:
+Project Name: Guest Vehicle Registration System (GVRS)
+Technology: C#, HTML, ASP.NET.
+Database: SQL Server Management Studio 2012.
+Role: Design, test and develop application
+Key Responsibilities:
+• Involved in the Development of the Controllers, Razor views (cshtml) and Models.
+• Guest Vehicle Registration System for vehicle auditing purpose to Pullman Hotel Management. Guest
+license plate numbers entered by hotel staffs in the system.
+•  The  guests  are  permitted  to  unlimited  the  hotel  car  park  in  the  particular  registered  period  in  the
+system.
+• GVRS support four types of user roles have access to the edit permissions.
+
+1) Porter
+2) Supervisor
+3) Night Manager
+4) Administrator
+•  The  porter  is  registered  the  vehicle  details  such  as  guest  name,  license  plate  number,  in  customer
+entry tab.
+• The supervisor search and review guest entries registered by porters and add some extra information's
+such as room number, folio number and approve the guest details.
+• The night manager changes the some fields in the search screen such as license plate number, guest
+name.
+•  The  administrator  is  change  the  guest  and  staff  details  by  choose  the  customer  type  and  the  daily
+report is automatically generated in .csv file and sends to mail.
+
+PROJECT-3:
+Project Name: Mobile Form inspection App
+Technology: C#, HTML and Java-script.
+Database: SQL Server.
+Role: Technical Lead
+Key Responsibilities:
+•  Involved  in  the  Development  of  the  security  audit  checklists  such  as  Internal  Audit,  Stock  Checks
+Checklist, and Pre-Trip Vehicle Inspection.
+•  Each  checklist  contains  Questionnaires  Field,  Question  Categories,  Multiple  Choice,  Checkbox  field,
+Remarks Field and so on.
+• Submission to server and stored in database.
+• Design the signature pad drawing pattern using java-script.
+
+PROJECT-4:
+Project Name: Flight Service
+Technology: C#, HTML, MVC, LINQ, ADO.NET, Web Services.
+Database: SQL Server.
+Role: Manage web services
+Key Responsibilities:
+• It contains two sub projects such as GQS and GDS.
+• We get request in GQS from Engine team and passed to GDS.
+• In GDS we convert Request web service request and call particular service for requested process such
+as Search, Booking, Ticket Issue, Refund, etc. Pass Response to GQS.
+• Get Response from GDS and convert to our class objects then give to Engine team.
+
+PROJECT-5:
+Project Name: Kalyanamalai
+Technology: C#, HTML, LINQ, Web API.
+Database: SQL Server.
+Role: Manage API services
+
+Key Responsibilities:
+• It contains two projects:
+i) Administration (Existing project)
+ii) Web API for user end (New Project)
+
+• Provide requested API's to front end.
+• Manage Database Details and Configuration in Remote Server.
+• Fix Admin Side bugs.
+• Manage Mail & SMS Processes for Active users.
+
+Education
+
+PSG Polytechnic College - Coimbatore, Tamil Nadu
+2013
+
+HSC
+Government High School
+2010
+
+Skills / IT Skills
+
+• Languages: C, C++, JAVA.
+
+• .NET
+
+• HTML5
+
+• SQL
+
+• JavaScript
+
+• Java
+
+• Microsoft SQL Server
+
+• Web-based Technologies: PHP, HTML5, JAVASCRIPT, VB, C#.
+
+• IDE: Visual Studio 2012.
+
+• Database: SQL Server, My SQL 5.7.
+
+• Operating System: Windows and MacOS.
+
+

@@ -1,0 +1,117 @@
+Paghadal Chandresh
+Sr. iOS Developer - Drunken Ducks
+Mississauga
+-Email me on Indeed: http://www.indeed.com/r/Paghadal-Chandresh/e49d6fcf9d7b6676
+
+SURAT, GJ
+● Worked closely with product managers and designers to define a rich iOS experience for the user
+
+● Involved in implementing the application from requirements specified
+
+● Responsible for technical documentation on how to use the plugin to develop applications.
+
+Work Experience
+
+Sr. iOS Developer
+Drunken Ducks - SURAT, GUJARAT, IN
+September 2017 to Present
+
+ㅡ
+
+Jr. iOS Developer
+Narola Infotech - SURAT, GUJARAT, IN
+June 2017 to September 2017
+
+SURAT, GJ
+
+●  Supported  and  streamlined  company  policies,  procedures,  mission,  and  standards  of  ethics  and
+integrity
+● Learnt the integration of rich frameworks on iOS app
+
+● Explored new technologies and shared findings with the team.
+
+Education
+
+MCA in Systems Management
+VEER NARMAD SOUTH GUJARAT UNIVERSITY - SURAT, GUJARAT, IN
+July 2014 to April 2017
+
+BCA in Computer Programming
+VEER NARMAD SOUTH GUJARAT UNIVERSITY - SURAT, GUJARAT, IN
+July 2011 to March 2014
+
+Skills / IT Skills
+
+• BUDGET (Less than 1 year)
+
+• C# (Less than 1 year)
+
+• DATABASE (Less than 1 year)
+
+• DEBUG (Less than 1 year)
+
+• DEPLOYMENT (Less than 1 year)
+
+• Git (Less than 1 year)
+
+• JAVASCRIPT (Less than 1 year)
+
+• MAC (Less than 1 year)
+
+• MAC OS (Less than 1 year)
+
+• MODEL VIEW CONTROLLER (Less than 1 year)
+
+• MODEL-VIEW-CONTROLLER (Less than 1 year)
+
+• MODEL-VIEW-VIEWMODEL (Less than 1 year)
+
+• MVC (Less than 1 year)
+
+• MVVM (Less than 1 year)
+
+• OBJECTIVE C (Less than 1 year)
+
+• PROVISIONING (Less than 1 year)
+
+• XCODE (Less than 1 year)
+
+Languages
+
+• English - Intermediate
+
+Additional Information
+
+● Skilled and efficient iOS Developer with 3 years of experience creating unique and modern
+applications available in the App Store. 
+ 
+● Results-oriented software developer and research professional with 3 years experience in both
+development and research positions. 
+ 
+● Understand the importance of creating highly readable and easily maintainable source code. 
+ 
+● Experienced of working on iOS platform and frameworks and customizing it as per requirements.
+Good hand at MVVM and MVC. 
+ 
+● Constantly striving to learn new technologies and look to ways to better myself in this rapidly
+changing industry. 
+ 
+ㅡ 
+ 
+Skills 
+ 
+● Environment: Mac OS X, Xcode, Git, Bitbucket 
+● Languages: Objective C, Swift, C#, JavaScript 
+● Framework: MVC, MVVM, 
+● Database: Realm, Core Data, SQLite, Firestore 
+
+● Advanced knowledge of how to profile, debug and optimise apps with Instruments, able to diagnose
+application crashes with crash report symbolication 
+● Able to learn quickly and willing to share knowledge 
+● Demonstrable ability to deliver projects on time, with high quality, and within budget 
+● Ability to produce high quality software with an emphasis on performance, reliability and
+extensibility 
+● Knowledge of iTunes Connect, provisioning, Code-signing and IPA/Build creation, knowledge of
+Enterprise deployment is a bonus
+
+

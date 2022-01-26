@@ -1,0 +1,84 @@
+Akshat Puram
+Sagar, Madhya Pradesh
+-Email me on Indeed: http://www.indeed.com/r/Akshat-Puram/6620ae0f21d5abc6
+
+Professional and highly motivated, having 3.2 years of AWS, Windows & Linux Administrator work
+experience in the software industry. 
+ 
+• Hands on experience on various AWS services: IAM, S3, EC2, VPC, Route 53, CloudWatch etc. 
+• Setting-up S3 bucket for logs, storing application data & backups. 
+• Setting-up life cycle rule for object transition between S3 storage tiers. 
+• Allowing rule on security group for access EC2 instance. 
+• Creating VPC with public and private subnet. 
+• Firm understanding & worked on Route Tables, Nat Instance, Nat Gateway, Peering & VPC endpoints. 
+• Installation of various packages using YUM and RPM on Linux servers. 
+• Apply OS patches and upgrades on a regular basis and upgrade administrative tools and utilities.
+Configure / add new services as necessary. 
+• Configured MySQL Mater-Slave Replication. 
+• Daily backups of Databases, applications using Job scheduling with Crontab. 
+• File system operations. (Create, mount, unmount and remove). 
+• Backing Up, copying and recovery of MYSQL Databases and maintaining MYSQL Log files. 
+• Involved in Preparing various documents like MOM (Minutes of meeting), SOP's. 
+• Deploying of AppDynamics Agents in servers and monitoring in AppDynamics console. 
+• Basic understanding of ITIL. 
+• Basic Knowledge on Kubernetes. 
+• Provided 24*7 support and on call production support.
+
+Willing to relocate to: Pune, Maharashtra - Gurgaon, Haryana - Bengaluru, Karnataka
+
+Work Experience
+
+Infra Developer
+Cognizant
+December 2018 to Present
+
+Project Name Cis Automation Tools and Platform
+Environment AWS, Red Hat Linux, Windows
+
+Responsibilities:
+• Creation of User, Groups & Policy.
+• On-boarding new user with MFA and access policy.
+• Setting-up S3 bucket for logs, storing application data & backups.
+• Setting up object permission, bucket permission, bucket policy
+• Setting-up life cycle rule for object transition between S3 storage tier.
+• Creating VPC with public and private subnet.
+• Created and Configured Elastic Load balancers and auto scaling groups to distribute the traffic and to
+have a cost efficient, fault tolerant and highly available environment.
+• Regularly Performing Trusted Advisory and cost optimization for all the resources.
+
+• Performing SQL server RDS upgrade to latest version.
+• EBS/RDS /Unused Volume/AMI and Snapshot clean up.
+•  Involved  in  troubleshooting  of  CPU,  Memory,  I/O  and  Network  related  issues  on  Linux  Operating
+systems.
+• Fixing multiple severity vulnerabilities in both Linux and Windows environment.
+
+• Skills: AWS, Google Cloud, Red hat Linux, AppDynamics, Docker, Service-now.
+
+Education
+
+B.E in Electronics and Communications
+DR. Ambedkar Inst Of Technology
+2018
+
+Skills / IT Skills
+
+• Cloud
+
+• AWS
+
+• DevOps
+
+• Docker
+
+• Databases
+
+• MySQL
+
+• Monitoring AppDynamics
+
+Certifications and Licenses
+
+Google Cloud - Associate Cloud Engineer
+January 2022 to January 2024
+
+

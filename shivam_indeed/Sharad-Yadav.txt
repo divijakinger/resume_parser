@@ -1,0 +1,102 @@
+Sharad Yadav
+Hardoi, UTTAR PRADESH, 241125, IN
+-Email me on Indeed: http://www.indeed.com/r/Sharad-Yadav/9693200fb81d9b3c
+
+Personal Details
+
+Date of Birth: 2000-08-15
+Highest Career Level: 1-2 years experience
+Industry: Software Development, Technology
+Total years of experience: 1
+
+Work Experience
+
+Web Developer
+NJSV it solution Lucknow - India
+Present
+
+1. Web developer
+
+ASP.NET MVC Developer
+frasher
+SR PROJECT TITLE DESCRIPTIONS TECHNOLOGY
+NO.
+1 Online Counseling Management In this online project HTML, CSS, My SQL,
+System user can see details .Net Technology
+about exam
+APPRENTICESHIP -
+
+• Name of the Organization - Mecatredz Technology Pvt Ltd
+• Duration - 6 Month
+• Technology - ASP.net with MVC
+
+PROJECT -
+
+• Shopping
+• Online Mobile Store
+• Sharadmt.c1.biz
+
+• C, C#, Javascript, Jquery, SQL Web Designing (Less than 1 year)
+
+• HTML, CSS, BootStrap Web Technology
+
+• Asp.Net MVC Scripting Language
+
+• JavaScript Database
+
+• SQL, ORACLE IDE
+
+• NOTEPAD++, VISUAL STUDIO SUMMER TRAINING - I have Completed 45 days training in ASP.NET
+
+MVC from Mecatredz Technology Pvt ltd Lucknow Honest, Friendly, Hard-Working, Loyalty (Less than
+1 year)
+
+Education
+
+Diploma
+
+Skills / IT Skills
+
+• Programming Language
+
+• Asp . Net MVC (Less than 1 year)
+
+• AngularJS (Less than 1 year)
+
+• Entity Framework (Less than 1 year)
+
+• .NET
+
+• JavaScript
+
+• HTML5
+
+• SQL
+
+• jQuery
+
+• Bootstrap
+
+• CSS
+
+Languages
+
+• Hindi, English - Intermediate
+
+Certifications and Licenses
+
+Apprenticeship
+September 2020 to Present
+
+Projects / Papers Presented
+
+Shopping
+February 2021
+
+In this apprenticeship program I created a project on Mobile Store Management System and this
+project is created with asp.net MVC and for front end I used HTML CSS, JavaScript and bootstrap. Here I
+use database with MSSQL SERVER MANAGEMENT STUDIO.
+
+Online shopping
+
+

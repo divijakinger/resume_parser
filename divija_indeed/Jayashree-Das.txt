@@ -1,0 +1,67 @@
+Jayashree Das
+Bhubaneshwar, Orissa
+-Email me on Indeed: http://www.indeed.com/r/Jayashree-Das/0ceb08e766b6a5c3
+
+Willing to relocate: Anywhere
+
+Work Experience
+
+Junior Developer
+N-Technology, Research Centre Pvt. Ltd.
+February 2021 to Present
+
+• Work and design various electronics components and sensors used in various projects
+• Develop both hardware and software for controllers
+• Understand the circuit design and functionality of all the products and their respective components
+• Assist in the development of different IoT products
+• Working knowledge on IoT strategy, standards, and protocols
+
+STUDENT MENTOR
+• Guide practically as well as theoretically about their projects
+• Make students understand basic components and sensors used in projects
+• Give ideas on design and work on their required area
+
+SKILL
+•  Having  excellent  exposure  in  hardware  design  for  processor  interfacing  devices  and  their
+troubleshooting
+• Knowledge of core architecture of AVR controller and work with every functional block including ADC,
+Timer, and PWM.
+• Experience with embedded system protocols like USART, SPI, and I2C
+• Hands-on experience with developing boards such as ESP8266 and Arduino
+• Good understanding and working knowledge on IoT architecture as well as protocols
+• Design and oversee the development of IoT platform ecosystem including sensors, gateways, actuators,
+and mesh
+networks
+• Ability to work with all IoT-level products with required internet protocols
+• Experience with Embedded-C language
+
+Education
+
+M-TECH in Engineering
+COLLEGE OF ENGINEERING AND TECHNOLOGY - Bhubaneshwar, Orissa
+2018 to 2020
+
+B-TECH in Branch
+KMBB COLLEGE OF ENGINEERING AND TECHNOLOGY - KHORDA, ODISHA, IN
+2013 to 2017
+
+TRIVENI ACADEMY +2 SCIENCE COLLEGE - Bhubaneshwar, Orissa
+2011 to 2013
+
+Skills / IT Skills
+
+• Atmel Studio-7
+
+• AVR Loader v1.0
+
+• Arduino-IDE
+
+• Proteus-8
+
+• Blynk-app
+
+• Arduino RC
+
+• Embedded C
+
+

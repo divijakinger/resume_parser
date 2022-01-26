@@ -1,0 +1,138 @@
+Amit Pathak
+Lucknow, Uttar Pradesh
+-Email me on Indeed: http://www.indeed.com/r/Amit-Pathak/7d4f7cb63d50586c
+
+● Over 4 years of professional IT experience in web application development and REST API
+development.
+
+Work Experience
+
+Web developer
+Debunk Media Pvt Ltd - Lucknow, Uttar Pradesh
+February 2019 to Present
+
+Web Developer
+Trailblazer Enterprises
+October 2017 to January 2019
+
+my responsibility to develop portal , website, for uses to our company products
+
+Project: S.S Enterprises
+Title: Manpower Outsourcing Company
+Description: Web Application contains user registration and admin panel. In the admin panel admin can
+make joining letter for registered users and content management of website.
+Role: Web design and development
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: https://www.ssweb.in/
+Responsibilities:
+● Development, Design testing Complete responsibility
+
+Project: Food metro Bakery
+Title: FMB
+Description:  Online  ordering  management  system.  From  this  website  user  can  order  bakery  products
+and also make online payment in the admin panel admin can add new products according to category,
+manage user orders, assign orders to delivery boy etc.
+Role: Web developer
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: https://www.foodmetrobakery.in/
+
+Responsibilities:
+● Development, Design, testing Complete responsibility
+
+Project: Inner wheel
+Title: IWC
+Description: Promotional Dynamic Website.
+Role: Web developer
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: https:// innerwheelhardoidod.com
+
+Responsibilities:
+● Development, Design, testing Complete responsibility
+
+Project: Townhall Public School
+Title: THPS
+Description: Promotional Dynamic Website and progress reports of student.
+Role: Web developer
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: https://thps1996.com/
+Responsibilities:
+● Development, Design, testing Complete responsibility
+
+Project: V Golden Eye
+Title: VGD
+Description: This website contains user registration with online payment system, after the registration
+user get the username and password and can login to the VGD portal for latest vacancy and jobs.
+Role: Web developer
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: https://vgoldeneyegroup.com/
+Responsibilities:
+● Development, Design, testing Complete responsibility
+
+Project: Shri Moti Smirti Institute Of Technology
+Title: THPS
+Description: Promotional Dynamic Website.
+Role: Web developer
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: http://smsit.org.in/
+Responsibilities:
+● Development, Design, testing Complete responsibility
+
+Project: First Insure
+Title: Insurance
+Description: Promotional Dynamic Website and Insurance lead management system.
+Role: Web developer
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: https://firstinsure.in/
+Responsibilities:
+● Development, Design, testing Complete responsibility
+
+Project: Ishavasyam Inter College
+Title: IIC
+Description: Promotional Dynamic Website and progress reports of student.
+Role: Web developer
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: https://ishavasyam.com/
+Responsibilities:
+
+● Development, Design, testing Complete responsibility
+
+Project: Almas Reality Dubai
+Title: Almas Reality
+Description: Promotional Dynamic Website and Property Listing Management.
+Role: Web developer
+Environment: php, MySQL, JavaScript, HTML5, CSS
+Link: https://almasreality.com/
+Responsibilities:
+● Development, Design, testing Complete responsibility
+
+MCA
+Professional Institute of Management &Technology - Lucknow, Uttar Pradesh
+2013 to 2015
+
+Education
+
+Skills / IT Skills
+
+• O/S Used
+
+• Languages
+
+• PHP
+
+• Area of Interest
+
+• Databases
+
+• MySQL, SQL
+
+• php
+
+Online Profile
+
+• Windows7, 8, 10, Android, IOS.
+
+• UI Designing, web development
+
+https://stackoverflow.com/users/6290624/amit
+
+

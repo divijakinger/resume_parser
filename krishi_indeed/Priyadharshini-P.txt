@@ -1,0 +1,80 @@
+Priyadharshini P
+Chennai, Tamil Nadu
+-Email me on Indeed: http://www.indeed.com/r/Priyadharshini-P/ee5cb63da88bc704
+
+9 years of experience in Oracle SQL and PL/SQL 
+• 1 year experience in developing Java - Spring Boot Applications. 
+• Demonstrated strong leadership abilities in the projects handled with minimal supervision. 
+• Showcased the potential to handle projects both independently and in teams. 
+• Effectively handled overlapping deadlines in a fast-paced environment and handled 
+multiple assignments simultaneously. 
+• Experienced in both Waterfall and Agile Methodologies.
+
+Personal Details
+
+Eligible to work in: India
+Highest Career Level: 5+ years experience
+Total years of experience: 10
+
+Work Experience
+
+Development Lead
+Standard Chartered Global Business Services India - Chennai, Tamil Nadu
+March 2019 to Present
+
+• Development and Enhancement Activities
+• Complete ownership of the assigned projects
+• Impact Analysis for the business requirement
+• Preparation of Design, flow/sequence diagram and creation of granular
+Responsibilities sub task for user stories.
+• Coordinating with other interface teams and supporting the System
+Integration Testing, User Acceptance Testing and Production Roll-out
+• Mentoring new resources/other developers for their technical and functional queries
+
+Developer
+Capgemini
+July 2015 to March 2019
+
+• Development and Enhancement activities.
+• Data -Designing for the development activities.
+• Test case preparation, Test execution and test log preparation for unit
+testing.
+Responsibilities
+• Defect fixes for production issues.
+• Creating the Change request and co-ordinating with the respective
+interface team for on-time and smooth production roll out.
+• Daily/Weekly/Monthly Status Report Tracker
+
+Developer
+Tata Consultancy Services - Chennai, Tamil Nadu
+October 2011 to July 2015
+
+• Development, Enhancement and Maintenance of all scripts required for
+the complete refresh of an environment.
+• Documentation of all environmental refresh activities for all
+applications.
+• To coordinate and work with various teams (Application. Infrastructure, and Release Management) to
+solve all environment
+Responsibilities related issues.
+• Root Cause Analysis for environment issues.
+• Monitoring the usage of servers.
+• Weekly/Monthly Health Check Report generation for active
+environments.
+• Created a knowledge transfer plan and facilitated knowledge transfer on
+all activities.
+
+Education
+
+Bachelor's in Information Technology
+Velammal Engineering College - Chennai, Tamil Nadu
+April 2007 to May 2011
+
+Skills / IT Skills
+
+• Primary Skills : Oracle SQL , PL/SQL Secondary Skills : Java Spring Boot , Unix Operating System:
+Windows, Unix, LinuxMessaging Services: IBM MQ, MQ TDE, Oracle AQ, SolaceTools: Toad, SQL
+Developer, IntelliJ Idea, Maven, Jenkins, Putty,FTP tools, Postman, Microsoft Office SuiteBug Tracker:
+HP Quality Center, JIRAVersion Control: IBM Rational Clear case, SVN, GIT- Bit BucketDocumentation:
+Confluence
+
+

@@ -1,0 +1,91 @@
+Pradeep U
+Vijayawada, Andhra Pradesh
+-Email me on Indeed: http://www.indeed.com/r/Pradeep-U/bdaa252873a5cd2b
+
+• Having 2.0 years of experience as Python developer. 
+• Experience in building REST APIs, API design and development using Django 
+framework. 
+• Experience in Front end development with HTML and CSS. 
+• Experience in Database technologies like PostgreSQL, and MYSQL 
+• Hands on experience on using python modules (Numpy, Scipy, Pandas and 
+Matplotlib). 
+• Committed, goal oriented, & learns new things & technologies. 
+• Ability to handle multiple tasks and assignments concurrently in cross-functional teams 
+and a flexible team player able to communicate with all levels of personnel.
+
+Work Experience
+
+Python Developer
+Tech Mahindra - Bengaluru, Karnataka
+February 2020 to Present
+
+Tech Mahindra. Python Developer (Feb 2020 to till date)
+Client: Carzone
+
+Description:
+This application is developed for a Carzone company where company wants to lift the cars and website
+and allow the user to visit the site and browse through all of its latest cars and features. And
+user  can  buy  or  sell  a  used  car,  at  this  point  user  can  specify  the  feature's  using  filters  and  get  the
+information about required car through email.
+
+Roles & Responsibilities:
+• Involved in developing carzone application for Carzone.
+• Installed &Configured MySQL database Connections.
+• Involved in creating models, views and templates for the assigned modules.
+• Written Rest-API's using Django-rest framework.
+• Actively involved in writing Unit Test cases.
+• Involved in code reviews and review meetings.
+• Developed and modified python code to make new enhancements or resolve problems,
+as per client requirement.
+
+Environment: Python, Django, Django-Rest, PostgreSQL, HTML, CSS, GIT, GITHUB.
+
+Declaration:
+
+I hereby declare that the information furnished above is true and correct to the best of my
+Knowledge. I bear the responsibility for any liabilities with the provided information.
+
+Bachelor of Technology in Mechanical Engineering in Mechanical Engineering
+JNT University Anantapur - Anantapur, Andhra Pradesh
+
+PRADEEP UPPULURI
+
+Education
+
+Skills / IT Skills
+
+• Languages
+
+• Python
+
+• Frameworks
+
+• Django, Visual studio
+
+• Web Technologies
+
+• HTML, CSS, JSON, XML.
+
+• SCM and Tools
+
+• Git, GitHub
+
+• Technical Tools
+
+• PyCharm, JIRA
+
+• Database
+
+• MySQL, PostgreSQL
+
+• Operating Systems
+
+• Windows
+
+• MySQL
+
+• Django
+
+• HTML5
+
+

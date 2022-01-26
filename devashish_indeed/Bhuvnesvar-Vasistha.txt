@@ -1,0 +1,76 @@
+Bhuvnesvar Vasistha
+Jaipur, Rajasthan
+-Email me on Indeed: http://www.indeed.com/r/Bhuvnesvar-Vasistha/ee9c85de842610e9
+
+2 years Python Developer working in the field of Data Science and Machine Learning with 
+proven success in building algorithms & predictive models. Passionate developer with ability to 
+apply ML techniques to solve real world industry problems. 
+ 
+OR 
+ 
+A pioneer and security-oriented developer offering more than 3+ years experience designing, 
+implementing, integrating, testing, and supporting impactful applications developers in diverse, 
+collaborative environments for mobile and tablets on the Android Platform. 
+ 
+Python Experience (Back-End Technologies) 
+● Writing scalable code using Python programming language 
+● Coordinating with front-end developers, Developing back-end components. 
+● Good Knowledge Of Testing and debugging applications. 
+● Database Handling (Postgres, MySql) 
+● Familiar with Google API(Firebase, OneSignal, Push Messages, Google Map etc .) 
+● Capable of working with VCS (Github, Bitbucket.) 
+● Using Third Party Libraries (Python Libs, SMS apis, SMTP Server) 
+● Make Apis(Django-Rest Framework) 
+● Server Side programming (Windows/Linux/Aws) 
+ 
+● Machine Learning Programming (ML Algorithms Model) 
+● Numpy, Pandas, Scipy, Scikit-learn, TensorFlow, Keras, NLTK, Spacy, Beautiful Soup, 
+MatPlotLib, Jupyter Notebook 
+ 
+Android Experience (Front-End Technologies) 
+● Code In Java/Kotlin. 
+● Static And Dynamic UI designing, Good Knowledge Of debugging. 
+● JSON And XML parsing, Database Handling. 
+● Social Media Integration. 
+● Familiar with Google API(Firebase, OneSignal, Push Messages, Google Map etc .) 
+● Capable of working with VCS (Github, Bitbucket.) 
+● Payment Gateway Integration.(Braintree, Stripe, Instamojo, Paytm) 
+● Google AdMob 
+● Using Third Party Libraries 
+● API Integration(Retrofit, Volley)
+
+Work Experience
+
+Python Developer
+BR Softech Pvt.Ltd
+March 2020 to Present
+
+Job Responsibilities-Develop, Integrate, Deploy the Python Project, Testing, Debugging.
+
+Job Responsibilities-Develop, Integrate, Deploy the Android app, Testing, Debugging.
+
+Job Responsibilities-Develop, Integrate, Deploy the Android app, Testing, Debugging.
+
+Android Application Developer
+Shashwat Advatech Pvt.Ltd
+October 2018 to March 2020
+
+Android Application Developer
+The NineHertzIndia - Jaipur, Rajasthan
+February 2017 to October 2018
+
+Skills / IT Skills
+
+• Programming Languages
+
+• Java/Kotlin, Flutter, Python.
+
+• Web Tools-HTML, CSS
+
+• Database- Mysql, Sqlite, Postgres
+
+• Operating System- Windows XP/7/8/10, Mac OS, Linux
+
+• Other Tools- Pycharm IDE, Visual Studio, Android Studio, MSOffice, Adobe Photoshop etc.
+
+

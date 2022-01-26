@@ -1,0 +1,76 @@
+Priya Mane
+Aurangabad, Maharashtra
+-Email me on Indeed: http://www.indeed.com/r/Priya-Mane/fc65ec69458383b9
+
+manepriya222019@gmail.com
+
+Work Experience
+
+Software Developer
+Identity Card Generation Software
+July 2019 to Present
+
+Environment: Java
+Database: MySQL
+IDE: Eclipse
+Description: The objective of project is to develop identity card which is having a uniquebarcode
+number that can be for identification.
+
+Responsibilities: • Responsible for coding and developing using Core Java.
+• Writing hibernate mapping files and maintain database.
+• Designing Controller, Service and DAO specific Java Classes.
+
+MINI PROJECTS DETAILS
+Project Title: Building an Online College Library Website
+Front-end: HTML, CSS
+Back-end: JavaScript
+Discription: The objective of project is t o first Create a Student Account and after Loging in. the Student
+selects number of books of his
+choice and then collects the information of the selected books
+
+PERSONAL DETAIL
+
+Date of Birth 22 july 1997
+
+Gender Female
+Marital Status Married
+Nationality Indian
+
+Education
+
+Bachelor of Engineering in Information Technology
+Government College Of Engineering Aurangabad - Aurangabad, Maharashtra
+2019
+
+DIPLOMA in Technology
+Information Government Polytechnic - Mumbai, Maharashtra
+
+2016
+
+S.S.C in Latur Board
+State Board
+2013
+
+BE in Technology
+Government College - Aurangabad, Maharashtra
+
+Skills / IT Skills
+
+• Technical Skills: C, Java, Javascript 
+
+ 
+IDE: Turbo C, Eclipse, VS Code 
+ 
+Web Technology: HTML, CSS
+
+• C
+
+• Java
+
+• SQL
+
+• JavaScript
+
+• Java
+
+

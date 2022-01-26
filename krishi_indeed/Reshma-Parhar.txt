@@ -1,0 +1,97 @@
+Reshma Parhar
+Passionate Backend Developer
+Karjat, Maharashtra
+-Email me on Indeed: http://www.indeed.com/r/Reshma-Parhar/0830cba394dc1ed1
+
+I have started my journey as backend developer at Jio Platforms Limited.Currently I am working on
+project Jiogate .I am responsible for developing microservice based API'S for both mobile apps and
+website. 
+ 
+I have always been a quick learner . I consistently love to learn new technologies and explore new
+things.I am very much curious about to know how things happen in background for every code
+execution. 
+ 
+I am working on technologies like Node.js,Express.js.I have experience of working with databases like
+Mongodb,Redis,Mysql and Elastic Search.I have basic exposure to CICD tools like docker,jenkins and
+kubernetes.
+
+Willing to relocate: Anywhere
+
+Personal Details
+
+Date of Birth: 1999-03-23
+Eligible to work in: India
+Highest Career Level: 1-2 years experience
+Industry: Information Design & Documentation
+Total years of experience: 1
+
+Work Experience
+
+Backend Developer
+Jiogate Platforms Limited
+June 2021 to Present
+
+• Experience in RESTful API design and development
+• Implemented npm module for common functions used in Jio Gate Project
+• Actively Participate in defining the product as part
+• of regular meetings with the product team
+• Developed scripts for synchronization of db
+• Modified existing restful web service
+• Delivered quality code in an optimized way by applying the best development practices
+• During API development created API documentation using
+• Swagger and tested API’s using chai,mocha and sinon.
+• I am having experience working within agile methodologies
+•  Hands  on  experience  with  Continuous  Delivery  build  pipeline  tools  like:  Git,  Jenkins  ,Docker  and
+Kubernetes
+
+Education
+
+Higher Secondary(12th Pass)
+Mahatma Gandhi Vidyalaya,Karjat - Karjat, Maharashtra
+June 2016 to June 2017
+
+Skills / IT Skills
+
+• Javascript
+
+• Java
+
+• C
+
+• Html5
+
+• Css
+
+• Python
+
+• Node.js (Less than 1 year)
+
+• Express Js (Less than 1 year)
+
+• Mongodb (Less than 1 year)
+
+• Mysql (Less than 1 year)
+
+• Redis (Less than 1 year)
+
+• Elastic Search (Less than 1 year)
+
+• RabbitMQ (Less than 1 year)
+
+• Software Development (1 year)
+
+• Gitlab (Less than 1 year)
+
+Languages
+
+• Hindi - Fluent
+• Marathi - Fluent
+• English - Fluent
+
+Online Profile
+
+https://github.com/reshmapar
+
+https://www.linkedin.com/in/reshmaparhar23/
+
+

@@ -1,0 +1,94 @@
+Erum Taskeen
+Aland, Karnataka
+-Email me on Indeed: http://www.indeed.com/r/Erum-Taskeen/bfa0061b2ab31acd
+
+To have a growth oriented and challenging career, where 'I' can contribute my knowledge and skills to 
+the organization also enhance my experience through continuous learning and teamwork, to utilize
+my 
+skills and abilities while being resourceful and innovative.
+
+Willing to relocate: Anywhere
+
+Work Experience
+
+Oracle Application Developer
+IBM - Bengaluru, Karnataka
+July 2019 to Present
+
+• Around 2 years of experience in Application Development using Oracle SQL, PL/SQL, and Developer
+Oracle Application Express (APEX).
+• Proficiency in analysis, design, development, testing, implementation and maintenance of applications
+in Oracle Application Express (APEX).
+• Good conceptual knowledge of Oracle 10g/11g, PL/SQL and SQL.
+• Rich experience in writing SQL queries, Views, PL/SQL procedures, functions, packages, triggers,
+cursors, collections.
+• Experience in developing External Tables, Joins, Indexes and sequences.
+• Use of exception handling methods along with Pragma Exception_init in order to associate our
+own created exception names.
+• Experience in using DBMS_SCHEDULER to run jobs in parallel to improve time-constrained
+performance.
+• Experience in deploying forms and reports on the web.
+• Experience in developing forms based on views, tables and procedures in tabular and form
+layouts.
+• Good in creating users and maintaining their roles and responsibilities.
+• Hands-on experience with Oracle APEX 4.1 (Oracle Application Express).
+•  Strong  interpersonal  skills,  ability  to  interact  with  people  at  all  levels.  Good  communication  and
+presentation skills.
+
+Application developer
+IBM India(P)Ltd - Bengaluru, Karnataka
+July 2019 to Present
+
+Education
+
+Bachelor's in Electronics and instrumentation engineering
+PDA college of engineering - Kalburgi
+August 2014 to June 2018
+
+Skills / IT Skills
+
+• Databases: Oracle /10g/11g
+
+• Scripting: SQL
+
+• Languages: PLSQL
+
+project coordination.
+
+• Oracle APEX 4.1 (Oracle Application Express)
+
+• Worked with the Business analysts and DBA for requirements gathering, business analysis and
+
+• Involved in updating procedures, functions, triggers and packages for validation and loading into
+
+target table based on requirement.
+
+• Formulated SQL queries as per customization requirement for APEX.
+
+• Provided APEX guidance and support on application maintenance.
+
+• Developed custom forms and reports based on Client requirements.
+
+• Reviewed peer codes and documented proof of concepts and database schemas.
+
+• Developed Procedures for efficient error handling process by capturing errors into user managed
+
+tables.
+
+• Coded, tested, troubleshot and conducted unit testing for APEX applications.
+
+• Supported QA activities, test plans and performance enhancement techniques.
+
+• Worked with developers to repair and enhance current base of PL/SQL packages to fix production
+
+issues and build new functionality and improve processing time through code optimizations.
+
+• PL SQL
+
+• Oracle Database
+
+• Apex
+
+• Performance Tuning
+
+

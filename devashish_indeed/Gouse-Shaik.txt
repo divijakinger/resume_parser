@@ -1,0 +1,93 @@
+Gouse Shaik
+Guntur, Andhra Pradesh
+-Email me on Indeed: http://www.indeed.com/r/Gouse-Shaik/ad1c646686f144df
+
+Software Engineer 3years of experience 
+ 
+• Having 3 Years of experience on Service-now ITSM Tool as Administrator and Developer. 
+• Good knowledge in Core Java. 
+• Good knowledge on Java script. 
+• Worked as a Software Engineer at Cognizant 
+• Worked on UI policies, UI actions and business rules. 
+• Adding and administering users, groups and roles. 
+• Worked on creating Catalogue Items, Record Producer and Order Guides. 
+• Implementation of Email Notification and Events. 
+• Used Import Sets to extract data from various sources. 
+• Used Update sets to move customization from instance to instance. 
+• Implementing security mechanism using Access Control. 
+• Creating workflow activities and approvals 
+• Knowledge on rest, soap, scripted rest API, rest API Explorer, rest message. 
+• Personalizing and creating forms and fields for the various roles and groups to target company
+requirement. 
+• Creation of application and modules to the application. 
+• Implementation of Service Level Management. 
+• Handling implementation of ITSM modules using the Service Management Process Model, to facilitate
+adoption of ITIL using Service Now ITSM applications; involved in creation of back end codes 
+• Understanding the technical & functional specifications and designing, developing, testing,
+troubleshooting and debugging of the applications 
+• Managing smooth implementation and testing of the application at client location; ensuring defect
+free application by testing modules as per agreed specifications 
+• Providing post-implementation, enhancement and maintenance support to client for application
+
+Willing to relocate to: Hyderabad, Telangana - Chennai, Tamil Nadu - Bengaluru, Karnataka
+
+Work Experience
+
+ServiceNow Developer
+Cognizant
+January 2019 to Present
+
+• Worked as a Software Engineer at Cognizant
+• Worked on UI policies, UI actions and business rules.
+• Adding and administering users, groups and roles.
+• Worked on creating Catalogue Items, Record Producer and Order Guides.
+• Implementation of Email Notification and Events.
+• Used Import Sets to extract data from various sources.
+• Used Update sets to move customization from instance to instance.
+• Implementing security mechanism using Access Control.
+
+• Creating workflow activities and approvals
+• Knowledge on rest,soap,scripted rest API,rest API Explorer,rest message.
+•  Personalizing  and  creating  forms  and  fields  for  the  various  roles  and  groups  to  target  company
+requirement.
+• Creation of application and modules to the application.
+• Implementation of Service Level Management.
+• Handling implementation of ITSM modules using the Service Management Process Model
+
+Education
+
+M.Tech in Technology
+JNTU - Kakinada, Andhra Pradesh
+2016
+
+Skills / IT Skills
+
+• Involved in Service Now Development, Customization and Administration
+
+• Creation of new service Catalog items, order guides, record producers and modifying the existing
+
+ones as per the new requirement.
+
+• Processes/modules deployment of Incident, Problem, Change, Service Level Management, Service
+
+Catalog.
+
+• Developing and configuring Business Rules, UI Policies, Catalog Client Scripts and Client Scripts etc.
+
+• Creating Workflows for Custom applications Automation.
+
+• Service Catalog designing and work flow implementations.
+
+• Configuring of Existing scripts, UI policies and UI actions.
+
+• Configuring Users, Groups and Roles.
+
+• Created various notifications at different stages.
+
+Catalog.
+
+• ITSM
+
+• Processes/modules deployment of Incident, Problem, Change, Service Level Management, Service
+
+

@@ -1,0 +1,73 @@
+Ekta Merai
+Surat, Gujarat
+-Email me on Indeed: http://www.indeed.com/r/Ekta-Merai/6d63f374d6d100c5
+
+Work Experience
+
+Shopify Developer-wordpress Developer
+Tecocraft Infusion Pvt Ltd - Surat, Gujarat
+January 2021 to Present
+
+Developed site from the scratch in Wordpress and shopify.
+● Worked with Shopify AJAX API, Admin REST API
+● Worked with CLI, Themekit, GITHUB
+● Developed custom, private and public apps.
+● Communicate with clients and collect the requirements.
+● Customized the theme in shopify
+● Improved the site speed in shopify and wordpress site
+● Fixed the bugs on sites
+
+Shopify Developer-wordpress Developer
+Day dream soft Pvt Ltd - Surat, Gujarat
+April 2019 to December 2020
+
+Developed site from the scratch in Wordpress and shopify.
+● Communicate with clients and collect the requirements.
+● Customized the plugin in wordpress.
+● Customized the theme in shopify
+● Improved the site speed in shopify and wordpress site
+● Fixed the bugs on sites
+
+PHP Developer
+Broadview Innovation Pvt Ltd - Surat, Gujarat
+July 2017 to June 2018
+
+Developed customization option and integrated payment gateway according to client
+requirement for online booking system.
+• Tested "Cleanto" booking system.
+
+Education
+
+ICT
+J. P. Dawer Institute of Information Science & Technology - Surat, Gujarat
+June 2015 to April 2017
+
+BCA in Photography
+Usha Institute of Applied Science & Dhiru-Sarla Institute of Management & Commerce valsad - valsad,
+GUJARAT, IN
+
+• HTML, CSS, PHP, Liquid, Shopify, Shopify 2.0, WordPress, Ajax, jQuery, Mysql, REST API, Admin Ajax
+
+June 2012 to February 2015
+
+Skills / IT Skills
+
+API.
+
+• Shopify private app, public app, custom app
+
+• HTML to Shopify website development by using section and metafield
+
+• HTML to Wordpress website development by using ACF custom field
+
+• eCommerce website development by using Woocommerce
+
+• Different type of shopify theme and APPs integration and customization
+
+• Payment Method: Paypal, Stripe, PayU, Airpay, 2chckout, EBS
+
+Online Profile
+
+http://www.linkedin.com/in/ekta-merai
+
+

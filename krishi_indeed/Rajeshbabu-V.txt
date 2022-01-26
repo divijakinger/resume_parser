@@ -1,0 +1,124 @@
+Rajeshbabu V
+Bengaluru, Karnataka
+-Email me on Indeed: http://www.indeed.com/r/Rajeshbabu-V/f790eac938c6e49e
+
+Work Experience
+
+SOFTWARE DEVELOPER
+MINDTREE - Bengaluru, Karnataka
+May 2018 to Present
+
+Having 3.7 years of professional development experience in the areas of Microsoft SQL Server, SSIS and
+Microsoft Power BI.
+
+Expertise in Transact-SQL (DDL, DML, DCL, DQL) and in design and Normalization of the database tables.
+Improve the database Performance and Availability.
+Experience in implementing business logic using Indexes, Views and Stored Procedures. Hands in Query
+Tuning and Performance Tuning.
+
+Worked  with  various  tasks  of  SSIS  include  Transform  Data  Task,  Execute  SQL  Task,  Script  Task  etc.
+Created SQL jobs to schedule SSIS Packages.
+Having good experience in Power query, Power pivot and Power view for creating the effective reports
+and dashboards in Power BI Desktop
+
+BBM
+SRI KRISHNA DEVARAYA University - Anantapur, Andhra Pradesh
+
+Education
+
+Skills / IT Skills
+
+• Technologies: Power BI Databases: SQL Server, Excel ETL Tool: SSIS Reporting Tools: MS. Power BI
+PROJECTS WORKED ON PROJECT: 2 PROJECT NAME: DOLLAR GENERAL Project Description: Dollar
+General Corporation is a discount retailer. It offers merchandise, including consumable items,
+seasonal items, home products and apparel. Its consumables category includes paper and cleaning
+products, packaged food, perishables, snacks, health and beauty, pet, and tobacco products is stores
+headquartered in Goodlettsville, Tennessee. The company began in 1939 as a family-owned business
+called J.L. Turner and Son in Scottsville, Kentucky, owned by James Luther Turner and Cal Turner. In
+1955, the name changed to Dollar General Corporation and in 1968 the company went public on the.
+Roles & Responsibilities:
+
+• Data Extraction, Transforming and Loading (ETL) using SQL Server Integration Services (SSIS), DTS,
+
+Bulk Insert, BCP.
+
+Requirements
+
+• Creation of packages by using required transformations in SSIS. Understanding the Business and its
+
+• creating SSIS Packages for integrating data using OLE DB connection from sources (Excel, CSV, Flat
+file) by using multiple transformations provided by SSIS such as Data Conversion, Conditional Split,
+Bulk Insert, merge and union all.
+
+• Involved discussion with business users for gathering the requirements and driving daily call with
+
+clients.
+
+• Experience with creating reports and dashboards using Power BI.
+
+• Connected MySQL to created Power BI reports- Matrix, Bar Charts, Line Charts, Pie Charts, Donut
+
+Chart, and Bubble and stacked Bar Chart, Box and Whiskers Chart etc.
+
+• Created Dashboards apply the filters Drill through & Drill Down functions and created tooltip on
+
+sheet level as per requirement.
+
+• Creating Report level apply Individual, Report, Page level filters in power bi.
+
+• Created Book Mark Pane applies to the actions on view details and Text/ Matrix Tables.
+
+• Implemented Row Level Security as per requirement.
+
+• Testing in MS SQL data base to write query to check the data is matching in power Bi desktop.
+
+• Experience in Publishing Power BI reports to Power BI server. PROJECT: 1 PROJECT NAME: CARDINAL
+HEALTH Project Description: Cardinal Health, Inc. is an American multinational health care services
+company, and the 14th highest revenue generating company in the United States. Its headquarters
+are in Dublin, Ohio and Dublin, Ireland (EMEA). The company specializes in the distribution of
+pharmaceuticals and medical products, serving more than 100,000 locations. The company
+also manufactures medical and surgical products, including gloves, surgical apparel, and fluid
+management products. In addition, it operates one of the largest network of radio pharmacies in the
+U.S. Cardinal Health provides medical products to over 75 percent of hospitals in the United States.
+Roles & Responsibilities:
+
+• Imported data from SQL Server DB to Power BI for generating the reports.
+
+• Created DAX Queries to generated computed columns in Power BI.
+
+• Used Power BI, Power Pivot to develop data analysis prototype, and used Power View and Power Map
+
+to visualize reports
+
+Web clients and mobile apps
+
+• Published Power BI Reports in the required originations and Made Power BI Dashboards available in
+
+• Explore data in a variety of ways and across multiple visualizations using Power BI
+
+• Used Power BI Gateways to keep the dashboards and reports up to date.
+
+• Installed and Configured Enterprise Gateway and Personal Gateway in Power Bi Services.
+
+• Published reports and dashboards using Power BI.
+
+• Creating Row level security with power bi and integration with power bi service portal.
+
+• Developed profit analysis reports and dashboards by products and customers
+
+• Worked on all types of transformations that are available in Power bi query editor.
+
+• Scheduled Automatic refresh and scheduling refresh in power bi service.
+
+• SQL
+
+• Ssis
+
+• power bi
+
+Languages
+
+• English - Fluent
+• Telugu - Expert
+
+

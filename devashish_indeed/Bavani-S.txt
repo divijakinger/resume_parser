@@ -1,0 +1,49 @@
+Bavani S
+Sharepoint developer
+Bengaluru, Karnataka
+-Email me on Indeed: http://www.indeed.com/r/Bavani-S/4db3f99b31a6291e
+
+A result-Oriented Software Engineer is seeking a challenging opportunity in Microsoft SharePoint,
+application development where strong programming and problem-solving skills can be applied.
+
+Work Experience
+
+Android Developer
+FLEET TRACKER
+January 2017 to December 2018
+
+Description:
+The project involves Leads is fleet tracker to track and monitor vehicles anytime and anywhere in real
+time. It offers real time vehicle location along with other information like speed, fuel status and engine
+status ON/OFF and vehicle status like running, idle or parked. Product also alerts the owner with important
+events on the vehicles like over speed. Rash driving, fuel Pilferage etc.
+Job Responsibility:
+● R&Ds
+● Task management, development and code integration.
+● Project management & reporting
+● Google map
+
+Declaration
+I hereby declare that the information contained herein is true and correct to the best of my knowledge
+and belief.
+
+Place: Bangalore Bavani.S
+
+Education
+
+Bachelor's in Computer Science
+Bengaluru, Karnataka
+
+Skills / IT Skills
+
+• Sharepoint
+
+• Sharepoint Designer
+
+• Powerapps
+
+• Portal Technology: Java, SharePoint 2016, & SharePoint Online (Office 365). 
+
+Microsoft Technologies: Java Script, HTML5 & CSS
+
+

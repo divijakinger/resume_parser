@@ -1,0 +1,75 @@
+V. Manikanta
+Bengaluru, Karnataka, Karnataka
+-Email me on Indeed: http://www.indeed.com/r/V-Manikanta/a33bf227191e49d9
+
+· Having 2 years 6 months of experience in IT industry with experience in 
+Production/web Application development. 
+· Having good knowledge on Object Oriented Programming. 
+· Hands on working experience Python and Django framework. 
+· Expertise in developing business logics of python  
+· Good Experience in quick fixing of bugs. 
+· Good Ability to write SQL queries. 
+· Experience with configuration management and related tools. 
+· Experience in working with Django ORM. 
+· Follow proper protocol on escalating the issues and for better understanding. 
+· Proven Analytical and problem resolution skills and able to set own action plans.
+
+Work Experience
+
+Backed Developer
+Innominds
+August 2019 to Present
+
+: Python , Django, MySQL, Html, css and boostrap get filter in staging tables and finally saved own to
+the database which is called dump database, which is helpful to fetch the data and generating reports
+for analysis and various purposes. The application is designed to collecting data and creating analytics
+out of that, It is the Market data and Order data, When a quote is published it will come in to our DB
+and subscribe to Rio, It listens to EMS brokers/providers(diff topics), EMS Broker distribute the data and
+FH(Feed
+Handlers)parse RIO Messages and write them to ticker plant, TP receive updates from FH and publish to
+subscriber and RT subscribes to TP and keeps all messages
+In memory of the day, IT persists its EOD data to hist service and loaders do the rest job to load the
+data into HIST services.
+Roles and Responsibilities:
+· Work with stakeholders and fellow developers.
+· Django developers are responsible for developing cloud based products.
+· Making day to day changes on coding on requirements.
+· Participating in sprit meetings in daily.
+· In case of Code fix, Responsible for:
+· Take part in code reviews and documentation reviews.
+· Developed, tested and debugged software tools utilized by client.
+· Manage and security of the platform.
+· Identify and fix software bugs.
+· Status reporting on weekly basis.
+· Portable and flexible further enhancement.
+
+Education
+
+Bachelor's degree in Computer Science
+Viswam degree college
+
+Skills / IT Skills
+
+• Configuration management
+
+• Computer science
+
+• HTML5
+
+• CSS
+
+• Python
+
+• Django
+
+• OOP
+
+• IT
+
+• Application development
+
+• MySQL
+
+• Debugging
+
+

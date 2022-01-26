@@ -1,0 +1,123 @@
+Parvez Hussain
+Gurgaon, Haryana
+-Email me on Indeed: http://www.indeed.com/r/Parvez-Hussain/c83a278d0af3dbc3
+
+PROFESSIONAL PROFILE SUMMARY 
+ 
+I am a dynamic and self-motivated professional with 4.5 Years of diverse experience in tool
+configuration, creation of scripts, 
+running scripts, tool testing, Web Testing and Project management .I have experience in Tool
+configuring, Requirement analysis, 
+Database management, project management, project planning, executing, Monitoring and closing of
+major and minor projects. 
+Also have a vast experience in identification, analysis & resolution of both pro-active & reactive
+bottlenecks of process flow. I 
+possess good organizational skills with proven abilities in team management, client relationship
+management & effective crisis 
+management. 
+ 
+CAREER HIGHLIGHTS 
+ 
+Setup Configuration Specialist - AON Hewitt 
+ 
+➢ Implementation and Configuration work as developer, Prepairing scripts, Running Scripts on DBMS
+environments, bug 
+fixing, worked on AM360 tool. 
+➢ Created and executed test plans, cases and scripts to uncover, identify and document software
+problems and their 
+causes. 
+➢ Analysis of client requirement. 
+➢ Good understanding of SDLC & STLC, Agile (Scrum) process. 
+➢ Documented software defects using bug tracking system and reported defects involving program
+functionality, 
+output, online screen and content to software developers. 
+➢ Hands on Experience in JIRA, SQL, Eclipse Tool, Black Box Testing. 
+➢ Cohesive team worker, having strong analytical, problem solving and interpersonal skills. 
+➢ Working on daily deliverable work to the client. 
+➢ Enhanced the performance of the team by implementing Best Practices and maintaining pace with
+the current 
+technological change and development. Awarded with Unmatched Team Award(Gold Award) for the
+same. 
+ 
+Client Implementation Associate - Guardian India 
+ 
+➢ Management of Management Software. 
+➢ Successfully accomplished rollout of Absence Management Software -''360ASP'' in Guardian India
+for 
+
+maintaining tracking of employee benefits. 
+o Served as a lead for 360ASP as Issue Resolution team. 
+o benefit analysis of 360ASP and examined estimated no. of users in Delhivery for actually using it
+and 
+resolved different issue on an organization level. 
+o Got to work on SQL for fetching out employees of clients.
+
+Work Experience
+
+developer
+FMC
+March 2015 to October 2018
+
+Tracking changes and enhancements of similar products and services.
+➢ Performed Unit and Integration testing.
+➢ Prepared weekly reports and bug Report.
+
+Client Name: - Johnson & Johnson (United States & Puerto Rico)
+
+Role & Responsibility:
+➢ Dev work and bug fixing, Prepaire scripts, identify and document software problems and their causes.
+➢ Analysis of client requirement.
+➢ Bug fixing and unit testing.
+
+Client Name: - NISSAN
+Role & Responsibility:
+➢ Configured Correspondence (Using HTML, Java - Eclipse, SSH secure Shell).
+➢ Performed Unit Testing, Acceptance Testing, Integration Testing)
+➢ Also worked on Plans Configuration (provided by the respective Clients and their testing)
+
+Education
+
+CBSE in Board
+Rawal Convent School Ballabgarh
+2011
+
+CBSE in Board
+High school standard - Palwal, Haryana
+2009
+
+Skills / IT Skills
+
+• SQL-Advance Query Tool
+
+• HTML and XML scripts
+
+• Ecllipse and Jira
+
+• General Software- MS-Office (MS-Project Planning, MS-Word, MS-Excel, MS-Power Point).
+
+• White box testing, Unit Testing, Black box testing, Functional Testing etc.
+
+• Software Development Methodologies
+
+• Software Testing
+
+• Defect/Bug Tracking(JIRA)/tfs
+
+• Functional Requirements
+
+• Scripting & Documentation
+
+• HTML5
+
+• SQL
+
+• Agile
+
+Languages
+
+• Hindi - Native
+• English - Expert
+• Urdu - Intermediate
+• Arabic - Beginner
+
+

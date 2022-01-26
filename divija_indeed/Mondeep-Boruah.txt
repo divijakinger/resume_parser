@@ -1,0 +1,95 @@
+Mondeep Boruah
+NodeJs Backend Developer
+Bengaluru, Karnataka
+-Email me on Indeed: http://www.indeed.com/r/Mondeep-Boruah/a9a106fdc7603c5d
+
+I'm a Software Engineer having 4 years of expertise in web development in an Agile environment.
+Experienced 
+in both F/E and B/E technologies. Having rich hands on exposure in backend REST API development
+using 
+Node.Js. Having good hands on exposure to single page application development using Angular 6+ &
+ReactJs 
+Having exposure to both SQL(MySQL & MSSQL) and NoSQL(MongoDB & CassandraDB) databases.
+Having good 
+experience in Integration development using MuleSoft. I'm passionate to learning new IT skills and
+currently 
+growing as a professional.
+
+Work Experience
+
+SOFTWARE DEVELOPER
+ICF Next - Bengaluru, Karnataka
+February 2021 to Present
+
+India.
+
+Project Title E-KYC
+Description It is a Fin-Tech web application that helps the client to verify its customer with the help of
+an ID like Aadhaar, PAN etc.
+Responsibilities • Individually handled the development of RESTFul APIs for backend
+• Integrated the APIs with third party services.
+• Provided support on UI development.
+
+APPLICATION DEVELOPMENT ANALYST
+ACCENTURE - Bengaluru, Karnataka
+October 2017 to February 2021
+
+India.
+
+Project Title Gitex
+Description It is a data visualization web application. Main objective of this application is to track the
+mobility of people around different regions of UAE during covid-19. It has
+different modules like tapestry, mobility, mode of transport, accident prediction
+etc.
+Responsibilities • Developed the backend RESTful APIs with an individual effort.
+• Provided support in API integration with UI.
+Project Title MyNav-ID
+
+Description MyNav-ID is an intelligent diagnostic web application which provides the user with discussions
+related to different cloud platforms like AWS, AZURE, GCP etc
+Responsibilities • Developed RESTful APIs for the backend
+• Development of UI components and integrating those with backend APIs.
+• Created functionalities using Node.Js for uploading files to Azure BLOB
+storage.
+Project Title Rakuten
+Description Omni channel web application which provides the users with facilities like raising a
+ticket on network issues, buying a product, raise a query etc. It is a telecom based
+product.
+Responsibilities • Developed and enhanced the micro-services and RESTful APIs.
+• Developed UI components in Angular 6 and integrating those with backend
+NodeJs APIs.
+• Wrote Unit test cases using MOCHA and CHAI frameworks.
+
+Project Title H&PS
+Description It is an Accenture internal a content management hybrid application which
+provides various public service information to the employees
+Responsibilities • Developed RESTful APIs for hybrid mobile application and web admin
+application using NodeJs and Express
+• Created DB tables for storing the data in MySQL.
+• Wrote Unit test cases using MOCHA and CHAI.
+• Participated in code deployment to AWS EC2 instance
+
+Project Title Humarashop
+Description Hindustan Unilever E-commerce platform which allows the user to order and buy
+product from stores nearby to their location.
+Responsibilities • Developed and enhanced RESTful APIs to integrate Darwin to Hybris
+backend, UI to Hybris backend using Mulesoft
+• Deployed APIs to Mulesoft cloudhub
+• Provided support in Grafana monitoring
+
+Education
+
+Skills / IT Skills
+
+• JavaScript
+
+Master of Computer Applications in Computer Applications
+Assam Engineering College - Guwahati, Assam
+2014 to 2017
+
+• PRIMARY: NodeJs, Express, Javascript, ES6 
+
+SEONDARY: Angular 6+, ReactJs, Core Java, MySQL, NoSQL, MongoDB, Mulesoft, Agile, SAFe, Git 
+TOOLS: JIRA, Git, VS Code, Eclipse, Postman, Workbench
+
+

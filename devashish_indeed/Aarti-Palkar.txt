@@ -1,0 +1,89 @@
+Aarti Palkar
+Thane, Maharashtra
+-Email me on Indeed: http://www.indeed.com/r/Aarti-Palkar/d1d99e5af4dbdd99
+
+Work Experience
+
+PHP Developer
+2.Gcr Technologies Private Limited - Thane, Maharashtra
+August 2020 to June 2021
+
+Project1: Society Management
+Society Management effectively manages and handles all the functioning of cooperative housing society.
+
+My Contribution
+1.Work as Full stack developer on PHP as backend
+2..Developed several SQL Scripts to extract data from a Mysql Server
+Database and load the results into the server database.
+3.Worked on Requirement gathering.
+
+Technologies Used
+Laravel 7, Mysql 5.7, Git, windows 10, VS Code
+
+PHP Developer
+3.Fintelligence Data Science Private Limited - Mumbai, Maharashtra
+September 2019 to July 2020
+
+Project: Product name "RupeeCircle"
+RupeeCircle is a new age finance company that's moving the shift to a
+bankless world.RupeeCircle provides access to quality credit for everyone
+at attractive interest rates through a simple, tech-enabled experience and exceptional customer service.
+
+My Contribution
+1.Worked on development of a peer-to-peer lending platform product
+named "RupeeCircle".
+2.Developed Moratorium Product for COVID-19 Pandemic.
+3.Formulating a reusable REST API to consume data from and push data into
+MongoDB.
+4.Developed new features and implemented them in the UI, using JQuery
+and Angular.
+
+Technologies Used
+Laravel 5.8, Mongo 3.2, SVN, Linux 18.4, PHPStorm
+
+ASSOCIATE PHP DEVELOPER
+A5E Consulting - Thane, Maharashtra
+August 2017 to August 2019
+
+Project: Product name "PeopleApex"
+
+PeopleApex is a global HR Software - an Employee Experience Platform
+designed to help you get the best from your people, by ensuring your
+people feel engaged, empowered and energized for peak performance
+thereby improving productivity.
+
+My Contribution
+1.Worked on development of HRM and PAYROLL product named
+"PeopleApex"
+2.Developed a Task Management Module (People Apex Product)
+3Developed a Travel Management Module (People Apex Product)
+4.Worked on Payroll Report and other reports etc.
+
+Technologies Used
+Zend Framework 3, MySql 5.7, FileZilla, Windows 10, NetBeans
+
+ㅡ
+
+Education
+
+• PHP
+
+• JavaScript
+
+• HTML5
+
+• MySQL
+
+Diploma in Computer Engineering
+Govt.Polytechnic Thane - Thane, Maharashtra
+
+Skills / IT Skills
+
+• Frameworks: Laravel 5.7 Laravel 7, Zend3 Database: Mysql, MongoDB Javascript Library: JQuery,
+Datatable.js, JQuery UI Version Control Tools: GitHub, SVN (Apache Subversion) Web Services:
+RESTFUL API Doctrine-Orm-Module Unit Testing Tools: PHPUnit Operating System: Linux, Windows
+Bug Management Tools: JIRA, Mantis Bug Tracker
+
+• 1.Bombay Softwares (Edugem Technologies Pvt Ltd)/ PHP Developer
+
+

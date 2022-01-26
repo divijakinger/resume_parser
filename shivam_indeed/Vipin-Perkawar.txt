@@ -1,0 +1,312 @@
+Vipin Perkawar
+Pune, Maharashtra
+-Email me on Indeed: http://www.indeed.com/r/Vipin-Perkawar/8712e2cb2c6ce7f5
+
+➢ 15 Months of Experience with Blend IT Solutions Pvt. Ltd. Pune as Jr. Software Developer and
+Requirement Analysist. 
+➢ 24 Months of Experience with Creataum Technologies Pvt. Ltd. Pune as Jr. Software Developer and
+Requirement Analysist. 
+➢ 8 Months Experience with Paymint Global Payment Solutions Pvt. Ltd. Pune as Sr. Software
+Developer and Requirement Analysist. 
+➢ 11 Months Experience with Saber Softech Pvt. Ltd. Pune as Sr. Software Developer with WPF and
+WinForms for developing ATM and Kiosk software. 
+➢ Experience with Salus Technologies Pvt. Ltd. Pune as Sr. Software Developer from 28th july 2020 till
+now.. Working for wpf and mvc web applications 
+➢ Experience in SQL 2000, 2005, 2008, C#, ADO.NET, XML, Web Services, Ajax, WinForms, WPF 
+➢ Experience in C#.net 4.0, Asp.net 4.0, Angularjs, SQL Server 
+➢ Experience in developing n-tier distributed .NET applications using Web Forms and Win Forms. 
+➢ Flexible, adaptable and versatile to handle multiple projects through all stages of design in new and
+stressful environments. 
+➢ Ability to perform individually and within team environments. 
+➢ Good analytical problem-solving skills, fast learner, and detail-oriented. 
+➢ Best Employee of Year 2013 of Blend IT Solution and Most dedicated person.
+
+Work Experience
+
+Developer
+Salus Technologies Pvt. Ltd - Indore, Madhya Pradesh
+July 2020 to November 2020
+
+Responsibilities
+Involved in Development of Admin Panel, design and coding activity.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL 2008, C#,MVC,ASP.NET
+Organization
+Duration 2nd November 2020 to 3rd February 2021
+
+Project 3 Goldstar
+Description Goldstar is web based poker game
+Role Developer
+Responsibilities
+• Involved in Development of Admin Panel, design and coding activity.
+• Development of DB in SQL 2008
+
+Tools/Technologies used PL/SQL 2008, C#, WPF, ASP.NET
+Organization Indore
+
+Duration 4th February 2021 to 15th August 2021
+
+Software Developer
+Salus Technologies Pvt. Ltd - Indore, Madhya Pradesh
+January 2020 to July 2020
+
+Tools used: Visual Studio 2015-2017, SQL Server 2008-2012, jQuery and Web
+Services (WCF),Web Api
+Project 1 Sayatan
+Description Sayatan is web based poker game
+Role Developer
+Responsibilities
+• Involved in Development of Admin panel, design and coding activity.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL 2008, C#, MVC, ASP.NET
+
+Developer
+Brinks Indore - Indore, Madhya Pradesh
+October 2019 to January 2020
+
+Duration 6th October 2019 to 10th January 2020
+
+Project 3 Hostel ATM
+Description Hostel ATM is cash depositing and cash withdrawal software build using WPF. Used in Hostel
+for students
+Role Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Development of DB in SQL 2008
+
+Tools/Technologies used PL/SQL 2008, C#, WPF, ASP.NET
+
+Developer
+Kidzania Delhi - Delhi, Delhi
+July 2019 to October 2019
+
+Duration 5th July 2019 to 6th October 2019
+
+Project 2 Brinks
+Description
+Brinks is cash depositing software build using WPF. Used for deposit money in metro mall and every day
+custodian come and collect money from bag and deposit money in bank.
+
+Role Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL 2008, C#, WPF, ASP.NET
+
+Software Developer
+Paymint Global Payment Solutions Pvt. Ltd - Pune, Maharashtra
+December 2018 to March 2019
+
+Pune
+Duration 7th December 2018 to 26th March 2019
+
+4. Organization: Saber Softech Pvt. Ltd, Pune
+Designation: Software Developer
+Tools used: Visual Studio 2015-2017, SQL Server 2008-2012, jQuery and Web
+Services (WCF),Web Api, WPF, WinForms
+Project 1 KIdzania
+Description KIdzania is atm software build using WPF. Used for withdrawing money from atm and balance
+enquiry, pin change etc.
+Role Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL 2008, C#, WPF, ASP.NET
+
+Developer
+Paytech It - Pune, Maharashtra
+June 2018 to December 2018
+
+Pune
+Duration 6th June 2018 to 6th December 2018
+
+Project 2 Paymint hrms
+Description
+Paymint hrms is a website create for organization management which includes modules for employee
+management, HR management, leaves management and expense management
+
+Role Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Development of DB in SQL 2012.
+
+Tools/Technologies used PL/SQL 2012, C#, jQuery, Angularjs, ASP.NET
+
+Software Developer
+Creataum Technology Pvt. Ltd - Pune, Maharashtra
+October 2016 to June 2017
+
+Pune
+Duration 6th October 2016 to 10th June 2017
+
+3. Organization: Paymint Global Payment Solutions Pvt. Ltd, Pune
+Designation: Software Developer
+Tools used: Visual Studio 2013-2015, SQL Server 2008-2012, jQuery and Web
+Services (WCF), Web Api
+
+Project 1 billionairclub.com
+Description
+billionairclub.com is a website where user can book flights. On this site they can take membership, gold/
+bronze etc. So premium members can travel without payment until membership expires.
+
+Role Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Development of DB in SQL 2012.
+
+Tools/Technologies used PL/SQL 2012, C#, jQuery, Angularjs, ASP.NET
+
+Software Developer
+Creataum Technology Pvt. Ltd - Pune, Maharashtra
+February 2016 to October 2016
+
+Pune
+Duration 7th February 2016 to 5th October 2016
+
+Project 3 School management system
+Description
+School management system is windows application which help school teacher attendance entry, students
+attendance entry ,send remainder to student for school fees, send exam time table and also all other
+activities required for school.
+
+Role Software Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Adding or modifying functionality of new or existing components as per the needed requirements.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL 2008, C#, jQuery, ASP.NET
+
+Software Developer
+Creataum Technology Pvt. Ltd - Pune, Maharashtra
+June 2015 to February 2016
+
+Pune
+Duration 5th June 2015 to 6th February 2016
+
+Project 2 propertyjinnee.com
+Description
+propertyjinnee.com is a site where users can search for any type of property for rent, purchase etc. Site
+have some other features like search any home needs such as doctor's, banks, ATMs and any nearby.
+
+Role Software Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Adding or modifying functionality of new or existing components as per the needed requirements.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL 2008, C#, jQuery, ASP.NET
+
+Software Developer
+Blend IT Solutions Pvt. Ltd - Pune, Maharashtra
+December 2014 to June 2015
+
+2. Organization: Creataum Technology Pvt. Ltd, Pune
+Designation: Software Developer
+Tools used: Visual Studio 2013-2015, SQL Server 2008-2012, jQuery and Web
+Services (WCF)
+Project Profile:
+Project 1 finalsemester.com
+Description
+finalsemester.com is a site where users can get industrial training, search for job. Site have some other
+features like review rating of employers etc.
+
+Role Software Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Adding or modifying functionality of new or existing components as per the needed requirements.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL 2008, C#, jQuery, ASP.NET
+
+Developer
+Saraswati Abhiyasikha Pvt. Ltd
+September 2014 to December 2014
+
+Duration 5th September 2014 to 5th December 2014
+
+Project 3 EQNIT (Institute Management System)
+Description
+This Website helps training seekers to find best training providers and training courses to enhance skills.
+It will complete course information including training provider contact info, courses, fees, offers, trainer
+profile and schedules. Overall it is a complete institute search engine.
+
+Role Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Adding or modifying functionality of new or existing components as per the needed requirements.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL 2008, .NET, jQuery, ASP.NET
+
+Developer
+Blend IT Solutions Pvt. Ltd
+March 2014 to September 2014
+
+Duration 4st March 2014 to 4st September 2014
+
+Project 2 Saraswati Abhiyasikha (Library Management System)
+Description
+This Desktop Application for monitoring and controlling the transactions in library. The Project 'Saraswati
+Abhiyasikha'  is  developed  in  C#,  which  mainly  focus  on  basic  operations  in  library  like  adding  new
+member, specifying locker and updating information.
+
+Role Developer
+Responsibilities
+• Involved in Requirement gathering analysis, design and coding activity.
+• Adding or modifying functionality of new or existing components as per the needed requirements.
+• Development of DB in SQL 2008.
+
+Tools/Technologies used PL/SQL Server 2008, C#, jQuery, ASP.NET
+
+Education
+
+Diploma in ENTC in Shri Sai Coll. Of Eng. And Tech
+Shri Sai Coll. Of Eng - Mumbai, Maharashtra
+2005 to 2008
+
+HSC
+Khatri College - Nagpur, Maharashtra
+2004
+
+Skills / IT Skills
+
+• PROGRAMMING LANGUAGES
+
+• 1) ASP.NET 4.0,4.5
+
+• 2) ANGULARJS
+
+• 3) C# .NET 4.0,4.5
+
+• 4) WPF
+
+• 5) Web API
+
+• 6) Bootstrap
+
+• 7) JavaScript /jQuery
+
+• 8) Web API calls
+
+• 9) HTML
+
+• 10) WinForms, WPF
+
+• 11) SQL server 2008/2012
+
+• 12) MySQL /PhpMyAdmin
+
+• TOOLS
+
+• OPERATING SYSTEMS
+
+• 1) Visual Studio 2010/2012/2015, SQL Server Management Studio, SQL Workbench
+
+• MS Windows (7,8,10, Vista, XP,2003 Server,98, ME), Linux Fedora. RedHat.
+
+

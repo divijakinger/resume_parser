@@ -1,0 +1,52 @@
+Jupiter Muddana
+Hyderabad, Telangana
+-Email me on Indeed: http://www.indeed.com/r/Jupiter-Muddana/00edad6d802d3128
+
+• Knowledge on SDFC Administrative tasks like creating Profiles, Roles, Users, Page 
+Layouts, Permission Sets, Email Services, Approvals, Workflows, Reports, 
+Dashboards, Tasks and Events. 
+• Knowledge on CRM business processes like Campaign Management, Lead 
+Management, Opportunity Management, Account Management and Case 
+Management. 
+• Knowledge on designing Custom Formula Field Dependencies, Validation Rules, 
+Work Flows, and Approval Processes for automated alerts, field updates, and Email 
+generation according to application requirements. 
+• Knowledge on field level security for level of access to records 
+• Knowledge on Reports & Dashboards for various requirements. 
+• Knowledge on Apex Classes & Apex Triggers 
+• Knowledge on Visualforce Pages
+
+Work Experience
+
+Developer
+Salesforce
+October 2019 to January 2021
+
+1|Pa ge
+
+Education
+
+Skills / IT Skills
+
+• 2|Pa ge
+
+Develop tools and automation frameworks for continuous integration, performance
+measurement, and evaluation.
+• Contribute to the design and velocity of our global products.
+•  Optimize  our  systems  end-to-end  by  advising  infrastructure  design,  server  and  application
+development/tuning, solving complex cluster architecture, and any data
+storage issues that impact features.
+
+Bachelor's in Civil Engineering
+Rajiv Gandhi University of Knowledge Technologies Andhra Pradesh - Hyderabad, Telangana
+June 2001 to Present
+
+• Operating System: Windows, Ubuntu, Fedora
+
+• Programming Languages: Python, HTML (basics), C (basics)
+
+• .NET
+
+• Python
+
+

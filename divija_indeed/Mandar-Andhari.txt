@@ -1,0 +1,35 @@
+Mandar Andhari
+Dombivli, Maharashtra
+-Email me on Indeed: http://www.indeed.com/r/Mandar-Andhari/9491adc5b78c7209
+
+Worked  here  as  a  PHP  developer  for  2  years.  I  have  developed  and  maintained  the  projects  using
+Codeigniter  with  collaboration  of  team  members.  I  have  worked  on  API  integrations  of  Stripe,  Mollie,
+Google Maps, Amazon S3, Mobile.de, Zoho CRM, etc. in the projects.
+
+Work Experience
+
+PHP Developer
+CODEBOX - Navi Mumbai, Maharashtra
+April 2018 to June 2020
+
+Education
+
+B.E. in Computer
+Mumbai University - Mumbai, Maharashtra
+2013 to 2017
+
+Skills / IT Skills
+
+• Codeigniter (2 years)
+
+• Laravel (Less than 1 year)
+
+• Vue JS (Less than 1 year)
+
+• React JS (Less than 1 year)
+
+• Node JS (Less than 1 year)
+
+• Php (3 years)
+
+

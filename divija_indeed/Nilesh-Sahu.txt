@@ -1,0 +1,206 @@
+Nilesh Sahu
+Kanpur, Uttar Pradesh
+-Email me on Indeed: http://www.indeed.com/r/Nilesh-Sahu/eaf3bbadafddc038
+
+Working in "Exceliun Solutions Pvt. Ltd." in Gurgaon, Haryana As a Senior Software 
+Developer (OCT-2020 to TILL NOW). 
+ 
+Worked at "Compare Infobase Ltd." in Janakpuri, Delhi As a Web Developer 
+(SEP-2019 to AUG-2020). 
+ 
+Worked at "Xeliumtech Solutions Pvt. Ltd." in Sector 18, Gurugram As a Web 
+Developer (DEC-2015 to AUG-2019). 
+ 
+Worked at "Sumit Associates" in Lucknow As a Web Developer (NOV-2014 to 
+NOV-2015). 
+ 
+PROFESSIONAL SUMMARY 
+ 
+Over 7 years of experience in Web Development. 
+Having in-depth knowledge of Software Development. 
+Working knowledge of various Web Technologies like OOPS, JAVASCRIPT, J-QUERY, 
+CORE PHP, LARAVEL, CakePHP, HTML, CSS, MYSQL, MONGODB, AGILE 
+DEVELOPMENT, WEBSERVICES, REST API, WORDPRESS. 
+A strong believer in teamwork, building cordial relations with people inside and outside 
+the organization, innovative solutions for difficult programming problems, self-learner 
+and fast learning.
+
+Willing to relocate: Anywhere
+
+Personal Details
+
+Date of Birth: 1991-12-25
+Eligible to work in: India
+Highest Career Level: 5+ years experience
+Industry: Software Development
+Total years of experience: 7
+
+Work Experience
+
+Developer
+"Exceliun Solutions Pvt. Ltd." - Gurgaon, Haryana
+October 2020 to Present
+
+As a Web Developer
+"Compare Infobase Ltd." in Janakpuri - Delhi, Delhi
+
+September 2019 to August 2020
+
+Developer
+"Xeliumtech Solutions Pvt. Ltd." in Sector 18
+December 2015 to August 2019
+
+As a Web Developer
+"Sumit Associates" - Lucknow, Uttar Pradesh
+November 2014 to November 2015
+
+PROFESSIONAL SUMMARY
+Over 7 years of experience in Web Development.
+Having in-depth knowledge of Software Development.
+Working knowledge of various Web Technologies like OOPS, JAVASCRIPT, J-QUERY,
+CORE PHP, LARAVEL, CakePHP, HTML, CSS, MYSQL, MONGODB, AGILE
+DEVELOPMENT, WEBSERVICES, REST API, WORDPRESS.
+A strong believer in teamwork, building cordial relations with people inside and outside the organization,
+innovative solutions for difficult programming problems, self-learner
+and fast learning.
+
+Education
+
+Senior Secondary - Kanpur, Uttar Pradesh
+2010
+
+B.Tech in Computer Science & Engg
+Axis Institute of Technology and Management - Kanpur, Uttar Pradesh
+
+BNSD Inter College - Kanpur, Uttar Pradesh
+
+Skills / IT Skills
+
+• Web Technology: JAVASCRIPT, J-QUERY, PHP, LARAVEL, CakePHP, CODEIGNITER, HTML, CSS, OOPS,
+WEBSERVICES, REST API, WORDPRESS. Database: Mysql, MongoDb. Server: Linux, Windows. Tools
+Used: Visual Studio Code, Netbeans, Sublime text. Version Control: GIT, SNV. Project Management:
+JIRA. Project Name: Accounting System Project Brief: This is a web and manages the customer-
+supplier, sales-purchase ledger, Invoices, Purchase order, Credit-note, debit-note, debtors-creditors,
+asset-product, bank/cash, balance sheet, financial reporting, financial planning, billing application
+management, reconciliation, ledger, etc. Teamwork (5 members)
+
+• Analyze the requirement document provided by the client
+
+• Coding & Testing Technologies: PHP(Laravel Framework), MySQL, HTML, CSS, Ajax, JavaScript, jQuery
+Project Name: Care Kit Ordering System Project Brief: This is a web application and it's like a tool for
+product orders management. This system has three types of users, these are Admin, Supplier and
+Store. The system shall provide the support for
+
+• Store Management
+
+• Supplier Management
+
+• Product Management
+
+• Commission management
+
+• Order Management
+
+• Sales Order Management
+
+• Purchase Order Management
+
+• Invoice Management
+
+• Order dispatch and delivery management
+
+• Generated sales and purchase analysis reports. Teamwork (5 members)
+
+• Analyze the requirement document provided by the client
+
+• Writing use-case document
+
+• Writing test-case document
+
+• Coding, Database architecture & Testing Technologies: PHP(Laravel Framework), MySQL, HTML, CSS,
+Ajax, JavaScript, jQuery Project Name: HTSS (Ticket Support System) Project Brief: HTSS is the web
+application and shall manage the support enquiries that are requested from clients. When clients
+have encountered any issue (Bug/Notice/Error) with the system or tool, they are trying to access,
+they can report this to the IT Help desk via HTSS. The system then creates a record of the report/
+ticket and Notifies an IT professional for assistance. Help-desk ticketing systems shall formalize the
+support process. The HTSS system automatically notifies the IT team whenever a ticket is created.
+The automated notifications alert the client whenever any update or changes occurred on the Ticket.
+Teamwork (5 members)
+
+• Analyze the requirement document provided by the client
+
+• Writing use-case document
+
+• Writing test-case document
+
+• Coding, Database architecture & Testing Technologies: CORE PHP, MySQL, HTML, CSS, Ajax,
+
+JavaScript, JQuery Project Name: Qizwiz Project Brief: A quiz based web application designed for
+the user to play different types of quizzes. Playing a quiz will earn points which leads to you on the
+dashboard. Also, create apis for the mobile application. Individual work
+
+• Analyze the feature to implement for the application
+
+• Coding, Database architecture and Testing
+
+• Rest API Technologies: PHP(CakePhp), MySQL, HTML, CSS, Ajax, JavaScript, jQuery Project Name:
+
+Mapsofindia Project Brief: A site has maps related details and many other utilities for the user to get
+Teamwork (4 members)
+
+• Coding and Database architecture
+
+• Rest Api Technologies: CORE PHP, MySQL, HTML, CSS, Ajax, JavaScript, jQuery Project Name:
+
+Mapsofindia
+
+• Myindia Project Brief: This is a web application. This application is related to blogging. This web
+
+application provides a feature to the user to create their blog and post. User reads their blog and
+provides reviews. Teamwork (4 members)
+
+• Coding and Database architecture Technologies: CORE PHP, Wordpress, MySQL, HTML, CSS,
+
+Ajax, JavaScript, jQuery Project Name: Tata Hitachi Project Brief: This is a web application. In the
+application, there is an admin panel which use for the representation of data on the maps. Data are
+plotted on the maps and it gives the user a representation view the user to understand the progress
+of the company. Teamwork (2 members)
+
+• Admin
+
+• Front
+
+• Admin
+
+• Database
+
+• Admin
+
+• Database Technologies: PHP(CakePhp), MySQL, HTML, CSS, Ajax, JavaScript, jQuery Project Name:
+
+Vodafone Fx Project Brief: This is a template design application. In this application, the user designs
+a template using the elements and published it to display on the android and ios applications.
+Teamwork (8 members)
+
+• Rest API Technologies: CORE PHP, MySQL, HTML, CSS, Ajax, JavaScript, jQuery Project Name:
+GOM Project Brief: This application is related to health management. In this application, users
+register themself as a patient and after that, a doctor is assigned to the patient who will monitor the
+progress. Teamwork (4 members)
+
+• Rest API Technologies: CORE PHP, MySQL, HTML, CSS, Ajax, JavaScript, jQuery
+
+• Front
+
+• Database
+
+• HTML5
+
+• PHP
+
+• JavaScript
+
+• SQL
+
+• Agile
+
+

@@ -1,0 +1,66 @@
+Job Seeker
+Thalassery
+-Email me on Indeed: http://www.indeed.com/r/default/878d830b87bc3c2f
+
+Seeking an opportunity to work in challenging environment, learn new skills and enhance the 
+same for companies growth and development.
+
+The project Virtual Mall enables vendors to set up online shops, customers to browse through the shops.
+
+Work Experience
+
+Developer
+November 2020 to Present
+
+6 Month
+Team member(s): 4
+
+Mini Project: Stegonography
+
+Developer
+6 Month
+Team member(s): 1
+
+Image with text hiding using stegonography
+Case Study: Crafty World
+Developer
+6 Month
+Team member(s): 1
+
+A casestudy based on python falsk
+
+Education
+
+BCA
+Government College Thalassery - Thalassery, Kannur, IN
+2018
+
+MCA in Thalassery Campus
+Kannur University - Palayad, Kannur, IN
+
+Skills / IT Skills
+
+• Operating Systems 
+
+ 
+Windows, LINUX 
+ 
+Web technologies 
+
+ 
+HTML and Java Script, 
+ 
+Editor and IDE 
+ 
+Microsoft Visual Studio 2010, Pycharm, 
+Database 
+ 
+Mysql, sqlyog, 
+ 
+Language 
+ 
+C, C++, C#, Python, .Net, Java
+
+• MEAN STACK IN PYTHON
+
+

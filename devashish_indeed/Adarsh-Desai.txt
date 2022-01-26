@@ -1,0 +1,83 @@
+Adarsh Desai
+Chincholi, Karnataka
+-Email me on Indeed: http://www.indeed.com/r/Adarsh-Desai/e239b7c3192d4dcf
+
+• BE graduate with 2.5 years of experience in Software design, development and 
+Application maintenance using Siebel CRM, JavaScript and MySQL. 
+• Hands on Experience in Siebel Configuration of Applets, Business Components, Business 
+Objects, Business Services, Workflows, Views etc. 
+• Good knowledge about Salesforce Administrator(Custom Objects, Workflow, 
+Dashboard, Sharing rules, Permission sets, Approval Processes etc.) 
+• Good working exposure to Agile Methodology. 
+• Brief Knowledge on Open UI (PMs and PRs). 
+ 
+• Oracle Siebel CRM 
+• Tools - Siebel (Siebel 8.1 and 21.5 - webserver tool), MYSQL, WINSCP, PUTTY 
+• Salesforce CRM 
+• Oracle SQL DB 
+• Java Script 
+• Operating System - Windows, Linux 
+• Documentation Tools - MS Word, MS EXCEL, Open Office
+
+Personal Details
+
+Date of Birth: 1998-01-01
+Eligible to work in: India
+Highest Career Level: 2-5 years experience
+Industry: Software Development
+Total years of experience: 3
+
+Work Experience
+
+Siebel Developer
+Tata Consultancy Services - Bengaluru, Karnataka
+July 2019 to Present
+
+HDFC Life is one of India's leading life insurance companies, offering a range of
+
+individual and group insurance solutions that meet various life stage needs of customers. It is a product
+aimed for Life Insurance Corporation of Agents. To sustain
+industry leadership HDFCLife embarked TEBT program to achieve its strategic
+objectives.
+
+Technologies used: Siebel, JavaScript, SQL
+
+Responsibilities:
+
+• Requirement gathering from client on the module development.
+• Analysis, development and delivery of the new requirements and enhancements
+required.
+• Configured and customized the Applets, Views, Screens, Business Components and Business Objects,
+Workflows etc as per requirement.
+• Involved in deployment of applications onto different environments like Dev,
+UAT, SIT and Production.
+• Involved in database management using SQL.
+• Skilled in identifying issues in timely manner and Handling CRs (Change Requests) bydeveloping and
+implementing appropriate solutions.
+• Fixing the existing bug and providing solution on time.
+• Provided 3rd level production support for bug fixes and enhancements by
+performingdiagnosis of the issue and delivering solution.
+• Responsible for managing the SLA's for the team by ensuring the requirements are
+uploadedon time on various applications.
+• Supporting the team members in understanding the functionality of the projectand in development
+activities.
+
+Education
+
+BE in E.C.E
+SJB Institute - Bengaluru, Karnataka
+2019
+
+Skills / IT Skills
+
+• JavaScript
+
+• SQL
+
+Languages
+
+• English - Fluent
+• Kannada - Expert
+• Hindi - Fluent
+
+

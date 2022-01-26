@@ -1,0 +1,92 @@
+Manali Srivastava
+Delhi, Delhi
+-Email me on Indeed: http://www.indeed.com/r/Manali-Srivastava/e701d59b5828720a
+
+Work Experience
+
+PHP Developer
+C2perform - Georgia
+February 2021 to Present
+
+PROJECT DESCRIPTION
+
+I  have  been  developing  applications  for  them  using  various  technologies  and  coordinating  with  team
+members at different levels. My work includes - news.awgp.org, www.awgpstore.com, Volunteer APP etc.
+After that I have worked 6 months with AT Develops on core php. currently I am working with webtech
+mechanics on
+CI framework.
+
+• News Site- I have developed news site of Gayatri Pariwar (www.news.awgp.org). This site is developed
+on
+PHP, Javascript, HTML. It is built on MVC architecture. Mysql database is used in this website.
+• Quotes site- It is under development. This site is developing on PHP, Javascript, HTML, CSS with MVC
+architecture. Mysql database used in this website.
+• Internal application- I have developed an internal application for managing websites
+(www.docs.webconet.com). This application is developed for maintaining the content of any website like
+text,
+images, videos etc.
+
+PHP Developer
+Webtech Mechanics - Noida, Uttar Pradesh
+September 2019 to Present
+
+I have worked in websites based on php framework. I have worked in websites in ERP, ecommerce, travel
+etc.
+
+Education
+
+CBSE
+BMV school
+2012
+
+SSC
+BMV school
+2010
+
+Skills / IT Skills
+
+• Languages: Java Script, HTML, C/C++, C#.NET
+
+• Web Technologies: PHP, Java Script, CSS, XML, HTML
+
+• Database: Oracle, MySQL, SQL Server
+
+• GUI Tools: MS Visual Studio .NET 2010, Visual Basic 6.x
+
+• Applications: MS Office
+
+• Operating Systems: Windows 98/2000/XP/Vista/7/8/10
+
+• Php Framework: Codeigniter Functional
+
+• Strong practical and theoretical background in developing and selecting appropriate teaching
+
+materials.
+
+• Successful and self-confidence in classroom presentation; establish a positive social environment.
+
+• Provide a warm, supportive environment for developing academic, social, and emotional growth.
+
+• Implement a wide range of learning materials to appeal to student interests, maximizing
+
+participation and learning potential.
+
+• Instill confidence, self-esteem, and an optimistic attitude in each child.
+
+• High level of patience and commitment in working with children and young people.
+
+• Analytic and versatile thinker, effective and developing and implementing creative ideas.
+
+ORGANIZATIONAL SCAN
+
+• PHP
+
+• JavaScript
+
+• HTML5
+
+• MySQL
+
+• CSS
+
+

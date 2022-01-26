@@ -1,0 +1,304 @@
+Nagaveena Matta
+Serilingampalle, Andhra Pradesh
+-Email me on Indeed: http://www.indeed.com/r/Nagaveena-Matta/42b26933efde43d6
+
+● Around 9 years of experience in IT Industry using Talend Integration Suite (7.2/6.3/6.1) and
+experience with Talend Admin Console (TAC) and Datastage. 
+● Extensively created mappings in TALEND using tMap, tJoin, tReplicate, tParallelize, tConvertType,
+tFlowToIterate, tAggregate, tSortRow, tFlowMeter, tLogCatcher, tRowGenerator, tNormalize,
+tDenormalize, tHashInput, tHashOutput, tJava, tJavarow, tAggregateRow, tWarn, tLogCatcher,
+tMysqlScd, tFilter, tGlobalmap, tDie, tFTP components, tRESTClient, tRESTRequest, tRESTResponse
+etc. 
+● Extensive experience in using Talend features such as context variables, triggers, and connectors
+for Database and flat files like tMySqlInput, tMySqlConnection, tOracle, tMSSQLInput, TMsSqlOutput,
+tMysqlRow, tFileCopy, tfileInputDelimited, tFileExist. 
+● Experience working with Data Warehousing Concepts like OLAP, OLTP, Star Schema, Snowflake
+Schema, Logical/Physical/ Dimensional Data Modelling. 
+● In depth understanding of the Gap Analysis i.e., As-Is and To-Be business processes and experience
+in converting these requirements into Technical Specifications and Test Plans. 
+● Highly Proficient in Agile, Test Driven, Iterative, Scrum and Waterfall software development life
+cycle. 
+● Extensively used ETL methodology for performing Data Profiling, Data Migration, Extraction,
+Transformation and Loading using Talend and designed data conversions from wide variety of source
+systems including Netezza, Oracle, DB2, SQL server, Teradata, Hive non-relational sources like flat
+files, XML and Mainframe Files. 
+● Extracted data from multiple operational sources for loading staging area, Data warehouse, Data
+Marts using SCDs (Type 1/Type 2/ Type 3) loads. 
+● Experience in using cloud components and connectors to make API calls for accessing data from
+cloud storage (Amazon S3) in Talend. 
+● Experience in creating Joblets in TALEND for the processes which can be used in most of the jobs in
+a project like to Start job and Commit job. 
+● Expertise in creating sub jobs in parallel to maximize the performance and reduce overall job
+execution time with the use of parallelize component of Talend in TIS and using the Multithreaded
+Executions in Talend. 
+● Experienced in creating Triggers on TAC server to schedule Talend jobs to run on server. 
+● Strong experience in Extraction, Transformation, loading (ETL) data from various sources into Data
+Warehouses and Data Marts using Informatica Power Centre (Designer, Workflow Manager, Workflow
+Monitor, Metadata Manager). 
+● Worked extensively on Error Handling, Performance Analysis and Performance Tuning of Informatica
+ETL Components, Teradata Utilities, UNIX Scripts, SQL Scripts etc. 
+● Strong decision-making and interpersonal skills with result-oriented dedication towards goals.
+
+Willing to relocate: Anywhere
+
+Work Experience
+
+Sr. ETL Talend Developer
+INTEGRATION DEVELOPER NETWORK LLC - Philadelphia, PA
+January 2019 to Present
+
+University of Pennsylvania Selected Banner® By Ellucian® to Help Provide Vital Services to Students
+and  University  Community  with  its  "Next  Generation  Student  Systems"  initiative.  Modernization
+of  the  university's  systems  will  facilitate  Penn's  ability  to  support  academic  innovation,  including
+interdisciplinary  and  multiple-degree  programs,  novel  course  types  and  delivery  modes,  and  access
+by  non-traditional  students  of  all  kinds.  It  will  also  help  Penn  maintain  regulatory  compliance  while
+embracing these complex and fast-moving changes.
+
+The project will replace aging information systems--some more than three decades old--using a phased
+approach. First to be addressed will be student accounts and billing, along with core infrastructure and
+processes that support all the systems. Later phases will address student records and registration as
+well as student financial aid.
+
+Responsibilities
+• Involved in building the ETL architecture and Source to Target mapping to load data into Oracle DB
+(Banner tables).
+• Performed data manipulations using various Talend components like tMap, tJavaRow, tjava, tOracleRow,
+tOracleInput, tOracleOutput, tMSSQLInput and many more.
+• Designed and customized data models for Data warehouse supporting data from multiple sources on
+real time
+• Designed ETL process using Talend Tool to load from Sources to Targets through data Transformations.
+• Monitored and supported the Talend jobs scheduled through Talend Admin Centre (TAC)
+• Developed the Talend mappings using various transformations, Sessions and Workflows.
+• Used Talend to Extract, Transform and Load data into Netezza Data Warehouse from various sources
+like Oracle and flat files.
+• Created multiple Joblets (reusable code) & Java routines in Talend.
+• Experienced in writing SQL Queries and used Joins to access data from Oracle, and MySQL.
+• Created mapping documents to outline data flow from sources to targets.
+• Involved in Dimensional modelling (Star Schema) of the Data warehouse and used Erwin to design the
+business process, dimensions and measured facts.
+•  Responsible  for  developing,  support  and  maintenance  for  the  ETL  (Extract,  Transform  and  Load)
+processes using Talend.
+• Developed Talend ESB services and deployed them on ESB servers on different instances using tRest
+and ESB components.
+• Unit testing, code reviewing, moving in UAT and PROD.
+• Designed the Talend ETL flow to load the data into hive tables and create the Talend jobs to load the
+data into Oracle and Hive tables.
+•  Working  with  high  volume  of  data  and  tracking  the  performance  analysis  on  Talend  job  runs  and
+session.
+• Prepare the Talend job level LLD documents and working with the modelling team to understand the
+Big Data Hive table structure and physical design.
+• Conducted code reviews developed by my teammates before moving the code into QA.
+• Used Talend reusable components like routines, context variable and globalMap variables.
+
+• Modified existing mappings for enhancements of new business requirements.
+•  Prepared  migration  document  to  move  the  mappings  from  development  to  testing  and  then  to
+production repositories.
+•  Works  as  a  fully  contributing  team  member,  under  broad  guidance  with  independent  planning  &
+execution responsibilities.
+Environment: Talend Open studio V(6.1.1)Enterprise Platform for Data management (V6.1.1,5.5.1, 5.6.1),
+UNIX, Hadoop, Oracle, Microsoft SQL Server management Studio.
+
+Sr. ETL Talend Developer
+INTEGRATION DEVELOPER NETWORK LLC
+February 2015 to Present
+
+ETL Talend Developer
+INTEGRATION DEVELOPER NETWORK LLC
+January 2018 to December 2018
+
+IRecord is a Managed Healthcare System. Provides services for people with disabilities and are over the
+age of 21.
+
+Responsibilities
+•  Involved  in  building  the  ETL  architecture  and  Source  to  Target  mapping  to  load  data  into  Data
+warehouse.
+• Created Talend jobs to copy the files from one server to another and utilized Talend FTP components.
+• Performed data manipulations using various Talend components like tMap, tJavaRow, tjava, tOracleRow,
+tOracleInput, tOracleOutput, tMSSQLInput and many more.
+• Created Talend jobs using the dynamic schema feature.
+• Designed ETL process using Talend Tool to load from Sources to Targets through data Transformations.
+• Developed complex Talend ETL jobs to migrate the data from flat files to database.
+•  Responsible  for  developing,  support  and  maintenance  for  the  ETL  (Extract,  Transform  and  Load)
+processes using Talend.
+•  Worked  on  different  tasks  in  Workflows  like  sessions,  events  raise,  event  wait,  decision,  e-mail,
+command, worklets, Assignment, Timer and scheduling of the workflow.
+•  Working  with  high  volume  of  data  and  tracking  the  performance  analysis  on  Talend  job  runs  and
+session.
+• Implemented custom error handling in Talend jobs and worked on different methods of logging.
+• Conducted code reviews developed by my teammates before moving the code into QA.
+• Experience in Batch scripting on windows, Windows 32-bit commands, Quoting, Escaping.
+• Used Talend reusable components like routines, context variable and globalMap variables.
+• Modified existing mappings for enhancements of new business requirements.
+•  Prepared  migration  document  to  move  the  mappings  from  development  to  testing  and  then  to
+production repositories.
+• Experienced in writing SQL Queries and used Joins to access data from Oracle, and MySQL.
+• Implemented Error Logging, Error Recovery, and Performance Enhancement's & created Audit Process
+(generic) for various Application teams.
+•  Works  as  a  fully  contributing  team  member,  under  broad  guidance  with  independent  planning  &
+execution responsibilities.
+• Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer
+of project from development to testing environment and then to production environment.
+
+Environment: Talend Open studio V(6.1.1)Enterprise Platform for Data management (V6.1.1,5.5.1, 5.6.1),
+UNIX, Hadoop, Oracle, Microsoft SQL Server management Studio.
+
+ETL Talend Developer
+INTEGRATION DEVELOPER NETWORK LLC - Hartford, CT
+March 2016 to December 2017
+
+Nassau  Re  is  headquartered  in  Hartford,  Connecticut,  and  has  three  primary  insurance  company
+operating  subsidiaries,  Nassau  Life  and  Annuity  Company,  Nassau  Life  Insurance  Company  and  PHL
+Variable  Insurance  Company.  These  insurance  companies  were  part  of  The  Phoenix  Companies,  Inc.,
+which Nassau Re acquired in 2016. Since then, Nassau Re contributed significant new equity capital to
+improve financial strength and liquidity.
+
+Responsibilities:
+• Worked with Data mapping team to understand the source to target mapping rules.
+• Analysed the requirements and framed the business logic and implemented it using Talend. Involved
+in ETL design and documentation.
+• Analysed and performed data integration using Talend open integration suite. Worked on the design,
+development and testing of Talend mappings.
+• Created ETL job infrastructure using Talend Open Studio.
+• Worked on Talend components like tReplace, tmap, tsort and tFilterColumn, tFilterRow, tJava, Tjavarow,
+tConvertType etc.
+• Used Database components like tMSSQLInput, tMsSqlRow, tMsSqlOutput, tOracleOutput, tOracleInput
+etc.
+• Worked with various File components like tFileCopy, tFileCompare, tFileExist, TFileDelete, tFileRename.
+• Worked on improving the performance of Talend jobs.
+• Created triggers for a Talend job to run automatically on the server. Worked on Exporting and Importing
+Talend jobs.
+• Created jobs to pass parameters from child job to parent job.Exported jobs to Nexus and SVN repository.
+• Implemented update strategy on tables and used tJava, tJavarow components to read data from tables
+to pull only newly inserted data from source tables.
+• Observed statistics of Talend jobs in AMC to improve the performance and in what scenarios errors are
+causing Created Generic and Repository schemas.
+• Developed project specific 'Deployment' job responsible to deploy Talend jar files on to the windows
+environment as a zip file, later, this zip file is unzipped and the files are again deployed to the UNIX box.
+• Also, this deployment job is responsible to maintain versioning of the Talend jobs that are deployed
+in the UNIX environment.
+• Developed shell scripts in UNIX environment to support scheduling of the Talend jobs.
+• Monitored the daily runs, weekly runs and adhoc runs to load data into the target systems.
+Environment:  Talend  6.1/5.5.2,  UNIX,  Shell  script,  SQL  Server,  Oracle,  Business  Objects,  ERwin,  SVN,
+Redgate, Capterra.
+
+Datastage Developer
+INTEGRATION DEVELOPER NETWORK LLC - Dayton, OH
+February 2015 to February 2016
+
+Responsibilities:
+• Designed the ETL jobs using IBM Info sphere Data Stage 9.1 to Extract, Transform and load the data
+into staging, ODS and EDW.
+
+•  Designed  and  developed  the  ETL  jobs  using  Parallel  Edition  which  distributed  the  incoming  data
+concurrently across all the processors, to achieve the best performance.
+•  Designed  parallel  jobs  using  stages  such  as  Join,  Merge,  Lookup,  Remove  Duplicates,  Copy,  Filter,
+Funnel, Dataset, Lookup, Pivot, and Sort, Surrogate key Generator, Change Data Capture (CDC), Modify,
+Row Generator and Aggregator.
+• Responsible for generation of DDL statements which are executed for database creation.
+• Responsible for preparing Physical/logical data models.
+•  Responsible  for  data  analysis,  requirements  gathering,  report  analysis,  source-to-target  mapping,
+frequency analysis, process flow diagrams, and documentation.
+• Handled Performance Tuning of Jobs to ensure faster Data Loads.
+• Designed sequence jobs using the activities such as Job Activity, Nested Condition, Notification Activity,
+Sequencer Activity, Terminator Activity and Execute Command.
+• Performed the Integration and System testing on the ETL jobs. Responsible for preparing ad hoc jobs.
+• Translated business rules and functionality requirements into ETL derivations.
+• Scheduled jobs using Autosys scheduler utility based on the requirements and monitored the production
+processes closely for any possible errors.
+•  Migrated  projects  from  development  to  QA  to  Production  environments.  Assisted  operation  support
+team for transactional data loads in developing SQL&UNIX scripts.
+• Imported the required Metadata from heterogeneous sources at the process level.
+•  Created  Job  Parameters  and  Environment  variables  to  run  the  same  job  for  different  sources  and
+targets.
+• Used Multi-job-compiler during deployment of projects.
+• Created Batches (DS job controls) and Sequences to control set of jobs.
+• Used the Director to schedule running the job, testing and debugging its components, and monitoring.
+Created Shared Containers for Re-using the Business functionality.
+• Collaborated with BO team to design Crystal reporting and reports for enterprise reporting applications.
+• Worked with Developers to troubleshoot and resolve issues in job logic as well as performance.
+
+Environment: ETL DataStage, DBW, Microsoft SQL 2005/2008, Netezza, IBM DB2 9.1, AIX6.0, Oracle and
+UNIX.
+
+ETL Talend Developer
+Deloitte - Hyderabad, Telangana
+December 2011 to January 2014
+
+Responsibilities:
+● Worked closely with Business Analysts to review the business specifications of the project and also
+to gather the ETL requirements.
+●  Developed  jobs,  components  and  Joblets  in  Talend.  Designed  ETL  Jobs/Packages  using  Talend
+Integration Suite (TIS)
+●  Created  complex  mappings 
+tPivotToColumnsDelimited as well as custom components such as tUnpivotRow.
+● Used tStatsCatcher, tDie, tLogRow to create a generic joblet to store processing stats into a Database
+table to record job history.
+● Created Talend Mappings to populate the data into dimensions and fact tables. Frequently used Talend
+Administrative Console (TAC)
+● Implemented new users, projects, tasks within multiple different environments of TAC (Dev, Test, Prod,
+and DR).
+
+in  Talend  using 
+
+tDenormalize, 
+
+tUniqueRow.
+
+tHash, 
+
+tMap, 
+
+●  Developed  complex  Talend  ETL  jobs  to  migrate  the  data  from  flat  files  to  database.  Implemented
+custom  error  handling  in  Talend  jobs  and  also  worked  on  different  methods  of  logging.  Created  ETL/
+Talend jobs both design and code to process data to target databases.
+●  Created  Talend  jobs  to  load  data  into  various  Oracle  tables.  Utilized  Oracle  stored  procedures  and
+wrote fewJava code to capture global map variables and use them in the job.
+●  Successfully  Loaded  Data  into  different  targets  from  various  source  systems  like  Oracle  Database,
+DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+● Troubleshoot long running jobs and fixing the issues.
+● Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer
+of project from development to testing environment and then to production environment. Performed Unit
+testing and System testing to validate data loads in the target.
+
+• Talend Integration Suite (7.2/6.3/6.1/5.x) / Talend Open Studio (7.2/6.1/5.x) and experience with
+
+Education
+
+B.tech in Computer science engineering
+JNTU university
+
+Skills / IT Skills
+
+• ETL Talend
+
+Talend Admin Console (TAC)
+
+• Languages
+
+• JAVA, C#, HTML, XML, PL/SQL
+
+• Data warehouse
+
+• Datastage, Informatica, SSIS, SSRS
+
+• Databases
+
+• Build Tool
+
+• Ant, Maven
+
+• Processes
+
+• Agile-Scrum, Waterfall
+
+• Operating Systems
+
+• Windows, Linux, Mac
+
+• Oracle, SQL Server, Teradata, Hadoop, HDFS, MongoDB
+
+• Web Debugging Tool XPath, Firepath, Firebug
+
+• Bug Tracking Tools JIRA, Quality Centre (QC) and BugZilla
+
+

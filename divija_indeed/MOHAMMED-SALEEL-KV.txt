@@ -1,0 +1,72 @@
+MOHAMMED SALEEL KV
+Web Developer
+Changaramkulam
+-Email me on Indeed: http://www.indeed.com/r/MOHAMMED-SALEEL-KV/514592fdacd34b2e
+
+Authoritative Lead Web Developer with 2 years heading up successful development teams through
+agile direction and careful delegation. Willing to direct large-scale teams or work hands-on to complete
+extremely difficult projects. Brings both cutting-edge programming expertise and exceptional
+interpersonal skills to leadership roles.
+
+Personal Details
+
+Birth Date: 1996-10-17
+
+Work Experience
+
+Web Developer
+ConnSocio - Bengaluru, Karnataka
+November 2019 to Present
+
+Involved in the Development of an integrated web application for Health Management using Angular 8/9,
+HTML5, Javascript, CSS3, Node, Es6
+Created Typescript reusable components and services to consume REST API's using Component-based
+architecture.
+Working with Angular components, pipes, directives, services to generate more modular, reusable code
+maintaining the ES6 standards
+Experience in Angular Directives, Dependency Injection, Services, Routing, Animations, Forms, RXJS
+Participated in daily standup meetings to update the work status as part of Agile & Scrum methodologies
+Utilizing tools such as Git for managing and launching repositories.
+Working on Node JS for building backend REST services
+Involved in various phases of Software Development Life Cycle (SDLC), including requirement gathering,
+modeling, analysis, architecture design, prototyping, developing, and testing
+
+MEAN Stack Developer
+ICT Academy - Calicut, Kerala
+June 2019 to August 2019
+
+Wrote extensive HTML/ HTML5, CSS3 and JavaScript code to build dynamic pages.
+Using Angular Dependency Injection (DI) to inject Angular Services and Custom Services, as well as built
+custom Directives to provide reusable components.
+Maintain Cross Browser compatibility & implement Responsive Design custom media queries, etc.
+Developing backend web services using Node JS.
+
+Education
+
+B.Tech in Computer Science & Engineering
+Royal College of Engineering & Technology
+May 2015 to May 2019
+
+Skills / IT Skills
+
+• Utilizing tools such as Git for managing and launching repositories. Working on Node JS for building
+
+backend REST services Involved in various phases of Software Development Life Cycle (SDLC),
+including requirement gathering, modeling, analysis, architecture design, prototyping, developing,
+and testing NPM MEAN Stack | Intern Calicut ICT Academy | July 2019
+
+• Sep 2019 Wrote extensive HTML/ HTML5, CSS3 and JavaScript code to build dynamic pages.
+
+Developing backend web services using Node JS ReactJS
+
+• XML
+
+• HTML5
+
+• JavaScript
+
+Online Profile
+
+http://www.linkedin.com/in
+
+

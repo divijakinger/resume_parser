@@ -1,0 +1,85 @@
+Pratiksha Nale
+Pune, Maharashtra
+-Email me on Indeed: http://www.indeed.com/r/Pratiksha-Nale/3ec3fc13f591051a
+
+To be a part of an organization where I can fully utilize my skills and make a significant contribution to
+the success of the employer and at the same time my individual growth.
+
+Work Experience
+
+Software Developer
+ArrowAi techno soft LLP - Navi Mumbai, Maharashtra
+June 2021 to February 2022
+
+NASSCOM 10000 Startup Warehouse Unit 304, Building No 2, Sector 1 Millenium Business Park, Mahape,
+Navi Mumbai - 400701
+Designation: Software Developer
+Joining Date: 25 Jun 2021
+Current CTC: 2.10 LPA
+Project Name: Stationery Management System
+Technologies:
+• Application Architecture: Asp.Net MVC
+• Database Application: Oracle SQL Developer
+• Designing Tool: Html, CSS, Bootstrap
+Job Responsibilities:
+• Developed application as per Client Requirements
+• Testing modules and deploying application
+• Update and debug code
+• Coordinating with end users
+• Improve existing software
+
+Asp.Net MVC Developer Joining Date
+Universal Enterprises
+October 2020 to June 2021
+
+Thapar Complex, Off No-58, Sec-15, Plat No-51, CBD Belapur, Navi Mumbai
+Designation: Asp.Net MVC Developer Joining Date: 7 Oct 2020
+Current CTC: 1.44 LPA
+Project Name: Propertee Brokers Technologies:
+• Application Architecture: Asp.Net MVC
+• Database Application: SQL Server 2019
+• Designing Tool: Html, CSS, Bootstrap, JQuery, Javascript
+Job Responsibilities:
+• Understand Client Requirements
+• Develop documentation throughout the software development life cycle (SDLC)
+• Design And Develop Product as per Client Requirement
+• Write clean, scalable code using .NET programming languages
+
+Education
+
+Bsc
+Mumbai University
+June 2019
+
+H.S.C
+Maharashtra State Board
+February 2016
+
+S.S.C
+Maharashtra State Board
+March 2014
+
+Skills / IT Skills
+
+• Web API
+
+• HTML5
+
+• JavaScript
+
+• .NET
+
+• SQL
+
+Certifications and Licenses
+
+ASP.NET MVC
+June 2019 to January 2020
+
+• Languages: Asp.Net, MVC, C#, JQuery, Javascript, AngularJS 
+
+Web Design: HTML5, CSS, Bootstrap 
+Database: SQL Server 
+IDE: Visual Studio 2015
+
+
