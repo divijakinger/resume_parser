@@ -1,0 +1,524 @@
+{
+    "classes": [
+        "PERSON",
+        "LOCATION",
+        "SKILLS",
+        "CONTACT",
+        "EMAIL",
+        "ROLE",
+        "ORGANISATION",
+        "DURATION",
+        "CERTIFICATE",
+        "PROJECTS",
+        "EDUCATION",
+        "INSTITUTION"
+    ],
+    "annotations": [
+        [
+            "Aarti Palkar\nThane, Maharashtra\n-Email me on Indeed: http://www.indeed.com/r/Aarti-Palkar/d1d99e5af4dbdd99",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "PERSON"
+                    ],
+                    [
+                        13,
+                        31,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Work Experience",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "PHP Developer\n2.Gcr Technologies Private Limited - Thane, Maharashtra\nAugust 2020 to June 2021",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "ROLE"
+                    ],
+                    [
+                        14,
+                        48,
+                        "ORGANISATION"
+                    ],
+                    [
+                        51,
+                        69,
+                        "LOCATION"
+                    ],
+                    [
+                        70,
+                        94,
+                        "DURATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Project1: Society Management\nSociety Management effectively manages and handles all the functioning of cooperative housing society.",
+            {
+                "entities": [
+                    [
+                        10,
+                        28,
+                        "PROJECTS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My Contribution\n1.Work as Full stack developer on PHP as backend\n2..Developed several SQL Scripts to extract data from a Mysql Server\nDatabase and load the results into the server database.\n3.Worked on Requirement gathering.",
+            {
+                "entities": [
+                    [
+                        26,
+                        64,
+                        "SKILLS"
+                    ],
+                    [
+                        86,
+                        133,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Technologies Used\nLaravel 7, Mysql 5.7, Git, windows 10, VS Code",
+            {
+                "entities": [
+                    [
+                        18,
+                        27,
+                        "SKILLS"
+                    ],
+                    [
+                        29,
+                        38,
+                        "SKILLS"
+                    ],
+                    [
+                        40,
+                        43,
+                        "SKILLS"
+                    ],
+                    [
+                        45,
+                        55,
+                        "SKILLS"
+                    ],
+                    [
+                        57,
+                        64,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "PHP Developer\n3.Fintelligence Data Science Private Limited - Mumbai, Maharashtra\nSeptember 2019 to July 2020",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "ROLE"
+                    ],
+                    [
+                        14,
+                        58,
+                        "ORGANISATION"
+                    ],
+                    [
+                        61,
+                        80,
+                        "LOCATION"
+                    ],
+                    [
+                        81,
+                        108,
+                        "DURATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Project: Product name \"RupeeCircle\"\nRupeeCircle is a new age finance company that's moving the shift to a\nbankless world.RupeeCircle provides access to quality credit for everyone\nat attractive interest rates through a simple, tech-enabled experience and exceptional customer service.",
+            {
+                "entities": [
+                    [
+                        23,
+                        34,
+                        "PROJECTS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My Contribution\n1.Worked on development of a peer-to-peer lending platform product\nnamed \"RupeeCircle\".\n2.Developed Moratorium Product for COVID-19 Pandemic.\n3.Formulating a reusable REST API to consume data from and push data into\nMongoDB.\n4.Developed new features and implemented them in the UI, using JQuery\nand Angular.",
+            {
+                "entities": [
+                    [
+                        28,
+                        57,
+                        "SKILLS"
+                    ],
+                    [
+                        116,
+                        157,
+                        "PROJECTS"
+                    ],
+                    [
+                        174,
+                        240,
+                        "PROJECTS"
+                    ],
+                    [
+                        294,
+                        296,
+                        "SKILLS"
+                    ],
+                    [
+                        304,
+                        310,
+                        "SKILLS"
+                    ],
+                    [
+                        315,
+                        322,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Technologies Used\nLaravel 5.8, Mongo 3.2, SVN, Linux 18.4, PHPStorm",
+            {
+                "entities": [
+                    [
+                        31,
+                        40,
+                        "SKILLS"
+                    ],
+                    [
+                        42,
+                        45,
+                        "SKILLS"
+                    ],
+                    [
+                        47,
+                        57,
+                        "SKILLS"
+                    ],
+                    [
+                        59,
+                        67,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "ASSOCIATE PHP DEVELOPER\nA5E Consulting - Thane, Maharashtra\nAugust 2017 to August 2019",
+            {
+                "entities": [
+                    [
+                        0,
+                        23,
+                        "ROLE"
+                    ],
+                    [
+                        24,
+                        38,
+                        "ORGANISATION"
+                    ],
+                    [
+                        41,
+                        59,
+                        "LOCATION"
+                    ],
+                    [
+                        60,
+                        86,
+                        "DURATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Project: Product name \"PeopleApex\"",
+            {
+                "entities": [
+                    [
+                        23,
+                        33,
+                        "PROJECTS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\fPeopleApex is a global HR Software - an Employee Experience Platform\ndesigned to help you get the best from your people, by ensuring your\npeople feel engaged, empowered and energized for peak performance\nthereby improving productivity.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "My Contribution\n1.Worked on development of HRM and PAYROLL product named\n\"PeopleApex\"\n2.Developed a Task Management Module (People Apex Product)\n3Developed a Travel Management Module (People Apex Product)\n4.Worked on Payroll Report and other reports etc.",
+            {
+                "entities": [
+                    [
+                        43,
+                        85,
+                        "PROJECTS"
+                    ],
+                    [
+                        86,
+                        122,
+                        "PROJECTS"
+                    ],
+                    [
+                        145,
+                        182,
+                        "PROJECTS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Technologies Used\nZend Framework 3, MySql 5.7, FileZilla, Windows 10, NetBeans",
+            {
+                "entities": [
+                    [
+                        18,
+                        34,
+                        "SKILLS"
+                    ],
+                    [
+                        47,
+                        56,
+                        "SKILLS"
+                    ],
+                    [
+                        70,
+                        78,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "ㅡ",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Education",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "• PHP",
+            {
+                "entities": [
+                    [
+                        2,
+                        5,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "• JavaScript",
+            {
+                "entities": [
+                    [
+                        2,
+                        12,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "• HTML5",
+            {
+                "entities": [
+                    [
+                        2,
+                        7,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "• MySQL",
+            {
+                "entities": [
+                    [
+                        2,
+                        7,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Diploma in Computer Engineering\nGovt.Polytechnic Thane - Thane, Maharashtra",
+            {
+                "entities": [
+                    [
+                        0,
+                        31,
+                        "EDUCATION"
+                    ],
+                    [
+                        32,
+                        54,
+                        "INSTITUTION"
+                    ],
+                    [
+                        57,
+                        75,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Skills / IT Skills",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "• Frameworks: Laravel 5.7 Laravel 7, Zend3 Database: Mysql, MongoDB Javascript Library: JQuery,\nDatatable.js, JQuery UI Version Control Tools: GitHub, SVN (Apache Subversion) Web Services:\nRESTFUL API Doctrine-Orm-Module Unit Testing Tools: PHPUnit Operating System: Linux, Windows\nBug Management Tools: JIRA, Mantis Bug Tracker",
+            {
+                "entities": [
+                    [
+                        14,
+                        25,
+                        "SKILLS"
+                    ],
+                    [
+                        26,
+                        35,
+                        "SKILLS"
+                    ],
+                    [
+                        37,
+                        51,
+                        "SKILLS"
+                    ],
+                    [
+                        53,
+                        58,
+                        "SKILLS"
+                    ],
+                    [
+                        60,
+                        67,
+                        "SKILLS"
+                    ],
+                    [
+                        88,
+                        94,
+                        "SKILLS"
+                    ],
+                    [
+                        96,
+                        108,
+                        "SKILLS"
+                    ],
+                    [
+                        110,
+                        119,
+                        "SKILLS"
+                    ],
+                    [
+                        143,
+                        149,
+                        "SKILLS"
+                    ],
+                    [
+                        151,
+                        154,
+                        "SKILLS"
+                    ],
+                    [
+                        189,
+                        200,
+                        "SKILLS"
+                    ],
+                    [
+                        241,
+                        248,
+                        "SKILLS"
+                    ],
+                    [
+                        267,
+                        273,
+                        "SKILLS"
+                    ],
+                    [
+                        274,
+                        281,
+                        "SKILLS"
+                    ],
+                    [
+                        304,
+                        308,
+                        "SKILLS"
+                    ],
+                    [
+                        310,
+                        328,
+                        "SKILLS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "• 1.Bombay Softwares (Edugem Technologies Pvt Ltd)/ PHP Developer",
+            {
+                "entities": [
+                    [
+                        2,
+                        20,
+                        "ORGANISATION"
+                    ],
+                    [
+                        22,
+                        49,
+                        "ORGANISATION"
+                    ],
+                    [
+                        52,
+                        65,
+                        "ROLE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\f",
+            {
+                "entities": []
+            }
+        ]
+    ]
+}
