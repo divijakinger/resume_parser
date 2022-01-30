@@ -1,0 +1,19 @@
+{
+    "classes": [
+        "PERSON"
+    ],
+    "annotations": [
+        [
+            "MD. EJAZ AHAMAD\r",
+            {
+                "entities": [
+                    [
+                        4,
+                        15,
+                        "PERSON"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
