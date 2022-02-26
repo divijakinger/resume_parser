@@ -13,9 +13,10 @@ import extract_mobile_number
 from extract_education import extract_education
 from extract_name_1 import extract_name_possibility_1
 from extract_name_2 import extract_name_possibility_2
+from extract_name_3 import extract_name_possibility_3
 from extract_skills import extract_skills
 
-
+file_path = r'D:\Project_Deep_Blue_Archive\Archive\Test_pdfs\1_test.pdf'
 # Extracting Required Texts from the PDF
 def extract_text_from_pdf(pdf_path):
     with open(pdf_path, 'rb') as fh:
@@ -59,26 +60,10 @@ nlp = spacy.load('en_core_web_sm')
 # initialize matcher with a vocab
 matcher = Matcher(nlp.vocab)
 
-resume_text = ""
-# Extracting Name
-extract_name_possibility_1(resume_text)
-extract_name_possibility_2(resume_text)
 
-# Extracting Mobile Number
-extract_mobile_number.extract_mobile_number(resume_text)
-
-# Extracting Email
-extract_email.extract_email(resume_text)
-
-# Extracting Skills
-extract_skills(resume_text)
-
-# Extract Education
-extract_education(resume_text)
-
-dir_list = os.listdir('pdf_test')
+dir_list = os.listdir(r'D:\Project_Deep_Blue_Archive\Archive')
 for name in dir_list:
-    file_path = r"pdf/"+name
+    file_path = r"D:\Project_Deep_Blue_Archive\Archive\Test_pdfs/6.pdf"
     text = ""
     output_path = r"output.pdf"
     print(file_path)
@@ -100,6 +85,7 @@ for name in dir_list:
 
     print("Name possibility 1: ", extract_name_possibility_1(text))
     print("Name possibility 2: ", extract_name_possibility_2(text))
+    print("Name possibility 3: ", extract_name_possibility_3(text))
     print("Email: ", extract_email.extract_email(text))
     print("Mobile Number: ", extract_mobile_number.extract_mobile_number(text))
     print("Education and Year: ", extract_education(resume_text=text))

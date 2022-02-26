@@ -16,15 +16,16 @@ def extract_skills(resume_text):
     tokens = [token.text for token in nlp_text if not token.is_stop]
 
     # reading the csv file
-    data = pd.read_csv("skills.csv")
-    skills = list(data.columns.values)
+    df = pd.read_csv('skills.csv')
 
+    skills = df['skill']
     skillset = []
 
+    skills = [i.lower() for i in skills]
     # check for one-grams (example: python)
     for token in tokens:
         if token.lower() in skills:
-            skillset.append(token)
+           skillset.append(token)
 
     # check for bi-grams and tri-grams (example: machine learning)
     for token in noun_chunks:
