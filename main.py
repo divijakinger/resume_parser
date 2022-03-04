@@ -1,5 +1,6 @@
 import io
 import re
+import nltk
 from nltk.corpus import stopwords
 import spacy
 from pdfminer.converter import TextConverter
@@ -16,6 +17,7 @@ import doc2pdf
 import win32com.client as win32
 from win32com.client import constants
 import os,os.path
+import requests
 
 def change_word_format(file_path):
     word = win32.gencache.EnsureDispatch('Word.Application')
@@ -241,8 +243,58 @@ def extract_education(resume_text):
     return education
 
 
-print("Name: ", extract_name(text))
-print("Email: ", extract_email(text))
-print("Mobile Number: ", extract_mobile_number(text))
-print("Education and Year: ", extract_education(resume_text=text))
-print("Skills: ", extract_skills(resume_text=text))
+# print("Name: ", extract_name(text))
+# print("Email: ", extract_email(text))
+# print("Mobile Number: ", extract_mobile_number(text))
+# print("Education and Year: ", extract_education(resume_text=text))
+# print("Skills: ", extract_skills(resume_text=text))
+
+
+#skills extraction
+
+nltk.download('stopwords')
+
+def skill_exists(skill):
+    url = f'https://api.apilayer.com/skills?q={skill}&amp;count=1'
+    headers = {'apikey': 'zBjANb5ZdVWJJQ6yOT6RyEm5roxstRGY'}
+    response = requests.request('GET', url, headers=headers)
+    result = response.json()
+
+    if response.status_code == 200:
+        return len(result) and result[0].lower() == skill.lower()
+    raise Exception(result.get('message'))
+
+
+def extract_skills(input_text):
+    stop_words = set(nltk.corpus.stopwords.words('english'))
+    word_tokens = nltk.tokenize.word_tokenize(input_text)
+
+    # remove the stop words
+    filtered_tokens = [w for w in word_tokens if w not in stop_words]
+
+    # remove the punctuation
+    filtered_tokens = [w for w in word_tokens if w.isalpha()]
+
+    # generate bigrams and trigrams (such as artificial intelligence)
+    bigrams_trigrams = list(map(' '.join, nltk.everygrams(filtered_tokens, 2, 3)))
+
+    # we create a set to keep the results in.
+    found_skills = set()
+
+    # we search for each token in our skills database
+    for token in filtered_tokens:
+        if skill_exists(token.lower()):
+            found_skills.add(token)
+
+    # we search for each bigram and trigram in our skills database
+    for ngram in bigrams_trigrams:
+        if skill_exists(ngram.lower()):
+            found_skills.add(ngram)
+
+    return found_skills
+
+
+if __name__ == '__main__':
+    skills = extract_skills(text)
+
+    print(skills)  # noqa: T001

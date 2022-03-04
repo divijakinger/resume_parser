@@ -1,0 +1,142 @@
+{
+    "attributions": [
+        {
+            "name": "Wikipedia",
+            "text": "Wikipedia extracts are distributed under the CC BY-SA license (https://creativecommons.org/licenses/by-sa/3.0/)"
+        }
+    ],
+    "data": [
+        {
+            "confidence": 1.0,
+            "skill": {
+                "description": null,
+                "descriptionSource": null,
+                "id": "KS128HD6KJSZMPK72WSF",
+                "infoUrl": "https://skills.emsidata.com/skills/KS128HD6KJSZMPK72WSF",
+                "name": "Regression Testing",
+                "tags": [
+                    {
+                        "key": "wikipediaExtract",
+                        "value": "Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression. Changes that may require regression testing include bug fixes, software enhancements, 
+configuration changes, and even substitution of electronic components. As regression test suites tend to grow with each found defect, test automation is frequently involved. Sometimes a change impact analysis is performed to determine an 
+appropriate subset of tests."}, {"key": "wikipediaUrl", "value": "https: //en.wikipedia.org/wiki/Regression_testing"}], 
+                        "type": {
+                            "id": "ST1",
+                            "name": "Specialized Skill"
+                        }
+                    }
+                },
+                {
+                    "confidence": 1.0,
+                    "skill": {
+                        "description": null,
+                        "descriptionSource": null,
+                        "id": "KS124SZ60X2X67RMLWB4",
+                        "infoUrl": "https://skills.emsidata.com/skills/KS124SZ60X2X67RMLWB4",
+                        "name": "HP Quicktest Professional",
+                        "tags": [
+                            {
+                                "key": "wikipediaExtract",
+                                "value": "Micro Focus Unified Functional Testing (UFT), formerly known as QuickTest Professional (QTP), is software that provides functional and regression test automation for software applications and environments."
+                            }
+                        ],
+                        "type": {
+                            "id": "ST1",
+                            "name": "Specialized Skill"
+                        }
+                    }
+                },
+                {
+                    "confidence": 1.0,
+                    "skill": {
+                        "description": null,
+                        "descriptionSource": null,
+                        "id": "KS1245B69S835T6C8KB4",
+                        "infoUrl": "https://skills.emsidata.com/skills/KS1245B69S835T6C8KB4",
+                        "name": "Functional Testing",
+                        "tags": [
+                            {
+                                "key": "wikipediaExtract",
+                                "value": "Functional testing is a quality assurance (QA) process and a type of black-box testing that bases its test cases on the specifications of the software component under test. Functions are tested by feeding them input and examining the output, and internal program structure is rarely considered. Functional testing is conducted to evaluate the compliance of a system or component with specified functional requirements. Functional testing usually describes what the system does."
+                            },
+                            {
+                                "key": "wikipediaUrl",
+                                "value": "https://en.wikipedia.org/wiki/Functional_testing"
+                            }
+                        ],
+                        "type": {
+                            "id": "ST1",
+                            "name": "Specialized Skill"
+                        }
+                    }
+                },
+                {
+                    "confidence": 1.0,
+                    "skill": {
+                        "description": null,
+                        "descriptionSource": null,
+                        "id": "KS440NV72ZFPMPMZJFMX",
+                        "infoUrl": "https://skills.emsidata.com/skills/KS440NV72ZFPMPMZJFMX",
+                        "name": "Smoke Testing",
+                        "tags": [
+                            {
+                                "key": "wikipediaExtract",
+                                "value": "In computer programming and software testing, smoke testing is preliminary testing to reveal simple failures severe enough to, for example, reject a prospective software release. Smoke tests are a 
+subset of test cases that cover the most important functionality of a component or system, used to aid assessment of whether main functions of the software appear to work correctly. When used to determine if a computer program should be subjected to further, more fine-grained testing, a smoke test may be called an intake test. Alternatively, it is a set of tests run on each new build of a product to verify that the build is testable before the build is released into the hands of the test team. In the DevOps paradigm, use of a BVT step is one hallmark of the continuous integration maturity stage."}, {"key": "wikipediaUrl", "value": "https: //en.wikipedia.org/wiki/Smoke_testing_(software)"}], "type": {"id": 
+                                "ST1",
+                                "name": "Specialized Skill"
+                            }
+                        }
+                    },
+                    {
+                        "confidence": 1.0,
+                        "skill": {
+                            "description": null,
+                            "descriptionSource": null,
+                            "id": "KS122VL71WF050TPW0V7",
+                            "infoUrl": "https://skills.emsidata.com/skills/KS122VL71WF050TPW0V7",
+                            "name": "Design Specifications",
+                            "tags": [
+                                {
+                                    "key": "wikipediaExtract",
+                                    "value": "A design specification is a detailed document providing a list of points regarding a product or process. For example, the design specification could include required dimensions, environmental factors, ergonomic factors, aesthetic factors, maintenance that will be needed, etc. It may also give specific examples of how the design should be executed, helping others work properly."
+                                },
+                                {
+                                    "key": "wikipediaUrl",
+                                    "value": "https://en.wikipedia.org/wiki/Design_specification"
+                                }
+                            ],
+                            "type": {
+                                "id": "ST1",
+                                "name": "Specialized Skill"
+                            }
+                        }
+                    },
+                    {
+                        "confidence": 1.0,
+                        "skill": {
+                            "description": null,
+                            "descriptionSource": null,
+                            "id": "KS440BB67NHB0JH39QCN",
+                            "infoUrl": "https://skills.emsidata.com/skills/KS440BB67NHB0JH39QCN",
+                            "name": "Scenario Testing",
+                            "tags": [
+                                {
+                                    "key": "wikipediaExtract",
+                                    "value": "Scenario testing is a software testing activity that uses scenarios: hypothetical stories to help the tester work 
+through a complex problem or test system. The ideal scenario test is a credible, complex, compelling or motivating story; the outcome of which is easy to evaluate. These tests are usually different from test cases in that test cases are single steps whereas scenarios cover a number of steps."}, {"key": "wikipediaUrl", "value": "https: //en.wikipedia.org/wiki/Scenario_testing"}], "type": {"id": "ST1", "name": "Specialized Skill"}}}, {"confidence": 1.0, "skill": {"description": null, "descriptionSource": null, "id": "KS1200C78RVN8GGZYVKF", "infoUrl": "https://skills.emsidata.com/skills/KS1200C78RVN8GGZYVKF", "name": "VBScript (Visual Basic Scripting Edition)", "tags": [{"key": "wikipediaExtract", "value": "VBScript is an Active Scripting language developed by Microsoft that is modeled on Visual Basic. It allows Microsoft Windows system administrators to generate powerful tools for managing computers with error handling, subroutines, and other advanced programming constructs. It can give the user complete control over many aspects of their computing environment."}, {"key": "wikipediaUrl", "value": "https://en.wikipedia.org/wiki/VBScript"}], "type": {"id": "ST1", "name": "Specialized Skill"}}}, {"confidence": 1.0, "skill": {"description": null, "descriptionSource": null, "id": "KS124N46RMFSBQFLTM0L", "infoUrl": "https://skills.emsidata.com/skills/KS124N46RMFSBQFLTM0L", "name": "Patient Safety", "tags": [{"key": "wikipediaExtract", "value": "Patient safety is a discipline that emphasizes safety in health care through the prevention, reduction, reporting, and analysis of error and other types of unnecessary harm that often lead to adverse patient events. The frequency and magnitude of avoidable adverse events, often known as patient safety incidents, experienced by patients was not well known until the 1990s, when multiple countries reported significant numbers of patients harmed and killed by medical errors. Recognizing that healthcare errors impact 1 in every 10 patients around the world, the 
+World Health Organization calls patient safety an endemic concern. Indeed, patient safety has emerged as a distinct healthcare discipline supported by an immature yet developing scientific framework. There is a significant transdisciplinary body of theoretical and research literature that informs the science of patient safety."}, {"key": "wikipediaUrl", "value": "https: //en.wikipedia.org/wiki/Patient_safety"}], "type": {"id": "ST1", "name": "Specialized Skill"}}}, {"confidence": 1.0, "skill": {"description": null, "descriptionSource": null, "id": "KS122T4649YBSJHD4ZWV", "infoUrl": "https://skills.emsidata.com/skills/KS122T4649YBSJHD4ZWV", "name": "Defect Tracking", "tags": [{"key": "wikipediaExtract", "value": "In engineering, defect tracking is the process of tracking the logged defects in a product from beginning to closure, and making new versions of the product that fix the defects. Defect tracking is important in software engineering as complex software systems typically have tens or hundreds or thousands of defects: managing, evaluating and prioritizing these defects is a difficult task. When the numbers of defects gets quite large, and the defects need to be tracked over extended periods of time, use of a defect tracking system can make the management task much easier."}, {"key": "wikipediaUrl", "value": "https://en.wikipedia.org/wiki/Defect_tracking"}], "type": {"id": "ST1", "name": "Specialized Skill"}}}, {"confidence": 1.0, "skill": {"description": null, "descriptionSource": null, "id": "ESA10CDDE14540B7C454", "infoUrl": "https://skills.emsidata.com/skills/ESA10CDDE14540B7C454", "name": "Web Accessibility Testing", "tags": [{"key": "wikipediaExtract", "value": "Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational 
+disabilities, and socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed and 
+edited, generally all users have equal access to information and functionality."}, {"key": "wikipediaUrl", "value": "https: //en.wikipedia.org/wiki/Web_accessibility"}], "type": {"id": "ST1", "name": "Specialized Skill"}}}, {"confidence": 
+                                    1.0,
+                                    "skill": {
+                                        "description": null,
+                                        "descriptionSource": null,
+                                        "id": "KS441ZY6P0PDB5DWTRB8",
+                                        "infoUrl": "https://skills.emsidata.com/skills/KS441ZY6P0PDB5DWTRB8",
+                                        "name": "Web Applications",
+                                        "tags": [
+                                            {
+                                                "key": "wikipediaExtract",
+                                                "value": "A web application is application software that runs on a web server, unlike computer-based software programs that are run locally on the operating system (OS) of the device. Web applications are accessed by the user through a web browser 
+with an active network connection. These applications are programmed using a client\u2013server modeled structure\u2014the user (\"client\") is provided services through an off-site server that is
