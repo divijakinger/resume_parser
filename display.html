@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Page</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rationale&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans&display=swap" rel="stylesheet">
+</head>
+<style>
+    body{
+    background-color: #ffffff;
+    font-family: 'Public Sans', sans-serif;
+}
+
+#nav-text{
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5vw;
+}
+
+.navA {
+    padding:0.5rem;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    border-left: 2px solid transparent;
+    border-top: 2px solid transparent;
+    border-right: 2px solid transparent;
+    transition: background .1s, border-bottom .2s, border-left .4s, border-top .6s, border-right .9s;
+}
+
+.navA:hover{
+    background: transparent;
+    transition: background .9s, border-bottom .1s .3s, border-left .7s 1s, border-top .6s .7s, border-right .3s .5s;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    border-left: 2px solid rgb(0, 0, 0);
+    border-top: 2px solid rgb(0, 0, 0);
+    border-right: 2px solid rgb(0, 0, 0);
+}
+
+    #display-div{
+        background: #F2F5FF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 60px;
+        width: 100%;
+        height: fit-content;
+    }
+</style>
+<body>
+    <nav class="nav ms-5 pt-2" id="nav-text">
+        <a class="nav-link navA" href="home.html" style="color: rgb(0, 0, 0);">HOME</a>
+        <a class="nav-link navA" href="aboutus.html" style="color: rgb(0, 0, 0);">ABOUT US</a>
+        <a class="nav-link navA active" href="try.html" style="color: rgb(0, 0, 0)">TRY IT OUT</a>
+    </nav>
+    <div class="container">
+        <h2 class="m-3">Enter the list of Skills you want to search</h2>
+        <h3 class="m-3 text-secondary">eg: AutoCAD, Python, Marketing</h3>
+        <div class="row">
+            <div class="col-md-9">
+                <input class="form-control m-3" type="text" id="list-submit" placeholder="List Of Skills" aria-label="default input example">
+            </div>
+            <div class="col-md-3">
+                <button type="button" onclick="skill_search()" class="btn btn-info m-3">SUBMIT</button>
+            </div>
+
+        </div>
+
+        <div id="display-div" class="p-0 m-3 mt-lg-5 m-0">            
+        </div>     
+    </div>
+</body>
+<script>
+    var resume_data ;
+    var skills_perc = [];
+    fetch('https://ef55-103-26-53-112.ngrok.io/getData')
+            .then(function (response) {
+                return response.json()
+            }).then(function (text){
+                console.log(text)
+                resume_data = text;
+                render_resumes()
+            });
+            
+    // var resume_data = 
+    // [
+    //     {
+    //         'Resume ID': 0, 
+    //         'Name': ['Ayush Pandey'], 
+    //         'Email': 'shub.pandey7@yahoo.in', 
+    //         'Phone': '+91-8765599273', 
+    //         'Education': ['Seth Sriniwas Agarwal Institute of Engineering & Technology', 
+    //         'Sardar Patel Inter College', 'Ram Krishana Mission Higher Secondary School'], 
+    //         'Experience': [], 
+    //         'Degree': ['BE','PHD'], 
+    //         'Skills': ['Finite Element Methods', 'Structural Analysis', 'Plant Layout Study', 'Mechanical Engineering', 'Planning', '3D Modeling', 'Ansys Simulation Software', 'Deformation', 'Computer Aided Three-Dimensional Interactive Application (CATIA)', 'AutoCAD', 'Risk Management', 'SolidWorks (CAD)', 'Spring Framework', 'New Product Development', 'Machining', 'Casting', 'Project Management'], 
+    //         'Companies': []
+    //     },
+    //     {
+    //         'Resume ID': 1, 
+    //         'Name': ['ABC XYZ'], 
+    //         'Email': 'abc.xyz@yahoo.in', 
+    //         'Phone': '+91-8765599274', 
+    //         'Education': ['Seth Sriniwas Agarwal Institute of Engineering & Technology', 
+    //         'Sardar Patel Inter College', 'Ram Krishana Mission Higher Secondary School'], 
+    //         'Experience': [], 
+    //         'Degree': ['BE','PHD'], 
+    //         'Skills': ['Finite Element Methods', 'Structural Analysis', 'Plant Layout Study', 'Mechanical Engineering', 'Planning', '3D Modeling', 'Ansys Simulation Software', 'Deformation', 'Computer Aided Three-Dimensional Interactive Application (CATIA)', 'AutoCAD', 'Risk Management', 'SolidWorks (CAD)', 'Spring Framework', 'New Product Development', 'Machining', 'Casting', 'Project Management'], 
+    //         'Companies': []
+    //     },
+    //     {
+    //         'Resume ID': 2, 
+    //         'Name': ['DEF KLM'], 
+    //         'Email': 'def.klm@yahoo.in', 
+    //         'Phone': '+91-8765599275', 
+    //         'Education': ['Seth Sriniwas Agarwal Institute of Engineering & Technology', 
+    //         'Sardar Patel Inter College', 'Ram Krishana Mission Higher Secondary School'], 
+    //         'Experience': [], 
+    //         'Degree': ['BE','PHD'], 
+    //         'Skills': ['Finite Element Methods', 'Structural Analysis', 'Plant Layout Study', 'Mechanical Engineering', 'Planning', '3D Modeling', 'Ansys Simulation Software', 'Deformation', 'Computer Aided Three-Dimensional Interactive Application (CATIA)', 'AutoCAD', 'Risk Management', 'SolidWorks (CAD)', 'Spring Framework', 'New Product Development', 'Machining', 'Casting', 'Project Management'], 
+    //         'Companies': []
+    //     },
+    //     {
+    //         'Resume ID': 3, 
+    //         'Name': ['Ayush Pandey'], 
+    //         'Email': 'shub.pandey7@yahoo.in', 
+    //         'Phone': '+91-8765599273', 
+    //         'Education': [], 
+    //         'Experience': [], 
+    //         'Degree': ['BE','PHD'], 
+    //         'Skills': ['Finite Element Methods', 'Structural Analysis', 'Plant Layout Study', 'Mechanical Engineering', 'Planning', '3D Modeling', 'Ansys Simulation Software', 'Deformation', 'Computer Aided Three-Dimensional Interactive Application (CATIA)', 'AutoCAD', 'Risk Management', 'SolidWorks (CAD)', 'Spring Framework', 'New Product Development', 'Machining', 'Casting', 'Project Management'], 
+    //         'Companies': []
+    //     }
+    // ]
+    
+    // console.log(Object.values(resume_data['Name']))
+    var display_div = document.getElementById("display-div");
+
+    function render_resumes(){
+        var resume_str='';
+        console.log(resume_data)
+        for (var i=0;i<resume_data['data'].length;i++){
+            var curr = resume_data['data'][i]
+            var education = (curr.Education)
+            var skills = (curr.Skills)
+            var education = (curr.Education)
+            var companies = (curr.Companies)
+            var experience = (curr.Experience)
+            var degree = (curr.Degree)
+            var edu_str = '';
+            var comp_str = '';
+            var exp_str = '';
+            var deg_str = '';
+
+            for (var j = 0;j<education.length;j++){
+                edu_str += `<li>${education[j]}</li>`
+            }
+
+            for (var k = 0;k<companies.length;k++){
+                comp_str += `<li>${companies[k]}</li>`  
+            }
+
+            for (var l = 0;l<experience.length;l++){
+                exp_str += `<li>${experience[l]}</li>`
+            }
+            
+            for (var m = 0;m<degree.length;m++){
+                deg_str += `<li>${degree[m]}</li>`
+            }
+
+            resume_str += `
+            <div class="row-${i} p-4">
+                <div class="row p-3">
+                    NAME : ${curr.Name}
+                    <br>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <i class="bi bi-telephone-fill"></i> ${curr.Phone}
+                        <br>
+                        <i class="bi bi-envelope-fill"></i> ${curr.Email}
+                    </div>
+                    <div class="col-md-3">
+                        <b>EDUCATION:</b>
+                        ${edu_str}
+                        <br>
+                        <b>DEGREE:</b>
+                        ${deg_str}
+                    </div>
+                    <div class="col-md-4">
+                        <b>COMPANIES:</b>
+                        ${comp_str}
+                        <br>
+                        <b>EXPERIENCE DURATION:</b>
+                        ${exp_str}
+                    </div>
+                    <div class="col-md-3" id="skills-${i}">
+                    </div>
+                </div>
+                <div class="container p-2">
+                    <b>SKILLS:</b>
+                    <br>
+                    ${curr.Skills.toString()}
+                </div>
+                <hr>
+            </div>`
+
+
+        }
+
+        
+        display_div.innerHTML = resume_str;
+    }
+
+    function add_perc(){
+        for (var x=0;x<resume_data['data'].length;x++){
+            skill_perc_str = '';
+            if (skills_perc.length>0){
+                if (skills_perc[x]>70){
+                    skill_perc_str = 
+                    `<div class="alert alert-success" role="alert">
+                        Skills Match Percentage : ${skills_perc[x]}%
+                    </div>`
+                }
+                else if (skills_perc[x]>40){
+                    skill_perc_str = 
+                    `<div class="alert alert-warning" role="alert">
+                        Skills Match Percentage : ${skills_perc[x]}%
+                    </div>`
+                }
+                else {
+                    skill_perc_str = 
+                    `<div class="alert alert-danger" role="alert">
+                        Skills Match Percentage : ${skills_perc[x]}%
+                    </div>`
+                }
+                document.getElementById(`skills-${x}`).innerHTML = skill_perc_str;
+            }
+        }
+        var list_submit = document.getElementById("list-submit")
+        list_submit.removeAttribute('disabled','')
+        list_submit.removeAttribute('readonly','')
+    }
+
+    function skill_search() {
+        var list_submit = document.getElementById("list-submit")
+        list_submit.setAttribute('disabled','')
+        list_submit.setAttribute('readonly','')
+        var skills = list_submit.value;
+        var data = {
+            "skills":skills
+        }
+        console.log(data)
+        const url = "https://ef55-103-26-53-112.ngrok.io/matching"
+
+        const other_params = {
+            method: "POST",
+            mode:"cors",
+            headers: {
+            'Content-Type' : 'application/json'
+            },
+            body: JSON.stringify(data)
+        }
+
+        fetch(url, other_params)
+            .then((response) => response.json())
+                //Then with the data from the response in JSON...
+                .then((data) => {
+                    skills_perc = (data['Percentage']);
+                    add_perc();
+                })
+                //Then with the error genereted...
+                .catch((error) => {
+                console.error('Error:', error);
+                }); 
+    }
+    // render_resumes()
+    
+</script>
+</html>

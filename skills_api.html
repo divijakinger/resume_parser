@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="skills_extraction()"> Click Here</button>
+</body>
+<script>
+
+    function skills_extraction(){
+        q = `MAHIPAL SINGH                                      
+        Mobile No.     :   +91-9417153885; +91-8126352316
+        E-mail             :  mahipalsinghmehta@gmail.com                                                                                               
+        ____________________                                     
+        Curriculum Vitae
+
+        OBJECTIVE :
+        Looking for challenging career, where there is scope for demonstration, always on a look out for a positive & bigger outlook, and to achieve organization goals with devotion & concentration for the growth and betterment of the organization
+
+
+        ADDRESS FOR COMMUNICATION:	
+        Correspondence Address	Permanent Address
+        MAHIPAL SINGH                                                    
+        ROOM NO-207
+        HOSTEL NO.-04
+        SLIET, LONGOWAL
+        DIST-SANGRUR,PUNJAB  
+        PIN-148106	MAHIPAL SINGH                                                    S/O-  Mr. PRATAP SINGH    
+        Vill-RATIR KETI,KOTYURA,  P.O.-RATIR KETI
+        BAGESHWAR (UTTARAKHAND)
+        PIN-263633
+
+        EDUCATIONAL QUALIFICATIONS:
+
+        Course	Institution
+
+            Board/University	Marks (%)
+        & CGPA
+        Bachelor of Engg.
+        Chemical Engineering (polymer)	Sant Longowal Institute of Engg. & Tech. Longowal,
+        Punjab(deemed university).	 S.L.I.E.T.
+
+            6.0 CGPA
+        Diploma in Chemical Tech. (rubber & plastic).	Govt. Polytechnic Shaktifarm	U.B.T.E, ROORKEE	72.41 %
+        Matriculation    
+        (10th)	H.K.H.S. School (Uttarakhand)	UTTARAKHAND BOARD	66.4 %
+
+
+        ACADEMIC PROJECT
+        •	Design Plant of ethanol production and design of distillation column, & condenser. 
+        •	Plant layout of urea industry.
+
+        TRAINING UNDERTAKEN :
+        ●	1 month training in POLYESTER PVT. LTD. KHATIMA
+        ●	15 days training in GUJRAT AMBUJA PVT. LTD.SITARGANJ
+        ●	45 days training in S.R.F. LTD KASHIPUR
+
+
+        CO-CURRICULAR ACTIVITIES  & EXPERIENCE:
+        ●	Participation & won in various sports like. Cricket, chess etc.
+        ●	Participation in national label committee membership in health & medical.
+        ●	Membership with IICHE
+        ●	Knowledge about word, power point, excel, etc.
+
+
+        FIELD OF INTERESTS :
+
+        ●	Design, production, research & development.
+        ●	Working field ( pharmaceutical, fertilizer, polymer, other chemicals production industry.) 
+        
+
+
+        PERSONAL PROFILE :	
+        Gender	      	Male
+        Date of Birth	08-07-1994
+        Language known	Hindi, English
+        Nationality 	Indian 
+        Father’s name	Mr Pratap singh
+        Mother’s name	Mrs Parwati devi
+        Marital status	unmarried
+
+
+        I hereby affirm that the above information is true to the best of my knowledge.                                         
+
+        Mahipal singh
+            `
+
+        var myHeaders = new Headers();
+        myHeaders.append("apikey", "zBjANb5ZdVWJJQ6yOT6RyEm5roxstRGY");
+
+        var requestOptions = {
+            method: 'GET',
+            redirect: 'follow',
+            headers: myHeaders
+        };
+
+        console.log(q)
+
+        fetch("https://api.apilayer.com/skills?q={q}", requestOptions)
+        .then(response => response.text())
+        .then(result => console.log(result))
+        .catch(error => console.log('error', error));
+        }
+
+</script>
+</html>
