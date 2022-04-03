@@ -176,12 +176,12 @@
 
             resume_str += `
             <div class="row-${i} p-4">
-                <div class="row p-3">
-                    NAME : ${curr.Name}
+                <div class="row">
+                    <h3>NAME : ${curr.Name[0]}</h3>
                     <br>
                 </div>
-                <div class="row">
-                    <div class="col-md-2">
+                <div class="row mt-2">
+                    <div class="col-md-3">
                         <i class="bi bi-telephone-fill"></i> ${curr.Phone}
                         <br>
                         <i class="bi bi-envelope-fill"></i> ${curr.Email}
@@ -193,7 +193,7 @@
                         <b>DEGREE:</b>
                         ${deg_str}
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <b>COMPANIES:</b>
                         ${comp_str}
                         <br>
