@@ -1,0 +1,18 @@
+first initialize a git repo in local if you dont have one: git init
+Then link with the github repo: git remote add origin https://github.com/divijakinger/project_deep_blue.git
+then pull all the api code: git pull origin api
+--------------------------------------------------------
+Now lets setup your conda env: Go to anaconda then click on terminal and then write the command: conda create -n spacy python=3.6.8
+Now after the venv is installed
+Activate the env: conda activate spacy
+And install the required spacy version: conda install -c esri spacy
+now exit the terminal
+---------------------------------------
+Start vs code and select the spacy env from interpreters
+Now install all the dependencies with the requirements.txt using : pip install -r requirements.txt
+Install Tesseract from the given github link: https://github.com/UB-Mannheim/tesseract/wiki
+Install this and copy the path of tesseract.exe and replace it in the resume_parser_final.py
+Now you only have to run the flask server with the following commands:
+set FLASK_APP=app.py
+set FLASK_ENV=development
+flask run

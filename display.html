@@ -12,6 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans&display=swap" rel="stylesheet">
@@ -19,8 +20,9 @@
 </head>
 <style>
     body{
-    background-color: #ffffff;
-    font-family: 'Public Sans', sans-serif;
+    background-color: #32333C;
+    font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
 #nav-text{
@@ -41,36 +43,57 @@
 .navA:hover{
     background: transparent;
     transition: background .9s, border-bottom .1s .3s, border-left .7s 1s, border-top .6s .7s, border-right .3s .5s;
-    border-bottom: 2px solid rgb(0, 0, 0);
-    border-left: 2px solid rgb(0, 0, 0);
-    border-top: 2px solid rgb(0, 0, 0);
-    border-right: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(255, 255, 255);
+    border-left: 2px solid rgb(255, 255, 255);
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 2px solid rgb(255, 255, 255);
 }
 
     .data-cards{
-        background: #F2F5FF;
-        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-        border-radius: 0px;
+        background: #373641;
+        border-radius: 25px;
         width: 100%;
         height: fit-content;
     }
 </style>
 <body>
     <nav class="nav ms-5 pt-2" id="nav-text">
-        <a class="nav-link navA" href="home.html" style="color: rgb(0, 0, 0);">HOME</a>
-        <a class="nav-link navA" href="aboutus.html" style="color: rgb(0, 0, 0);">ABOUT US</a>
-        <a class="nav-link navA active" href="try.html" style="color: rgb(0, 0, 0)">TRY IT OUT</a>
+        <a class="nav-link navA" href="home.html" style="color: rgb(255, 255, 255);">HOME</a>
+        <a class="nav-link navA" href="aboutus.html" style="color: rgb(255, 255, 255);">ABOUT US</a>
+        <a class="nav-link navA active" href="try.html" style="color: rgb(255, 255, 255)">TRY IT OUT</a>
     </nav>
     <div class="container">
         <!-- Button trigger modal -->
         <div class="d-flex justify-content-between">
-            <button type="button" class="btn btn-dark m-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <button type="button" class="btn m-3" style="background-color: #03DAC5;" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 Screen Your Resumes
             </button>
             <button onclick="generatePDF()" class="btn btn-outline-warning m-3">Download as PDF</button>
         </div>
+        
+        <div class="row m-3 d-none" id="sort-box">
+            <div class="form-check col-md-4">
+                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" onclick="get_sorted_matches()">
+                <label class="form-check-label" for="flexRadioDefault1">
+                    Sort By Match
+                </label>
+            </div>
+            <div class="form-check col-md-4">
+                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" onclick="get_best_match()">
+                <label class="form-check-label" for="flexRadioDefault2">
+                    Get Best Match
+                </label>
+            </div>
+            <div class="form-check col-md-4">
+                <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault3" onclick="get_top_matches()" >
+                <label class="form-check-label" for="flexRadioDefault3">
+                    Get Top 5 Matches
+                </label>
+            </div>
+        </div>
+        
         <!-- Modal -->
-        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" style="color: #121212;">
             <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
@@ -117,7 +140,7 @@
             </div>
             </div>
         </div>
-        <div id="display-div" class="mt-lg-5 p-4">
+        <div id="display-div" class="mt-lg-5 p-1">
             
         </div>     
     </div>
@@ -129,22 +152,72 @@
             .then(function (response) {
                 return response.json()
             }).then(function (text){
-                console.log(text)
                 resume_data = text;
                 render_resumes()
             });
             
     var display_div = document.getElementById("display-div");
 
+    function get_sorted_matches(){
+        skills_perc = []
+        fetch('http://1fbd-43-242-208-72.ngrok.io/sortbymatch')
+            .then(function (response) {
+                return response.json()
+            }).then(function (text){
+                resume_data = text;
+                for (var i=0;i<text['data'].length;i++){
+                    var curr = text['data'][i]
+                    console.log(curr.match_percentage)
+                    skills_perc.push(curr.match_percentage)
+                }
+                render_resumes()
+                add_perc()
+            });
+    }
+
+    function get_best_match(){
+        skills_perc = []
+        fetch('http://1fbd-43-242-208-72.ngrok.io/bestmatch')
+            .then(function (response) {
+                return response.json()
+            }).then(function (text){
+                resume_data = text;
+                console.log(text)
+                for (var i=0;i<text['data'].length;i++){
+                    var curr = text['data'][i]
+                    console.log(curr.match_percentage)
+                    skills_perc.push(curr.match_percentage)
+                }
+                render_resumes()
+                add_perc()
+            });
+    }
+
+    function get_top_matches(){
+        skills_perc = []
+        fetch('http://1fbd-43-242-208-72.ngrok.io/topfive')
+            .then(function (response) {
+                return response.json()
+            }).then(function (text){
+                resume_data = text;
+                console.log(text)
+                for (var i=0;i<text['data'].length;i++){
+                    var curr = text['data'][i]
+                    console.log(curr.match_percentage)
+                    skills_perc.push(curr.match_percentage)
+                }
+                render_resumes()
+                add_perc()
+            });
+    }
+
     function render_resumes(){
         var resume_str='';
         console.log(resume_data)
         for (var i=0;i<resume_data['data'].length;i++){
             var curr = resume_data['data'][i]
-            console.log(curr.Resume_data)
-            var education = (curr.Education)
             var skills = (curr.Skills)
-            var education = (curr.Education)
+            var education = (curr.College)
             var job_data = (curr.Job_data)
             var degree = (curr.Degree)
             var urls = (curr.Urls)
@@ -174,7 +247,7 @@
             }
 
             for (var n = 0;n < skills.length; n++){
-                skill_str += `<span class="btn btn-light m-1" style="background-color: white;border-color: #82bcf7; margin: 5px 2px 5px 2px; border-radius: 15px">${skills[n]}</span>`
+                skill_str += `<span class="btn m-1" style="background-color: #BB86FC; margin: 5px 2px 5px 2px; border-radius: 15px">${skills[n]}</span>`
             }
 
             for (var o=0;o<Object.keys(urls).length;o++){
@@ -189,7 +262,7 @@
             }
 
             for (var p=0;p<languages.length;p++){
-                lang_str += `<span class="badge bg-secondary p-2 m-2">${languages[p]}</span>`
+                lang_str += `<span class="badge p-2 m-2" style="background-color:#00838F">${languages[p]}</span>`
             }
 
             resume_str += `
@@ -199,7 +272,7 @@
                         <canvas id="user-icon-${i}" width="64" height="64" style="border-radius:50%;"></canvas>
                     </div>
                     <div class="col-11 d-flex justify-content-start mt-3">
-                        <h4>${curr.Name}</h4>
+                        <h1>${curr.Name}</h1>
                         <br>
                     </div>
                     <hr>
@@ -211,18 +284,18 @@
                         <i class="bi bi-envelope-fill"></i> ${curr.Email}
                     </div>
                     <div class="col-md-3">
-                        <b>EDUCATION:</b>
+                        <h5>COLLEGES:</h5>
                         ${edu_str}
                         <br>
                     </div>
                     <div class="col-md-3">
-                        <b>DEGREE:</b>
+                        <h5>DEGREE:</h5>
                         ${deg_str}
                     </div>
                     <div class="col-md-3" id="skills-${i}">
                     </div>
                 </div>
-                <table class="table table-info table-striped table-hover mt-4">
+                <table class="table table-dark mt-4">
                 <thead>
                     <tr>
                     <th scope="col">#</th>
@@ -250,8 +323,12 @@
                     <br>
                     ${skill_str}
                 </div>
-
                 <hr>
+                <div class="container p-2 mt-2">
+                    <b>SYNOPSIS:</b>
+                    <br>
+                    ${curr.Synopsis}
+                </div>
             </div>`
         }
 
@@ -308,19 +385,19 @@
             if (skills_perc.length>0){
                 if (skills_perc[x]>70){
                     skill_perc_str = 
-                    `<div class="alert alert-success" role="alert">
+                    `<div class="alert" style="background-color:#20C997" role="alert">
                        Match Percentage : ${skills_perc[x]}%
                     </div>`
                 }
                 else if (skills_perc[x]>40){
                     skill_perc_str = 
-                    `<div class="alert alert-warning" role="alert">
+                    `<div class="alert" style="background-color:#FEDB6A" role="alert">
                         Match Percentage : ${skills_perc[x]}%
                     </div>`
                 }
                 else {
                     skill_perc_str = 
-                    `<div class="alert alert-danger" role="alert">
+                    `<div class="alert" style="background-color:#CF6679" role="alert">
                         Match Percentage : ${skills_perc[x]}%
                     </div>`
                 }
@@ -333,20 +410,17 @@
     }
 
     function skill_search() {
+        document.getElementById("sort-box").classList.remove("d-none")
         var skills_list = document.getElementById("skills-list-input")
         var job_desc = document.getElementById("job-desc-input")
-        console.log(skills_list.value)
-        console.log(job_desc.value)
 
         if (skills_list.value.length != 0){
-            console.log("I AM WORKING")
             skills_list.setAttribute('disabled','')
             skills_list.setAttribute('readonly','')
             var skills = skills_list.value;
             var data = {
                 "skills":skills
             }
-            console.log(data)
             const url = "http://1fbd-43-242-208-72.ngrok.io/matching"
 
             const other_params = {
@@ -362,6 +436,7 @@
             .then((response) => response.json())
                 //Then with the data from the response in JSON...
                 .then((data) => {
+                    console.log(data)
                     skills_perc = (data['Percentage']);
                     document.getElementById("modal-close").click()
                     add_perc();
@@ -375,7 +450,6 @@
             var data = {
                 "job_desc":job_description
             }
-            console.log(data)
             const url = "http://1fbd-43-242-208-72.ngrok.io/metrics"
 
             const other_params = {
