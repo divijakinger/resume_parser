@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src='https://unpkg.com/tesseract.js@v2.0.0-alpha.13/dist/tesseract.min.js'></script>
+</head>
+<body>
+    
+    <select id="langsel">
+        <option value='eng' selected> English </option>
+    </select>
+    <input type="file" id="file-1" class="inputfile" />
+    <img id="selected-image"  src="" />
+    <div id="log">
+        <span id="startPre">  
+            <a id="startLink" href="#">Click here to recognize text</a> or choose your own image
+        </span>
+    </div>
+
+    <script src="js/tesseract-ocr.js">
+            const worker = new Tesseract.TesseractWorker();
+            worker.recognize(file, $("#langsel").val())
+            .progress(function(packet){
+                console.info(packet)
+                progressUpdate(packet)
+            })
+            .then(function(data){
+                console.log(data)
+                progressUpdate({ status: 'done', data: data })
+            })
+    </script>
+</body>
+</html>
