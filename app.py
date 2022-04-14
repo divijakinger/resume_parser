@@ -70,7 +70,7 @@ def add_todo():
             company=[i[1] for i in job_data]
         except:
             company=''
-        synopsis=f"Your Candidate {name} is a potential job candidate for your company with a qualification of {', ',join(cert_degree)} from {', '.join(list(set(college)))} University. The candidate is well versed with the following skills: {','.join(skills)}. Here are the contact details :- Phone : {mobile} and Email : {email}"
+        synopsis="Your Candidate {0} is a potential job candidate for your company with a qualification of {1} from {2} University. The candidate is well versed with the following skills: {3}. Here are the contact details :- Phone : {4} and Email : {5}".format(name,(', '.join(cert_degree)),(', '.join(list(set(college)))),(','.join(skills)),mobile,email)
         resume.insert_one(
             {
                 "Resume ID": resume_id,

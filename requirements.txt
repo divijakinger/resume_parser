@@ -1,0 +1,11 @@
+pdfkit
+nltk
+docx2txt
+pdfminer
+opencv-python
+pytesseract
+lexnlp
+pymongo
+flask_ngrok
+dnspython
+flask_cors

@@ -70,7 +70,7 @@ def extract_text_from_image_api(filename):
     from pytesseract import Output
     import re
 
-    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
 
     text = pytesseract.image_to_string(filename)
     return text
@@ -161,7 +161,7 @@ def extract_name(resume_text):
 
 """# Extract Phone Number"""
 
-import re, pyperclip
+import re
 
 # Extracting Mobile Number
 def extract_mobile_number(text):
