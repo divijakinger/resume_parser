@@ -135,6 +135,8 @@ def metrics():
     data=request.json
     job_desc=data['job_desc']
     data = resume.find()
+    top,mid,low=0,0,0
+    best_100=0
     for d in data:
         temp=d.copy()
         resume_text=d["Resume_data"]
@@ -142,10 +144,19 @@ def metrics():
         cv = CountVectorizer()
         count_matrix = cv.fit_transform(content)
         mat = cosine_similarity(count_matrix)
-        final.append(round(mat[1][0]*100))
-        d['match_percentage']=round(mat[1][0]*100)
+        percentage=round(mat[1][0]*100)
+        if percentage<40:
+            low+=1
+        elif percentage>=40 and percentage<70:
+            mid+=1
+        else:
+            top+=1
+            if percentage==100:
+                best_100+=1
+        final.append(percentage)
+        d['match_percentage']=percentage
         resume.replace_one(temp,d)
-    return {"Metrics":final}
+    return {"Metrics":final,'percentage_table':[low,mid,top],'best_count':best_100}
 
 @app.route('/sortbymatch',methods=['GET'])
 def sort_by():
@@ -188,9 +199,21 @@ def top_five():
         count+=1
     return {"data": final}
 
+# Skill filtering API
 
-
-
+@app.route('/skillfilter',methods=["POST"])
+def skill_filter():
+    inp=request.json
+    skills_given=inp['skills_given']
+    final=[]
+    data=resume.find( { 'Skills': { '$all': skills_given } } )
+    for d in data:
+        try:
+            del d["_id"]
+        except:
+            continue
+        final.append(d)
+    return {'data':final}
 
 if "__name__" == "__main__":
     app.run(debug=True)
