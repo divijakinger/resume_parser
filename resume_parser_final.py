@@ -35,6 +35,11 @@ import os
 import random
 import pytesseract as pt
 from PIL import Image
+from flashgeotext.geotext import GeoText
+from nltk.tokenize import sent_tokenize
+from nltk.tokenize import word_tokenize
+import tika
+from tika import parser
 
 #---------------------------------------------------------------------
 # Initializations
@@ -57,6 +62,7 @@ education2=set([i.lower() for i in education2 if type(i)==str])
 skills_data_csv = pd.read_csv("skills_superset.csv",engine='python')
 job_role_csv = pd.read_csv("roles.csv",engine='python')
 job_roles=set(job_role_csv['Job Role'])
+india = pd.read_json("cities.json")
 
 #-----------------------------------------------------------------------
 
@@ -108,8 +114,6 @@ def extract_text_from_image_api(filename):
 #     return final_string
 
 def extract_text_from_pdf(pdf_path):
-  import tika
-  from tika import parser
   parsedPDF = parser.from_file(pdf_path)
   resume_text = parsedPDF['content']
   return resume_text
@@ -433,9 +437,6 @@ def extract_languages(resume_text):
 
 # New Approach of Job Contextual Extraction
 
-import spacy
-import os
-
 
 
 def extract_job_role(resume_text):
@@ -620,6 +621,7 @@ def extract_all(job_strings,job_list,data):
   final=[]
   for i in range(len(job_strings)):
     job=job_list[i]
+    job=', '.join(job)
     experience=calculate_experience(job_strings[i])
     company=''
     if check:
@@ -632,8 +634,8 @@ def extract_all(job_strings,job_list,data):
         if c[0] in job_strings[i]:
           company=c[0].replace(',','')
           break
-    if [', '.join(job),experience,company] not in final:
-      final.append([', '.join(job),experience,company])
+    if [job,experience,company] not in final and (job!='' and experience!=' '):
+      final.append([job,experience,company])
   return final
 
 
@@ -693,3 +695,38 @@ def extract_all_companies_version(company_strings,company_list):
     if len(job)!=0:
       final.append([job[0],experience,company])
   return list(set(final))
+
+# Location extraction
+
+def sentence_finder(text: str, words: list) -> list:
+  sentences=sent_tokenize(text)
+  return [sentence for sentence in sentences if any(word.lower() in word_tokenize(sentence.lower()) for word in words)]
+
+def sentence_extractor(resume_text):
+  words = extract_name(resume_text).split(' ')
+  extracted_sentences = sentence_finder(resume_text, words)
+  cities_list = extract_location(extracted_sentences)
+
+  final_list = []
+  cities=set([i.lower() for i in india['city']])
+  try: 
+    for text in cities_list:
+      for place in text:
+        if place.lower() in cities:
+          final_list.append(place)
+        else:
+          pass
+  except:
+    pass
+  try:
+    return final_list[0]
+  except:
+    return ' '
+
+def extract_location(extracted_sentences):
+  final=[]
+  for text in extracted_sentences:
+    geotext = GeoText()
+    input_text = text
+    final.append(list(geotext.extract(input_text=input_text, span_info=True)['cities'].keys()))
+  return final

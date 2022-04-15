@@ -8,6 +8,7 @@ from flask_cors import CORS
 import time
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from collections import Counter
 
 conn = pymongo.MongoClient("mongodb+srv://root:root@deepblue.mcahp.mongodb.net/test")
 
@@ -66,11 +67,12 @@ def add_todo():
         college=get_college_2(resume_data)
         urls=get_url(resume_data)
         languages=extract_languages(resume_data)
+        location=sentence_extractor(resume_data)
         try:
             company=[i[1] for i in job_data]
         except:
             company=''
-        synopsis="Your Candidate {0} is a potential job candidate for your company with a qualification of {1} from {2} University. The candidate is well versed with the following skills: {3}. Here are the contact details :- Phone : {4} and Email : {5}".format(name,(', '.join(cert_degree)),(', '.join(list(set(college)))),(','.join(skills)),mobile,email)
+        synopsis="Your Candidate {0} is a potential job candidate for your company with a qualification of {1} from {2} University. The candidate is well versed with the following skills: {3}. Here are the contact details :- Phone : {4} and Email : {5}".format(name,(', '.join(cert_degree)),(', '.join(list(set(college)))),(' ,'.join(skills)),mobile,email)
         resume.insert_one(
             {
                 "Resume ID": resume_id,
@@ -85,7 +87,8 @@ def add_todo():
                 "Resume_data":resume_data,
                 "Urls":urls,
                 'Languages':languages,
-                "Synopsis":synopsis
+                "Synopsis":synopsis,
+                'Location':location
             }
         )
         resume_id += 1
@@ -214,6 +217,40 @@ def skill_filter():
             continue
         final.append(d)
     return {'data':final}
+
+@app.route('/analytics',methods=["GET"])
+def analytics():
+    low,mid,top,highest_percentage=0,0,0,0
+    data=resume.find()
+    temp_dicts=[]
+    for d in data:
+        percentage=d['match_percentage']
+        if highest_percentage<percentage:
+            highest_percentage=percentage
+        skills=d['Skills']
+        temp_dicts.append(Counter(skills))
+        try:
+            del d["_id"]
+        except:
+            continue
+        if percentage<40:
+            low+=1
+        elif percentage>=40 and percentage<70:
+            mid+=1
+        else:
+            top+=1
+    final=Counter({})
+    for t in temp_dicts:
+        final+=t
+    final=dict(final)
+    sorted_final = sorted(final.items(), key=lambda x: x[1], reverse=True)
+    sorted_skills=[i[0] for i in sorted_final]
+    try:
+        sorted_skills=sorted_skills[:5]
+    except:
+        pass
+    return {'percentage_table':[low,mid,top],'highest_percentage':highest_percentage,'top_skills':sorted_skills}
+
 
 if "__name__" == "__main__":
     app.run(debug=True)
